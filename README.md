@@ -13,7 +13,7 @@ permission to access the repo.
     python3 -m venv env
     source env/bin/activate
     pip install pelican markdown
-    pelican content -s settings.local.py
+    pelican -s settings.local.py
     cd output_local
     python -m pelican.server
 
@@ -29,7 +29,7 @@ have the most recent version of the site.
 
 When you save a file, you need to rebuild the site to see it. Use:
 
-    pelican content -s settings.local.py
+    pelican -s settings.local.py
 
 If you still have the server running, you'll see the new site when you reload it in your browser.
 
@@ -43,7 +43,7 @@ with your own SUNetID. (You will only be able to do this if you have access to t
     git add [whichever files you changed]
     git commit -m "A message explaining what I changed"
     git push
-    pelican content -s settings.published.py
+    pelican -s settings.published.py
     rsync -r output_published/* cproctor@rice.stanford.edu:/afs/.ir.stanford.edu/class/educ211/WWW
 
 ## More details
