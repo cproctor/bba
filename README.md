@@ -44,3 +44,7 @@ with your own SUNetID. (You will only be able to do this if you have access to t
     pelican content -s settings.published.py
     rsync -r output_published/* cproctor@rice.stanford.edu:/afs/.ir.stanford.edu/class/educ211/WWW
 
+## More details
+
+The site is built by a Python library called Pelican. It has [great documentation](http://docs.getpelican.com/en/stable/index.html). 
+
