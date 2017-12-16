@@ -13,6 +13,7 @@ permission to access the repo.
     python3 -m venv env
     pip install pelican
     pelican content -s settings.local.py
+    cd output_local
     python -m pelican.server
 
 Now you can open the site locally at [http://localhost:8000](http://localhost:8000).
@@ -28,15 +29,18 @@ When you save a file, you need to rebuild the site to see it. Use:
 
     pelican content -s settings.local.py
 
+If you still have the server running, you'll see the new site when you reload it in your browser.
+
 ## Publishing changes
 
-Once you are happy with your changes, you need to build the site for publication, push it to Stanford's servers, 
-and commit your work into the repository. Use the following commands--though make sure you replace `cproctor`
+Once you are happy with your changes, you need to commit your work back to the repository, 
+build the site for publication, and push it to Stanford's servers. Make sure you replace `cproctor`
 with your own SUNetID. (You will only be able to do this if you have access to the course directory.)
 
     git status
     git add [whichever files you changed]
     git commit -m "A message explaining what I changed"
     git push
-    rsync -r output/* cproctor@rice.stanford.edu:/afs/.ir.stanford.edu/class/educ211/WWW
+    pelican content -s settings.published.py
+    rsync -r output_published/* cproctor@rice.stanford.edu:/afs/.ir.stanford.edu/class/educ211/WWW
 

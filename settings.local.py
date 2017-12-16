@@ -6,6 +6,7 @@ AUTHOR = 'BB&A Teaching Team'
 SITENAME = 'Beyond Bits & Atoms'
 SITEURL = ''
 SITESUBTITLE = "Stanford EDUC 211 & 236 / CS 402 & 402L" 
+OUTPUT_PATH = "output_local"
 
 PATH = 'content'
 
