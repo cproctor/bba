@@ -64,6 +64,7 @@ Date: 2017-12-15
             <a class="assignment-out" href="{filename}/assignments/final.md">Out: Final</a>
             Stations: 
                 <a class="module" href="{filename}/modules/e-textiles.md">E-Textiles</a>
+                <a class="module" href="{filename}/modules/tangible-tables.md">Tangible interface tables</a>
         </td>
     </tr>
     <tr>
@@ -77,7 +78,6 @@ Date: 2017-12-15
             <a class="assignment-out" href="{filename}/assignments/final.md#user-research">Out: User research</a>
             Stations: 
                 <a class="module" href="{filename}/modules/physical-computing.md">Physical computing</a>
-                <a class="module" href="{filename}/modules/tangible-tables.md">Tangible interface tables</a>
         </td>
     </tr>
     <tr>
