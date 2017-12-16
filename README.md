@@ -11,7 +11,8 @@ permission to access the repo.
     git clone https://github.com/cproctor/bba
     cd bba
     python3 -m venv env
-    pip install pelican
+    source env/bin/activate
+    pip install pelican markdown
     pelican content -s settings.local.py
     cd output_local
     python -m pelican.server
