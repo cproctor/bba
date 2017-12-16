@@ -5,6 +5,16 @@ Beyond Bits & Atoms teaches students to design, build, and critique construction
 
 ## Teaching team
 
+### Class
+
+#### Paulo Blikstein
+#### Richard Davis
+
+### Lab
+
+#### Paulo Blikstein
+#### Chris Proctor
+
 ## Policies
 
 ## Grading
