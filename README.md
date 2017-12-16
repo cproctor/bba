@@ -23,7 +23,8 @@ Now you can open the site locally at [http://localhost:8000](http://localhost:80
 Generally, you will only need to change files in the `content` directory. These are plain old text 
 files you can edit with any text editor. They are in a simple langauge called 
 [Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf); 
-you can basically just write text. 
+you can basically just write text. Before you start editing, run `git pull` to make sure you 
+have the most recent version of the site.
 
 When you save a file, you need to rebuild the site to see it. Use:
 
