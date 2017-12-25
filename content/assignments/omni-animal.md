@@ -1,4 +1,37 @@
 Title: Omni Animal
 Date: 2018-01-11
 
-Coming.
+Design and build an Omni-Animal. In this assignment, you will get comfortable with working in the TLTL, and with using the laser cutter to prototype two- and three-dimensional objects. Alternative: Propose creating another object, 
+useful or beautiful, of similar complexity as an Omni-Animal. Your project should still meet the same technical requirements. 
+
+- ** 2D design: ** Use Corel Draw or another 2D design tool to create vector-based and raster-based designs. 
+- ** Computational design: ** Write a program to generate a raster or vector image in Scratch, Python, or another interface.
+- ** Cutting out shapes: ** Cut out shapes defined by vector images using the lasercutter. 
+- ** Etching: ** Etch raster-based images using the lasercutter. 
+- ** Connecting pieces: ** Create three-dimensional objects from two-dimensional components, using three types of connections: fasteners, press-fit with adhesive, and snap connector. (Your animal should use each type of connection at least once.)
+
+## Assessment
+
+- ** &#10003; + ** Meets all requirements described above and develops a substantially new technique. Provide a write-up for the website explaining the technique and how to use it. 
+- ** &#10003; ** Meets all requirements described above.
+- ** &#10003; - ** Does not meet the requirements described above.
+
+## Steps
+
+### Design
+Using paper, cardboard, and 2D design tools, develop an idea for your omni-animal. Use <a class="module" href="{filename}/modules/scratch.md">computational design</a> to generate some shapes to be cut or etched. You may find it helpful to use the provided omni-animal template as a starting point (
+    [pdf]({filename}/resources/omni_animal_template_3mm.pdf)
+    [ai]({filename}/resources/omni_animal_template_3mm.ai)
+) Thanks to Rich Davis for creating the template.
+
+![Omni Animal template]({filename}/images/omni_animal.jpg)
+
+### Prototype
+Use the <a class="module" href="{filename}/modules/lasercutter.md">laser cutter</a> to fabricate your design. 
+As cardboard is cheap, robust, and easy to work with, it makes an excellent prototyping material. Always cut your initial iterations with cardboard. Consider cutting a prototype before you have finalized your design--many people find 
+physical prototypes help their design work. 
+
+Use cardboard to cut initial iterations and switch to wood only once you have finalized the design of the Omni-Animal. This means also that the universal snap fit might not work well in the cardboard. Ignore that until you switch to wood. Remember though that the switch from cardboard to wood might require small adjustments in the size of gaps. You can import the template provided below into CorelDraw.
+
+### Build
+Once you have a final prototype, cut your final pieces out of plywood and assemble them. Note that cardboard's rigidity and thickness will not perfectly match plywood, so save time for final tweaks.

@@ -140,7 +140,7 @@ Date: 2017-12-15
         <td>
             <div class="topic">Expo</div>
             <a class="assignment-due" href="{filename}/assignments/final.md">Due: Final</a>
-            Beyond Bits & Atoms Expo, CERAS lobby. 4:30-6:00pm.
+            <a href="{filename}/logistics/expo.md">Beyond Bits & Atoms Expo</a>, CERAS lobby. 4:30-6:00pm.
         </td>
     </tr>
 </table>
