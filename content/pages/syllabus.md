@@ -19,6 +19,7 @@ Date: 2017-12-15
             <a class="assignment-out" href="{filename}/assignments/omni-animal.md">Out: Omni Animal</a>
             Introductions, lab norms. 
             Stations: 
+                <a class="module" href="{filename}/modules/safety.md">Lab norms and safety</a>
                 <a class="module" href="{filename}/modules/lasercutter.md">Laser cutter</a>
                 <a class="module" href="{filename}/modules/scratch.md">Scratch</a>
         </td>
