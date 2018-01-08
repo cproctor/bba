@@ -3,6 +3,7 @@ Date: 2017-01-11
 
 Coming. 
 
+---
 ## Development notes
 
 Need to make sure we address at least the following: 
