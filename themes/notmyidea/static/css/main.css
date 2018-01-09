@@ -495,4 +495,12 @@ img {
     width: 100%;
 }
 
+li {
+    margin-bottom: 0;
+    margin-top: 0;
+}
 
+ul {
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+}
