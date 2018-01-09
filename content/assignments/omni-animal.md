@@ -10,6 +10,19 @@ useful or beautiful, of similar complexity as an Omni-Animal. Your project shoul
 - ** Etching: ** Etch raster-based images using the lasercutter. 
 - ** Connecting pieces: ** Create three-dimensional objects from two-dimensional components, using three types of connections: fasteners, press-fit with adhesive, and snap connector. (Your animal should use each type of connection at least once.)
 
+## Deliverables
+
+Be ready to show off your omni animal at the beginning of class on Week 2. On Canvas, please submit a document containing the following:
+
+- Some evidence of your planning process. This might include photos, sketches, early prototypes. 
+- The code you used to create part of your project. If you used Scratch, please share the project and include a link. If you used another platform (for example, Python's `turtle` library), please 
+- Images of your final cut files.
+- An informal reflection (~500 words) on your work in this project. Some questions you might choose to address:
+    - What did you learn in this project? Describe your learning process. 
+    - What was hard for you? Where did you get stuck, and what helped?
+    - Consider the theoretical readings you have done so far. Do they ring true for you in your work on this project?
+    - What new ideas did this project spark? Ideas for your final project?
+
 ## Assessment
 
 - ** &#10003; + ** Meets all requirements described above and develops a substantially new technique. Provide a write-up for the website explaining the technique and how to use it. 
@@ -19,7 +32,7 @@ useful or beautiful, of similar complexity as an Omni-Animal. Your project shoul
 ## Steps
 
 ### Design
-Using paper, cardboard, and 2D design tools, develop an idea for your omni-animal. Use <a class="module" href="{filename}/modules/scratch.md">computational design</a> to generate some shapes to be cut or etched. You may find it helpful to use the provided omni-animal template as a starting point (
+Using paper, cardboard, and 2D design tools, develop an idea for your omni-animal. Use <a class="module" href="{filename}/modules/scratch.md">algorithmic design</a> to generate some shapes to be cut or etched. You may find it helpful to use the provided omni-animal template as a starting point (
     [pdf]({filename}/resources/omni_animal_template_3mm.pdf)
     [ai]({filename}/resources/omni_animal_template_3mm.ai)
 ) Thanks to Rich Davis for creating the template.
@@ -30,8 +43,6 @@ Using paper, cardboard, and 2D design tools, develop an idea for your omni-anima
 Use the <a class="module" href="{filename}/modules/lasercutter.md">laser cutter</a> to fabricate your design. 
 As cardboard is cheap, robust, and easy to work with, it makes an excellent prototyping material. Always cut your initial iterations with cardboard. Consider cutting a prototype before you have finalized your design--many people find 
 physical prototypes help their design work. 
-
-Use cardboard to cut initial iterations and switch to wood only once you have finalized the design of the Omni-Animal. This means also that the universal snap fit might not work well in the cardboard. Ignore that until you switch to wood. Remember though that the switch from cardboard to wood might require small adjustments in the size of gaps. You can import the template provided below into CorelDraw.
 
 ### Build
 Once you have a final prototype, cut your final pieces out of plywood and assemble them. Note that cardboard's rigidity and thickness will not perfectly match plywood, so save time for final tweaks.
