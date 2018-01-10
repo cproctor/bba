@@ -117,9 +117,7 @@ Date: 2017-12-15
             <div class="topic">Prepare for crits</div>
         </td>
         <td>
-            <div class="topic">Crits</div>
-            <a class="assignment-due" href="{filename}/assignments/final.md#prototype">Due: Project prototype</a>
-            Class meets 6-8pm. Students give 5-minute presentations on projects with prototypes; outside critics (teachers, designers, academics, business-people) provide feedback and discuss ideas.
+            <div class="topic">Workshop final projects</div>
         </td>
     </tr>
     <tr>
@@ -130,8 +128,9 @@ Date: 2017-12-15
             <a class="assignment-out" href="{filename}/assignments/final.md#lit-review">Out: Theory & Lit review</a>
         </td>
         <td>
-            <div class="topic">Working studio</div>
-            Schedule project meetings with teaching team.
+            <div class="topic">Crits</div>
+            <a class="assignment-due" href="{filename}/assignments/final.md#prototype">Due: Project prototype</a>
+            Class meets 6-8pm. Students give 5-minute presentations on projects with prototypes; outside critics (teachers, designers, academics, business-people) provide feedback and discuss ideas.
         </td>
     </tr>
     <tr>
@@ -140,8 +139,6 @@ Date: 2017-12-15
             <div class="topic">Conclusion, Revising papers</div>
         </td>
         <td>
-            <div class="topic">Working studio</div>
-            Schedule project meetings with teaching team.
         </td>
     </tr>
     <tr>
