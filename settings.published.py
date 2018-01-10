@@ -17,7 +17,9 @@ DEFAULT_LANG = 'en'
 THEME = 'themes/notmyidea'
 
 DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
 
+STATIC_PATHS = ['images', 'resources']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

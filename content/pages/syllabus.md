@@ -27,9 +27,10 @@ Date: 2017-12-15
         <td>
             <div class="topic">Hands-on constructionism</div>
             <a class="assignment-out" href="{filename}/assignments/omni-animal.md">Out: Omni Animal</a>
-            Introductions, lab norms.
+            <a class="module" href="https://docs.google.com/presentation/d/1zK7O8ZpsNxL7t92wjXTSvj1MfMH-W-hcOojj1xWWgbM/edit?usp=sharing">Slides</a>. Introductions and housekeeping.
             Stations:
-                <a class="module" href="{filename}/modules/lasercutter.md">Laser cutter</a>
+                <a class="module" href="{filename}/modules/safety.md">Lab norms and safety</a>,
+                <a class="module" href="{filename}/modules/lasercutter.md">Laser cutter</a>,
                 <a class="module" href="{filename}/modules/scratch.md">Scratch</a>
         </td>
     </tr>
@@ -71,11 +72,11 @@ Date: 2017-12-15
             <a class="assignment-out" href="{filename}/assignments/final.md">Out: Final</a>
         </td>
         <td>
-            <div class="topic">Equity in making</div>
+            <div class="topic">Computational literacies</div>
             <a class="assignment-out" href="{filename}/assignments/final.md">Out: Final</a>
-            Introduce final project and brainstorm project ideas. Stations:
-                <a class="module" href="{filename}/modules/e-textiles.md">E-Textiles</a>
-                <a class="module" href="{filename}/modules/tangible-tables.md">Tangible interface tables</a>
+            Share Dream Toy user research. Introduce final project. Stations:
+                <a class="module" href="{filename}/modules/processing.md">Processing</a>
+                <a class="module" href="{filename}/modules/code.md">Code</a>
         </td>
     </tr>
     <tr>
@@ -87,28 +88,27 @@ Date: 2017-12-15
             <div class="topic">Technology design for learning</div>
         </td>
         <td>
-            <div class="topic">Embodied cognition</div>
+            <div class="topic">Equity in making</div>
             <a class="assignment-due" href="{filename}/assignments/dream-toy.md">Due: Dream Toy</a>
             <a class="assignment-out" href="{filename}/assignments/final.md#user-research">Out: User research</a>
             Present Dream Toys and give them to children. Stations:
-                <a class="module" href="{filename}/modules/physical-computing.md">Physical computing</a>
-                <a class="module" href="{filename}/modules/3d-modeling.md">3D modeling</a>
+                <a class="module" href="{filename}/modules/e-textiles.md">E-Textiles</a>
+                <a class="module" href="{filename}/modules/arduino.md">Arduino</a>
         </td>
     </tr>
     <tr>
         <td>6<br /><span class="date">Feb 15</span></td>
         <td>
-            <div class="topic">Representations</div>
+            <div class="topic">Embodied computing</div>
             <a class="assignment-due" href="{filename}/assignments/tech-in-wild.md">Due: Tech in the Wild</a>
             <a class="assignment-out" href="{filename}/assignments/tech-critique.md">Out: Tech critique</a>
         </td>
         <td>
-            <div class="topic">Computational literacies</div>
+            <div class="topic">Thinking with tools and media</div>
             <a class="assignment-due" href="{filename}/assignments/final.md#user-research">Due: User research</a>
             <a class="assignment-out" href="{filename}/assignments/final.md#prototype">Out: Project prototype</a>
             Share final project user reserarch; iterate design ideas. Discuss crits next week and functional prototypes. Stations:
-                <a class="module" href="{filename}/modules/arduino.md">Arduino</a>
-                <a class="module" href="{filename}/modules/processing.md">Processing</a>
+                <a class="module" href="{filename}/modules/tangible-tables.md">Tangible interface tables</a>
         </td>
     </tr>
     <tr>
@@ -156,7 +156,7 @@ Date: 2017-12-15
         <td>
             <div class="topic">Expo</div>
             <a class="assignment-due" href="{filename}/assignments/final.md">Due: Final</a>
-            Beyond Bits & Atoms Expo, CERAS lobby. 4:30-6:00pm.
+            <a href="{filename}/logistics/expo.md">Beyond Bits & Atoms Expo</a>, CERAS lobby. 4:30-6:00pm.
         </td>
     </tr>
 </table>
