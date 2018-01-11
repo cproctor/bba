@@ -38,4 +38,4 @@ You are welcome to use the espresso maker as long as you clean up after yourself
 - Empty your coffee grounds, rinse the basket and the espresso cup, close up the coffee, and put it away. 
 - If you used the steam wand to froth milk, clean it with a wet paper towel. 
 - Leave the espresso machine ready for the next user. 
-- Turn the machine off unless someone else is waiting to use it.
+- Turn off the machine and all switches unless someone else is waiting to use it.
