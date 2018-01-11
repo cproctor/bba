@@ -7,11 +7,12 @@ Date: 2017-01-02
 # Safety
 - Be sure that all the support systems (cooling, air, exhaust) are on before using a laser. 
 - Be sure you are using materials allowed in the laser. Some materials catch on fire or release poisonous gas when used with a laser cutter. PVC and vinyl are particularly toxic. Do not cut unknown materials--it is your responsibility to make sure materials are OK to cut. 
+- Make sure you know how to pause and stop the machine. 
 - Double-check the power and speed settings for your material. 
 - The laser beam could do a lot of harm if it escaped from the chamber. Always make sure the glass is closed. Don't put mirrors in the chamber. Make sure the crumb tray is installed. 
-- If anything seems funny, stop and let a TA know. 
+- If anything seems funny, pause and let a TA know. 
 - If a fire starts inside the chamber, do not open it. Immediately cut power to the machine (stop button or pull the plug), turn off the compressed air and exhaust, and get the fire extinguisher. In most cases, the fire will go right out. 
-- Clean up after yourself. Dust and scrap left in the laser cutter can ignite. 
+- Clean up after yourself. Dust and scraps left in the laser cutter can ignite. 
 
 ---
 # Usage
@@ -24,9 +25,10 @@ The GlowForge is controlled via [a webapp](https://app.glowforge.com). Get the l
 - Be sure the exhaust fan is on whenever the GlowForge is running.
 
 ## Full-Spectrum Laser
-The FS laser has a driver and software called [RetinaEngrave](https://fslaser.com/RetinaEngrave). The design software is only for Windows, but drivers are provided for Windows or Mac. 
+The FS laser has a driver and design software called [RetinaEngrave](https://fslaser.com/RetinaEngrave). The design software is only for Windows, but drivers are provided for Windows or Mac. Some lab computers have RetinaEngrave installed.
 
 ### Setup
+- Currently, we can only connect to the FS laser using Ethernet. Plug an ethernet cable into your computer and the laser (the port is on the right side.)
 - Turn on the water chiller ("Industrial chiller"). It's normal for it to shriek when you turn it on. 
 - Open the compressed air valve (orange). 
 - Lower the sash before cutting so that exhaust stays out of the lab. 
