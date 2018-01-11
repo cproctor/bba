@@ -29,9 +29,8 @@ Date: 2017-12-15
         <td>
             <div class="topic">Hands-on constructionism</div>
             <a class="assignment-out" href="{filename}/assignments/omni-animal.md">Out: Omni Animal</a>
-            <a class="module" href="https://docs.google.com/presentation/d/1zK7O8ZpsNxL7t92wjXTSvj1MfMH-W-hcOojj1xWWgbM/edit?usp=sharing">Slides</a>. Introductions and housekeeping.
+            <a class="module" href="https://docs.google.com/presentation/d/1zK7O8ZpsNxL7t92wjXTSvj1MfMH-W-hcOojj1xWWgbM/edit?usp=sharing">Slides</a>. Introductions, housekeeping, <a href="{filename}/modules/safety.md">lab norms and safety</a>.
             Stations:
-                <a class="module" href="{filename}/modules/safety.md">Lab norms and safety</a>,
                 <a class="module" href="{filename}/modules/lasercutter.md">Laser cutter</a>,
                 <a class="module" href="{filename}/modules/scratch.md">Scratch</a>
         </td>

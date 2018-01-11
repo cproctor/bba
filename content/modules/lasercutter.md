@@ -27,6 +27,7 @@ The GlowForge is controlled via [a webapp](https://app.glowforge.com). If you do
 - Press print in the app.
 - Push the print button on the GlowForge.
 
+---
 ## Full-Spectrum Laser Usage
 The FS laser has a driver and design software called [RetinaEngrave](https://fslaser.com/RetinaEngrave). The design software is only for Windows, but drivers are provided for Windows or Mac. Some lab computers have RetinaEngrave installed; you should also be able to install it on your own machine.
 
@@ -36,6 +37,7 @@ The FS laser has a driver and design software called [RetinaEngrave](https://fsl
 - Open the compressed air valve (orange). 
 - Lower the sash before cutting so that exhaust stays out of the lab. 
 
+---
 ## Epilog Usage
 The Epilog is currently out of service until we replace the burned-out laser. Check for updates here. 
 
