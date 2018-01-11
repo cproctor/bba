@@ -16,13 +16,19 @@ Date: 2017-01-02
 
 ---
 # Usage
+
 You need a raster and/or vector image to tell the laser cutter what to engrave and/or cut. To generate the image, you may use the laser cutter's proprietary software, third party software (Adobe creative suite, CorelDraw, InkScape, Gimp, etc.), download images, or generate them with code. Please have your image ready before taking up time on the physical machine. 
 
 ## Glowforge
-The GlowForge is controlled via [a webapp](https://app.glowforge.com). Get the login credentials from a TA, and then you can use any computer to control the GlowForge. 
+The GlowForge is controlled via [a webapp](https://app.glowforge.com). If you do not have an account yet, ask a TA.
 
 ### Setup
-- Be sure the exhaust fan is on whenever the GlowForge is running.
+- Turn on the machine. (The switch is on the back.)
+- Turn on the mobile hotspot from the laptop stationed to the right of the laser cutters.
+- Use the app to prepare your job.
+- Turn on the exhaust fan before starting the job.
+- Press print in the app.
+- Push the print button on the GlowForge.
 
 ## Full-Spectrum Laser
 The FS laser has a driver and design software called [RetinaEngrave](https://fslaser.com/RetinaEngrave). The design software is only for Windows, but drivers are provided for Windows or Mac. Some lab computers have RetinaEngrave installed.
