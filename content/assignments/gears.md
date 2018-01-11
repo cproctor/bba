@@ -1,4 +1,4 @@
-Title: "Gears" Essay
+﻿Title: "Gears" Essay
 Date: 2018-02-01
 
 Write a “Gears” essay – a short essay on “evocative” objects from your childhood/youth which have had an important impact on your intellectual life, in the same spirit of Papert’s foreword to his book Mindstorms – available here:
@@ -12,3 +12,14 @@ As preparation for this assignment, read the Introduction and 2-3 chapters from 
 Your task:
 
 Write an essay in Google Docs and upload a link to Canvas (due Tuesday at 11:59 PM). Make sure you set permissions so we can comment on your document. The essay should have more or less the same length as the one from Papert or the ones from Turkle's book---800-1000 words---but we are flexible if you want to write more. Feel free to add pictures/videos and other media.
+
+Rubric -- this is how we will assess your essay:
+
+Approaches expectations 
+- Short and vague
+- Object/experience/idea chosen is not evocative or generative
+- Object/experience/idea chosen does not relate to meaningful learning or educational experiences
+
+Meets or exceeds expectations
+- Describes experiences in a precise and meaningful way
+- Object/experience/idea chosen is evocative or generative, and parallels well with Papert's Gears essay
