@@ -19,16 +19,16 @@ Date: 2017-12-15
             Introduction and Overview
             <h4>Readings Due</h4>
             <ul>
-            <li>Mindstorms Preface
-            <li>Mindstorms Introduction
+            <li><a href="http://www.papert.org/articles/GearsOfMyChildhood.html">Mindstorms Preface</a>
+            <li><a href="http://stanford.edu/class/educ236x/Archives/handouts/Week1/Readings/mindstorms-intro.pdf">Mindstorms Introduction</a>
             </ul>
             <h4>Assignments</h4>
             <a class="assignment-out" href="{filename}/assignments/gears.md">Out: Your Personal "Gears" Essay</a>
         </td>
         <td>
             <h4>Topics</h4>
-                Introductions, <a href="{filename}/modules/safety.md">lab norms and safety</a>, 
-                    <a class="module" href="{filename}/modules/lasercutter.md">Laser cutter &amp; 2D design</a>, 
+                Introductions, <a href="{filename}/modules/safety.md">lab norms and safety</a>,
+                    <a class="module" href="{filename}/modules/lasercutter.md">Laser cutter &amp; 2D design</a>,
                     <a class="module" href="{filename}/modules/scratch.md">Scratch</a>.
                 (<a class="module" href="https://docs.google.com/presentation/d/1zK7O8ZpsNxL7t92wjXTSvj1MfMH-W-hcOojj1xWWgbM/edit?usp=sharing">Lab 1 slides</a>)
             <h4>Assignments</h4>
@@ -42,10 +42,10 @@ Date: 2017-12-15
             Constructionism
             <h4>Readings Due</h4>
             <ul>
-                <li>Mindstorms Ch.1
-                <li>Mindstorms Ch. 5
-                <li>Evocative objects Introduction, 1-2 chapters of your choosing
-                <li>Papert on Piaget
+                <li><a href="https://canvas.stanford.edu/files/2496065/download?download_frd=1">Mindstorms Ch.1</a>
+                <li><a href="https://canvas.stanford.edu/files/2496065/download?download_frd=1">Mindstorms Ch. 5</a>
+                <li><a href="https://www.dropbox.com/s/i0rfyzhm0r9q33y/Evocative%20Objects.pdf?dl=0">Evocative objects Introduction, 1-2 chapters of your choosing</a>
+                <li><a href="https://canvas.stanford.edu/files/2496056/download?download_frd=1">Papert on Piaget</a>
             </ul>
             <h4>Assignments</h4>
             <a class="assignment-due" href="{filename}/assignments/gears.md">Due: Your Personal "Gears" Essay</a>
@@ -75,7 +75,7 @@ Date: 2017-12-15
         <td>
             <h4>Topics</h4>
             User research for pedagogical design.
-                <a class="module" href="{filename}/modules/cnc.md">CNC</a>, 
+                <a class="module" href="{filename}/modules/cnc.md">CNC</a>,
                 <a class="module" href="{filename}/modules/silicone.md">Silicone casting</a>
             <h4>Assignments</h4>
             <a class="assignment-due" href="{filename}/assignments/rube-goldberg.md">Due: Rube Goldberg</a>
@@ -107,7 +107,7 @@ Date: 2017-12-15
         <td>
             <h4>Topics</h4>
             Share Dream Toy user research. Introduce final project.
-                <a class="module" href="{filename}/modules/processing.md">Processing</a>, 
+                <a class="module" href="{filename}/modules/processing.md">Processing</a>,
                 <a class="module" href="{filename}/modules/code.md">Code</a>
             <h4>Assignments</h4>
             <a class="assignment-out" href="{filename}/assignments/final.md">Out: Final</a>
@@ -134,7 +134,7 @@ Date: 2017-12-15
         <td>
             <h4>Topics</h4>
             Present Dream Toys and give them to children.
-                <a class="module" href="{filename}/modules/e-textiles.md">E-Textiles</a>, 
+                <a class="module" href="{filename}/modules/e-textiles.md">E-Textiles</a>,
                 <a class="module" href="{filename}/modules/arduino.md">Arduino</a>
             <h4>Assignments</h4>
             <a class="assignment-due" href="{filename}/assignments/dream-toy.md">Due: Dream Toy</a>
@@ -234,7 +234,7 @@ Date: 2017-12-15
     <tr>
         <td>Week 10<br /><span class="date">Mar 15</span></td>
         <td colspan="2">
-            In class, students present final projects. 
+            In class, students present final projects.
             <a href="{filename}/logistics/expo.md">Beyond Bits & Atoms Expo</a>, CERAS lobby. 4:30-6:00pm.
             <h4>Assignments</h4>
             <a class="assignment-due" href="{filename}/assignments/final.md">Due: Final</a>
