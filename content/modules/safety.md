@@ -35,7 +35,7 @@ These safety norms apply at all times in the lab. There are <a href="{category}m
 
 # Machine & Tool Sign-Up
 
-- You may sign up for a machine for up to 1 hour. To sign up, use the <a href="https://docs.google.com/spreadsheets/d/1lh3cSY9lvaJ-u0Ev4j6a9LIhPWYI8vKq1GYJeFhhH8A/edit?usp=sharing">signup spreadsheet</a>. You can't sign up for slots less than an hour in the future. 
+- You may sign up for a machine for up to 1 hour. To sign up, use the <a href="https://docs.google.com/spreadsheets/d/1Eu-ptDhisIF9EFyq2_0oOZO-zJ2S1ZYUIt5EiyIJap4/edit?usp=sharing">signup spreadsheet</a>. You can't sign up for slots less than an hour in the future. 
 - Sign up for up to 3 slots per week, and 1 slot per day.
 - At the end of your time, regardless of whether you are done, your tool/machine must be clean and ready for the next person to use.  
 - If nobody is signed up to use a tool, it's first-come first-served. If someone is waiting to use a tool and neither of you is signed up, rotate after an hour. So if (heaven forbid) you've been using a tool for a couple of hours and someone else arrives to use the tool, you may use it for an additional hour and then need to turn it over to the next user. 

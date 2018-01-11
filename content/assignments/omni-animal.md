@@ -17,11 +17,7 @@ Be ready to show off your Omni-Animal at the beginning of class on Week 2. On Ca
 - Some evidence of your planning process. This might include photos, sketches, early prototypes. 
 - The code you used to create part of your project. If you used Scratch, please share the project and include a link. If you used another platform (for example, Python's `turtle` library), please 
 - Images of your final cut files.
-- Your journal should also show some evidence of your planning process, and an informal reflection (~500 words). Some questions you might choose to address:
-    - What did you learn in this project? Describe your learning process. 
-    - What was hard for you? Where did you get stuck, and what helped?
-    - Consider the theoretical readings you have done so far. Do they ring true for you in your work on this project?
-    - What new ideas did this project spark? Ideas for your final project?
+- Don't forget to update your <a href="{filename}/modules/journal.md">lab journal</a>.
 
 ## Assessment
 

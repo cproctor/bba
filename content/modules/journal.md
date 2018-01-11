@@ -3,6 +3,7 @@ Date: 2018-01-11
 Slug: labjournal
 
 We’d like for you to keep a journal on your learning through Lab Projects as the weeks progress. We want you to pay special attention to the choices that you make as you explore multiple ideas, leverage social and material resources and seek feedback. It would be useful to draw on how your experiences connect to models of learning from critical pedagogy, constructivism and constructionism.
+
 In addition, we’d like for you to use this space to reflect on how you draw on your prior interests, if at all, to inform your projects. For example, if you enjoy writing fiction or making film, maybe you draw on them as you work on projects and develop new skills. (You don’t have to.)
 The above ideas are not comprehensive, and we’d like for you to keep this as a reflection journal. The goals of this assignment are two-fold:
 
