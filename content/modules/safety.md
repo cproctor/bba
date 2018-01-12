@@ -1,4 +1,4 @@
-Title: Lab safety
+Title: Lab safety and norms
 Date: 2017-01-11
 
 These safety norms apply at all times in the lab. There are <a href="{category}modules">additional safety precautions for each tool</a>; make sure you read these before using a tool.
@@ -15,7 +15,7 @@ These safety norms apply at all times in the lab. There are <a href="{category}m
 - Hair must be tied up in a bun. No loose hair around face.
 - No jewelry (including watches, bangles, necklaces, etc.). Post earrings are acceptable.
 - You must wear closed-toe shoes.
-- Be mindful of dust—it is carcinogenic! Always vacuum, and if there is excessive dust, wear a mask.
+- Be mindful of dust—it is carcinogenic! When available, connect the machine you are using to dust collection. Otherwise, vacuum up dust when you finish. Wear a mask when you are generating dust.
 - Safety glasses are required at all times, even if you are not actively using a machine. 
 - Wood chips may fly off of someone else’s machine unexpectedly. We value your vision!
 
@@ -34,11 +34,14 @@ These safety norms apply at all times in the lab. There are <a href="{category}m
 - Tabletops must be clean when you leave.
 
 # Machine & Tool Sign-Up
+We want a collegial and supportive community in the lab, and encourage lab users to help accommodate each others' needs. At the same time, it's helpful to know when you have guaranteed time on the machines. So we will use the following norms for tool signups. 
 
-- You may sign up for a machine for up to 1 hour. To sign up, use the <a href="https://docs.google.com/spreadsheets/d/1Eu-ptDhisIF9EFyq2_0oOZO-zJ2S1ZYUIt5EiyIJap4/edit?usp=sharing">signup spreadsheet</a>. You can't sign up for slots less than an hour in the future. 
-- Sign up for up to 3 slots per week, and 1 slot per day.
-- At the end of your time, regardless of whether you are done, your tool/machine must be clean and ready for the next person to use.  
-- If nobody is signed up to use a tool, it's first-come first-served. If someone is waiting to use a tool and neither of you is signed up, rotate after an hour. So if (heaven forbid) you've been using a tool for a couple of hours and someone else arrives to use the tool, you may use it for an additional hour and then need to turn it over to the next user. 
-- 
+- You may reserve machines in blocks of up to 2 hours. To sign up, use the <a href="https://docs.google.com/spreadsheets/d/1Eu-ptDhisIF9EFyq2_0oOZO-zJ2S1ZYUIt5EiyIJap4/edit?usp=sharing">signup spreadsheet</a>. You can't sign up for blocks less than an hour in the future. 
+- You can't un-reserve time blocks; other people are planning around your reservations.
+- Sign up for up to 3 blocks per week, up to 1 block per day, up to 2 hours per block.
+- At the end of your time block, regardless of whether you are done, your tool/machine must be clean and ready for the next person to use.  
+- If you're not in the lab within 15 minutes of the beginning of your reservation, your reservation is cancelled. (If you come more than 15 minutes late and someone else is using the machine, you can't kick them off.)
+- If nobody is signed up to use a tool, it's first-come first-served. If someone is waiting to use a tool and neither of you is signed up, rotate after an hour. So if you've been using a tool for a couple of hours and someone else arrives to use the tool, you may use it for an additional hour and then need to turn it over to the next user. 
+- If you experience conflict around machine use, please feel free to contact a member of the teaching team. 
 
 
