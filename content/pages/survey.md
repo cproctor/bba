@@ -1,5 +1,6 @@
 Title: Prospective Student Survey
 Date: 2017-12-15
+Status: hidden
 
 Students interested in taking Beyond Bits & Atoms in Winter 2018 should complete this survey by January 5, 2018. 
 This survey will be used to determine priority enrollment (students given priority enrollment will be contacted 
