@@ -11,7 +11,7 @@ Link to the <a href="https://scratch.mit.edu/"> Scratch website </a>
 
 Click 'Create' on the top left corner to get started! To save your work, create an account. <br>
 
-The slides from class can be found here. 
+The slides from class can be found <a href="https://docs.google.com/presentation/d/1dbHME1jEVS8Zwnk8gYwdlpOdMdTj5By8cbdCdrYawy4/edit?usp=sharing"> here. </a> 
 
 Topics introduced in this lab include - polygons, looping, encapsulation, parameters, recursion
 
