@@ -5,7 +5,7 @@ Date: 2017-12-15
 
 
     
-<b> Getting Started </b>
+## Getting Started
 
 Link to the <a href="https://scratch.mit.edu/"> Scratch website </a>
 
@@ -20,10 +20,19 @@ Topics introduced in this lab include - polygons, looping, encapsulation, parame
 - See <a class="assignment-out" href="{filename}/assignments/omni-animal.md">Omni Animal</a> for 
   the requirements of how your Scratch design should be incorporated into the Omni Animal. 
   
-- Use  <a href="https://scratch.mit.edu/projects/196673177/"> SVG converter</a> to use your Scratch design to cut (with vectors) as well as etch (with raster-based image). 
 
   
   
   If you are curious about work people have done coding Papert's Turtle form lecture, check out <a href="https://github.com/donkirkby/live-py-plugin/blob/master/test/PySrc/tools/svg_example.py">svg turtle</a> library
+
+---
+## Scratch and CSV
+
+If you want to use Scratch to generate cuts rather than engravings, you'll need to create a vector file. One way to do this is by using Inkscape's Path &gt; Trace Bitmap function, which tries to fit vectors to a raster-based image. But you can also use  <a href="https://scratch.mit.edu/projects/196673177/"> the SVG Converter Scratch project</a> to generate an SVG image directly. The video below gives a demo ([Here's the project](https://scratch.mit.edu/projects/197999534/#editor) shown in the demo.)
+
+<video controls>
+    <source src="https://stanford.edu/~cproctor/snowflake_demo.m4v">
+</video>
+
 
 

@@ -509,3 +509,7 @@ ul {
     background-color: #C74451;
     color: white;
 }
+
+video {
+    width: 100%;
+}
