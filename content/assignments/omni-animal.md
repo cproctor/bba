@@ -15,9 +15,9 @@ useful or beautiful, of similar complexity as an Omni-Animal. Your project shoul
 Be ready to show off your Omni-Animal at the beginning of class on Week 2. On Canvas, please submit a document containing the following:
 
 - Some evidence of your planning process. This might include photos, sketches, early prototypes. 
-- The code you used to create part of your project. If you used Scratch, please share the project and include a link. If you used another platform (for example, Python's `turtle` library), please 
+- The code you used to create part of your project. If you used Scratch, please share the project and include a link. If you used another platform (for example, Python's `turtle` library), please submit the code, a link to the repo, etc. 
 - Images of your final cut files.
-- Don't forget to update your <a href="{filename}/modules/journal.md">lab journal</a>.
+- <del>Don't forget to update your <a href="{filename}/modules/journal.md">lab journal</a>.</del> Because our paper journals have not yet arrived, you have two options for this week. If you are planning to use a digital journal anyway (as described on the <a href="{filename}/modules/journal.md">lab journal</a> page), go ahead and do that. If you are planning to use a paper journal, please submit your journal with your Omni-Animal assignment for this week only. 
 
 ## Assessment
 
