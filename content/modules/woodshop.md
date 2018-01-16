@@ -1,29 +1,31 @@
 Title: Woodshop
 Date: 2018-01-18
 
+[Woodshop slides](https://docs.google.com/presentation/d/1g9737hsomPzPndRyWxDO4Zv2LbcSNNdY5w0c-05gRi8/edit?usp=sharing)
+
 ## Tool/Machine-Specific Safety 
-Band saw 
+### Band saw 
 Check before you run your piece through to make sure your hands will not be in the sphere of action.
 Turn on the saw, and ensure the blade does not travel or waver. If it does, grab someone on the teaching team before using it.
 
-Belt/disk sanders
+### Belt/disk sanders
 Sand on the downward motion side of the disk.
 Grip your workpiece firmly, and feed it into the sander slowly.
 
 
-Drill press
+### Drill press
 BEFORE turning on the drill, check that the drill bit is completely straight in the jaws of the chuck.
 Fixture your workpiece! 
 
 
-Hand tools
+### Hand tools
 If using a hand drill, ensure the drill bit is completely straight in the jaws before turning on the drill.
 Fixture your workpiece!
 Hand tools
 If using a hand drill, ensure the drill bit is completely straight in the jaws before turning on the drill.
 
 
-Fixturing
+### Fixturing
 ALWAYS fixture your workpiece when using the drill press, any hand tools
 If you are unsure how to fixture, find someone on the teaching team!
 

@@ -27,7 +27,8 @@ Date: 2017-12-15
         </td>
         <td>
             <h4>Topics</h4>
-                Introductions, <a href="{filename}/modules/safety.md">lab norms and safety</a>,
+                 Introductions,
+                 <a href="{filename}/modules/safety.md">lab norms and safety</a>,
                     <a class="module" href="{filename}/modules/lasercutter.md">Laser cutter &amp; 2D design</a>,
                     <a class="module" href="{filename}/modules/scratch.md">Scratch</a>.
                 (<a class="module" href="https://docs.google.com/presentation/d/1zK7O8ZpsNxL7t92wjXTSvj1MfMH-W-hcOojj1xWWgbM/edit?usp=sharing">Lab 1 slides</a>)
@@ -53,11 +54,13 @@ Date: 2017-12-15
         </td>
         <td>
             <h4>Topics</h4>
+                Debrief Omni-Animal, An educational makerspace in rural Pakistan, Introduce Rube Goldberg assignment,
                 <a class="module" href="{filename}/modules/gogo-board.md">GoGo Board</a>,
                 <a class="module" href="{filename}/modules/woodshop.md">Woodshop</a>
             <h4>Assignments</h4>
                 <a class="assignment-due" href="{filename}/assignments/omni-animal.md">Due: Omni Animal</a>
                 <a class="assignment-out" href="{filename}/assignments/rube-goldberg.md">Out: Rube Goldberg</a>
+                (<a class="module" href="https://docs.google.com/presentation/d/1PRza403pRLOdQ_v35d93UculyXQYF9vf1r8LpP8AhEU/edit?usp=sharing">Lab 2 slides</a>)
         </td>
     </tr>
     <tr>
