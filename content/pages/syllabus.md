@@ -103,7 +103,7 @@ Date: 2017-12-15
                 <li>(Optional) Critical Pedagogy and Social Theory
             </ul>
             <h4>Assignments</h4>
-            <a class="assignment-due" href="{filename}/assignments/3c.md">Due: 3C's</a>
+            <a class="assignment-due" href="{filename}/assignments/3c.md">Due: 3C's (On Feb 04 at 11:59 PM)</a>
             <a class="assignment-out" href="{filename}/assignments/tech-in-wild.md">Out: Tech in the Wild</a>
             <a class="assignment-out" href="{filename}/assignments/final.md">Out: Final</a>
         </td>
