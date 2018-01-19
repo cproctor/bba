@@ -17,7 +17,9 @@ Date: 2017-12-15
         <td>
             <h4>Topics</h4>
             Introduction and Overview
-            	(<a class="module" href="https://docs.google.com/presentation/d/1A6t_FitywsX_JMmMpBuv_idifb3vFm2ZjNWudCVd9fk/edit?usp=sharing">Lecture 1 slides</a>)
+            <ul>
+                <li><a class="module" href="https://docs.google.com/presentation/d/1A6t_FitywsX_JMmMpBuv_idifb3vFm2ZjNWudCVd9fk/edit?usp=sharing">Lecture 1 slides</a></li>
+            </ul>
             <h4>Readings Due</h4>
             <ul>
             <li><a href="http://www.papert.org/articles/GearsOfMyChildhood.html">Mindstorms Preface</a>
@@ -42,7 +44,10 @@ Date: 2017-12-15
         <td>
             <h4>Topics</h4>
             Constructionism
-            	(<a class="module" href="https://docs.google.com/presentation/d/1wAgOYPecrE-wNMnzDbXWI0e3SYgd9qwpvtg8K8vAvyA/edit?usp=sharing">Lecture 2 slides</a>)
+            <ul>
+                <li><a class="module" href="https://docs.google.com/presentation/d/1wAgOYPecrE-wNMnzDbXWI0e3SYgd9qwpvtg8K8vAvyA/edit?usp=sharing">Lecture 2 slides</a></li>
+                <li><a href="{filename}/modules/week2-photos.md">Lecture 2 Photos</a></li>
+            </ul>
             <h4>Readings Due</h4>
             <ul>
                 <li><a href="https://canvas.stanford.edu/files/2496065/download?download_frd=1">Mindstorms Ch.1</a>
@@ -69,7 +74,7 @@ Date: 2017-12-15
         <td>Week 3<br /><span class="date">Jan 25</span></td>
         <td>
             <h4>Topics</h4>
-            Piagetian Constructivism, Vygotskyan Constructivism, Papert's synthesis of Piaget and Vygotsky (<a href="{filename}/modules/week3-photos.md">Photos</a>)
+            Piagetian Constructivism, Vygotskyan Constructivism, Papert's synthesis of Piaget and Vygotsky
             <h4>Readings Due</h4>
             <ul>
                 <li><a href="https://canvas.stanford.edu/files/2528294/download?download_frd=1">Constructivism: A Psychological Theory of Learning</a>

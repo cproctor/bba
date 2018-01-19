@@ -1,4 +1,4 @@
-Title: Photos from Week 3
+Title: Photos from Week 2
 Date: 2017-01-19
 
 ## Lecture
