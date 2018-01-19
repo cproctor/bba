@@ -17,6 +17,7 @@ Date: 2017-12-15
         <td>
             <h4>Topics</h4>
             Introduction and Overview
+            	(<a class="module" href="https://docs.google.com/presentation/d/1A6t_FitywsX_JMmMpBuv_idifb3vFm2ZjNWudCVd9fk/edit?usp=sharing">Lecture 1 slides</a>)
             <h4>Readings Due</h4>
             <ul>
             <li><a href="http://www.papert.org/articles/GearsOfMyChildhood.html">Mindstorms Preface</a>
@@ -41,6 +42,7 @@ Date: 2017-12-15
         <td>
             <h4>Topics</h4>
             Constructionism
+            	(<a class="module" href="https://docs.google.com/presentation/d/1wAgOYPecrE-wNMnzDbXWI0e3SYgd9qwpvtg8K8vAvyA/edit?usp=sharing">Lecture 2 slides</a>)
             <h4>Readings Due</h4>
             <ul>
                 <li><a href="https://canvas.stanford.edu/files/2496065/download?download_frd=1">Mindstorms Ch.1</a>
@@ -103,7 +105,7 @@ Date: 2017-12-15
                 <li>(Optional) Critical Pedagogy and Social Theory
             </ul>
             <h4>Assignments</h4>
-            <a class="assignment-due" href="{filename}/assignments/3c.md">Due: 3C's</a>
+            <a class="assignment-due" href="{filename}/assignments/3c.md">Due: 3C's (On Feb 04 at 11:59 PM)</a>
             <a class="assignment-out" href="{filename}/assignments/tech-in-wild.md">Out: Tech in the Wild</a>
             <a class="assignment-out" href="{filename}/assignments/final.md">Out: Final</a>
         </td>

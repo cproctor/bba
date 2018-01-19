@@ -11,7 +11,7 @@ As preparation for this assignment, read the Introduction and 2-3 chapters from 
 
 Your task:
 
-Write an essay in Google Docs and upload a link to Canvas (due Tuesday at 11:59 PM). Make sure you set permissions so we can comment on your document. The essay should have more or less the same length as the one from Papert or the ones from Turkle's book–800-1000 words–but we are flexible if you want to write more. Feel free to add pictures/videos and other media.
+Write an essay in Google Docs and upload a link to [Canvas](https://canvas.stanford.edu/courses/75497/assignments/114296) (due Tuesday at 11:59 PM). Make sure you set permissions so we can comment on your document. The essay should have more or less the same length as the one from Papert or the ones from Turkle's book–800-1000 words–but we are flexible if you want to write more. Feel free to add pictures/videos and other media.
 
 ## Rubric – this is how we will assess your essay:
 
