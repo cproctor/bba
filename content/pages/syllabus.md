@@ -22,8 +22,8 @@ Date: 2017-12-15
             </ul>
             <h4>Readings Due</h4>
             <ul>
-            <li><a href="http://www.papert.org/articles/GearsOfMyChildhood.html">Mindstorms Preface</a>
-            <li><a href="http://stanford.edu/class/educ236x/Archives/handouts/Week1/Readings/mindstorms-intro.pdf">Mindstorms Introduction</a>
+            <li><a href="http://www.papert.org/articles/GearsOfMyChildhood.html">Mindstorms Preface</a> (<a href="{filename}/resources/biblatex/Mindstorms BibLaTeX.bib">.bib</a>)
+            <li><a href="http://stanford.edu/class/educ236x/Archives/handouts/Week1/Readings/mindstorms-intro.pdf">Mindstorms Introduction</a> (<a href="{filename}/resources/biblatex/Mindstorms BibLaTeX.bib">.bib</a>)
             </ul>
             <h4>Assignments</h4>
             <a class="assignment-out" href="{filename}/assignments/gears.md">Out: Your Personal "Gears" Essay</a>
@@ -50,10 +50,10 @@ Date: 2017-12-15
             </ul>
             <h4>Readings Due</h4>
             <ul>
-                <li><a href="https://canvas.stanford.edu/files/2496065/download?download_frd=1">Mindstorms Ch.1</a>
-                <li><a href="https://canvas.stanford.edu/files/2496065/download?download_frd=1">Mindstorms Ch. 5</a>
-                <li><a href="https://www.dropbox.com/s/i0rfyzhm0r9q33y/Evocative%20Objects.pdf?dl=0">Evocative objects Introduction, 1-2 chapters of your choosing</a>
-                <li><a href="https://canvas.stanford.edu/files/2496056/download?download_frd=1">Papert on Piaget</a>
+                <li><a href="https://canvas.stanford.edu/files/2496065/download?download_frd=1">Mindstorms Ch.1</a> (<a href="{filename}/resources/biblatex/Mindstorms BibLaTeX.bib">.bib</a>)
+                <li><a href="https://canvas.stanford.edu/files/2496065/download?download_frd=1">Mindstorms Ch. 5</a> (<a href="{filename}/resources/biblatex/Mindstorms BibLaTeX.bib">.bib</a>)
+                <li><a href="https://www.dropbox.com/s/i0rfyzhm0r9q33y/Evocative%20Objects.pdf?dl=0">Evocative objects Introduction, 1-2 chapters of your choosing</a> (<a class="module" href="{filename}/resources/biblatex/Evocative Objects BibLaTeX.bib">.bib</a>)
+                <li><a href="https://canvas.stanford.edu/files/2496056/download?download_frd=1">Papert on Piaget</a> (<a href="{filename}/resources/biblatex/Papert on Piaget BibLaTeX.bib">.bib</a>)
             </ul>
             <h4>Assignments</h4>
             <a class="assignment-due" href="{filename}/assignments/gears.md">Due: Your Personal "Gears" Essay</a>
@@ -77,13 +77,13 @@ Date: 2017-12-15
             Piagetian Constructivism, Vygotskyan Constructivism, Papert's synthesis of Piaget and Vygotsky
             <h4>Readings Due</h4>
             <ul>
-                <li><a href="https://canvas.stanford.edu/files/2528294/download?download_frd=1">Constructivism: A Psychological Theory of Learning</a>
-                <li><a href="https://canvas.stanford.edu/files/2528236/download?download_frd=1">Beyond the individual-social antinomy in discussions of Piaget and Vygotsky</a>
-                <li><a href="https://canvas.stanford.edu/files/2528241/download?download_frd=1">Piaget’s constructivism, Papert’s constructionism: What’s the difference?</a>
+                <li><a href="https://canvas.stanford.edu/files/2528294/download?download_frd=1">Constructivism: A Psychological Theory of Learning</a> (<a href="{filename}/resources/biblatex/Constructivism A Psychological Theory of Learning BibLaTeX.bib">.bib</a>)
+                <li><a href="https://canvas.stanford.edu/files/2528236/download?download_frd=1">Beyond the individual-social antinomy in discussions of Piaget and Vygotsky</a> (<a href="{filename}/resources/biblatex/Beyond the Individual-Social BibLaTeX.bib">.bib</a>)
+                <li><a href="https://canvas.stanford.edu/files/2528241/download?download_frd=1">Piaget’s constructivism, Papert’s constructionism: What’s the difference?</a> (<a href="{filename}/resources/biblatex/Piaget's Constructivism Papert's Constructionism BibLaTeX.bib">.bib</a>)
             </ul>
             <h4>Optional</h4>
             <ul>
-                <li>Optional: <a href="https://canvas.stanford.edu/files/2528274/download?download_frd=1">Problems of Equilibration</a>
+                <li>Optional: <a href="https://canvas.stanford.edu/files/2528274/download?download_frd=1">Problems of Equilibration</a> (<a href="{filename}/resources/biblatex/Problems of Equilibration BibLaTeX.bib">.bib</a>)
             </ul>
         </td>
         <td>
