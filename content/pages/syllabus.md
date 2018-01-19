@@ -70,9 +70,13 @@ Date: 2017-12-15
             Piagetian Constructivism, Vygotskyan Constructivism, Papert's synthesis of Piaget and Vygotsky
             <h4>Readings Due</h4>
             <ul>
-                <li>Problems of Equilibration
-                <li>Beyond the individual-social antinomy in discussions of Piaget and Vygotsky
-                <li>Piaget’s constructivism, Papert’s constructionism: What’s the difference?
+                <li><a href="https://canvas.stanford.edu/files/2528294/download?download_frd=1">Constructivism: A Psychological Theory of Learning</a>
+                <li><a href="https://canvas.stanford.edu/files/2528236/download?download_frd=1">Beyond the individual-social antinomy in discussions of Piaget and Vygotsky</a>
+                <li><a href="https://canvas.stanford.edu/files/2528241/download?download_frd=1">Piaget’s constructivism, Papert’s constructionism: What’s the difference?</a>
+            </ul>
+            <h4>Optional</h4>
+            <ul>
+                <li>Optional: <a href="https://canvas.stanford.edu/files/2528274/download?download_frd=1">Problems of Equilibration</a>
             </ul>
         </td>
         <td>
