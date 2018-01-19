@@ -69,7 +69,7 @@ Date: 2017-12-15
         <td>Week 3<br /><span class="date">Jan 25</span></td>
         <td>
             <h4>Topics</h4>
-            Piagetian Constructivism, Vygotskyan Constructivism, Papert's synthesis of Piaget and Vygotsky
+            Piagetian Constructivism, Vygotskyan Constructivism, Papert's synthesis of Piaget and Vygotsky (<a href="{filename}/modules/week3-photos.md">Photos</a>)
             <h4>Readings Due</h4>
             <ul>
                 <li><a href="https://canvas.stanford.edu/files/2528294/download?download_frd=1">Constructivism: A Psychological Theory of Learning</a>
