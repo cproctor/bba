@@ -17,6 +17,7 @@ Date: 2017-12-15
         <td>
             <h4>Topics</h4>
             Introduction and Overview
+            	(<a class="module" href="https://docs.google.com/presentation/d/1A6t_FitywsX_JMmMpBuv_idifb3vFm2ZjNWudCVd9fk/edit?usp=sharing">Lecture 1 slides</a>)
             <h4>Readings Due</h4>
             <ul>
             <li><a href="http://www.papert.org/articles/GearsOfMyChildhood.html">Mindstorms Preface</a>
@@ -41,6 +42,7 @@ Date: 2017-12-15
         <td>
             <h4>Topics</h4>
             Constructionism
+            	(<a class="module" href="https://docs.google.com/presentation/d/1wAgOYPecrE-wNMnzDbXWI0e3SYgd9qwpvtg8K8vAvyA/edit?usp=sharing">Lecture 2 slides</a>)
             <h4>Readings Due</h4>
             <ul>
                 <li><a href="https://canvas.stanford.edu/files/2496065/download?download_frd=1">Mindstorms Ch.1</a>
