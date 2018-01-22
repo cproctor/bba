@@ -61,13 +61,13 @@ Date: 2017-12-15
         </td>
         <td>
             <h4>Topics</h4>
-                Debrief Omni-Animal, An educational makerspace in rural Pakistan, Introduce Rube Goldberg assignment,
+                Debrief Omni-Animal. Guest speaker: Ali Azhar on an educational makerspace in rural Pakistan. Introduce Rube Goldberg assignment. Stations: 
                 <a class="module" href="{filename}/modules/gogo-board.md">GoGo Board</a>,
-                <a class="module" href="{filename}/modules/woodshop.md">Woodshop</a>
+                <a class="module" href="{filename}/modules/woodshop.md">Woodshop</a>.
+                (<a class="module" href="https://docs.google.com/presentation/d/1PRza403pRLOdQ_v35d93UculyXQYF9vf1r8LpP8AhEU/edit?usp=sharing">Lab 2 slides</a>)
             <h4>Assignments</h4>
                 <a class="assignment-due" href="{filename}/assignments/omni-animal.md">Due: Omni Animal</a>
                 <a class="assignment-out" href="{filename}/assignments/rube-goldberg.md">Out: Rube Goldberg</a>
-                (<a class="module" href="https://docs.google.com/presentation/d/1PRza403pRLOdQ_v35d93UculyXQYF9vf1r8LpP8AhEU/edit?usp=sharing">Lab 2 slides</a>)
         </td>
     </tr>
     <tr>
@@ -88,9 +88,11 @@ Date: 2017-12-15
         </td>
         <td>
             <h4>Topics</h4>
-            User research for pedagogical design.
+            Rube Goldberg trial. Guest speaker: John Cassidy on designing toys for learning. Introduce Dream Toy, 
+            discuss user research. Stations: 
                 <a class="module" href="{filename}/modules/cnc.md">CNC</a>,
-                <a class="module" href="{filename}/modules/silicone.md">Silicone casting</a>
+                <a class="module" href="{filename}/modules/silicone.md">Silicone casting</a>.
+                (<a class="module" href="https://docs.google.com/presentation/d/1p-lChFkUWxwbQiI4q8MC63Zuwf5l4fa4e7FAxAnhrhc/edit?usp=sharing">Lab 3 slides</a>)
             <h4>Assignments</h4>
             <a class="assignment-due" href="{filename}/assignments/rube-goldberg.md">Due: Rube Goldberg</a>
             <a class="assignment-out" href="{filename}/assignments/dream-toy.md">Out: Dream Toy</a>
@@ -124,6 +126,7 @@ Date: 2017-12-15
                 <a class="module" href="{filename}/modules/processing.md">Processing</a>,
                 <a class="module" href="{filename}/modules/code.md">Code</a>
             <h4>Assignments</h4>
+            <a class="assignment-due" href="{filename}/assignments/dream-toy.md">Due: Dream Toy (Part 1)</a>
             <a class="assignment-out" href="{filename}/assignments/final.md">Out: Final</a>
         </td>
     </tr>
@@ -151,7 +154,7 @@ Date: 2017-12-15
                 <a class="module" href="{filename}/modules/e-textiles.md">E-Textiles</a>,
                 <a class="module" href="{filename}/modules/arduino.md">Arduino</a>
             <h4>Assignments</h4>
-            <a class="assignment-due" href="{filename}/assignments/dream-toy.md">Due: Dream Toy</a>
+            <a class="assignment-due" href="{filename}/assignments/dream-toy.md">Due: Dream Toy (Part 2)</a>
             <a class="assignment-out" href="{filename}/assignments/final.md#user-research">Out: User research</a>
         </td>
     </tr>
