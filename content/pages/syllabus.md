@@ -47,6 +47,7 @@ Date: 2017-12-15
             <ul>
                 <li><a class="module" href="https://docs.google.com/presentation/d/1wAgOYPecrE-wNMnzDbXWI0e3SYgd9qwpvtg8K8vAvyA/edit?usp=sharing">Lecture 2 slides</a></li>
                 <li><a href="{filename}/modules/week2-photos.md">Lecture 2 Photos</a></li>
+                <li><a href="https://drive.google.com/open?id=1ZpqkcFBBTyXe9EfFdkS6qIstJlCMVLavy6tLjxSduSM">Collaborative Microworlds Definition</a>
             </ul>
             <h4>Readings Due</h4>
             <ul>
