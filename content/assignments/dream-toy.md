@@ -13,6 +13,7 @@ You will draw on your readings and discussions from class to frame the learning 
 - ** Prototyping: ** Creating low-resolution models to test and develop ideas
 - ** Integrating theory into design for learning: ** Designing for learning requires a step beyond traditional 
      product design, in that the desired outcomes are grounded in pedagogical theory. 
+- ** 3D Fabrication ** Practice using CNC, 3D printing or silicon casting to create some aspect of your dream toy. If 3D fabrication is not relevant to your toy, alternatively build an "accessory" for your Omni Animal
 
 ---
 # Part 1: Co-design
@@ -24,12 +25,14 @@ Conduct an initial interview with the child (20-60 minutes), in which you develo
 Compile your notes to write a report on the interview. This report is max 1000 words and should include: 
     
 - Your interview protocol or any other planning you did for the interview
-- A summary of your notes (possibly including photos, video clips, etc.). Please highlight nuggets that led to 
+- A summary of your interviewnotes (possibly including photos, video clips, etc.).
+- Evidence of the brainstorming process your team used to converge on you initial ideas.
   particularly valuable insights.
 - A description of your initial idea(s) for the dream toy. 
     - What toy/toolkit did you and the kid converge on?
     - What are the learning goals of the toy?;
     - What design decisions did you make about the toy/toolkit, and why?
+    - Are you going to incorporate 3D fabrication into your toy or in your omni animal? If so, how?
 - Reflective conclusion:
     - How do your decisions for medium (virtual, physical, etc.), format (game, puzzle, free, tutorial, etc.) and interaction possibilities align with the learning goals?
     - What did you learn from the process about the kid, about the process itself, etc? 
@@ -37,7 +40,7 @@ Compile your notes to write a report on the interview. This report is max 1000 w
 
 ## Assessment
 
-- ** &#10003; + ** Meets all requirements described above. The report shows how specific generative insights led to a clear formulation of the goal. The child was a partner in designing solutions. 
+- ** &#10003; + ** Meets all requirements described above. The report shows how specific generative insights led to a clear formulation of the goal. The child was a partner in designing solutions. 3D fabrication uses advanced techniques or represents a particularly thoughtful part of the dream toy or part of an Omni Animal accessory. 
 - ** &#10003; ** Meets all requirements described above.
 - ** &#10003; - ** Does not fully meet the requirements described above, or the report lacks detail or coherence.
 
@@ -63,7 +66,7 @@ Compile your notes to write a report on the interview. This report is max 1000 w
 ---
 # Part 2: Prototyping and building the toy
 
-Now that you have an idea, it's time to develop it by building and testing a prototype that the child can test out during your second interview. Your prototype should be as quick and cheap as possible, just enough to represent the functionality of the final product in a way that 1) the kid knows what it does and can simulate the interaction with it; 2) you get valuable feedback so you know what you will have to build. It can consist of cardboard, paper, etc.; do whatever you can to fake functionality for the prototype. 
+Now that you have an idea, it's time to develop it by building and testing a prototype that the child can test out during your second interview. Your prototype should be as quick and cheap as possible, just enough to represent the functionality of the final product in a way that 1) the kid knows what it does and can simulate the interaction with it; 2) you get valuable feedback so you know what you will have to build. It can consist of cardboard, paper, etc.; do whatever you can to fake functionality for the prototype. Practice 3D modeling! Note that 3D fabrication machines are in limited supply and projects can take a long time to finish, so schedule wisely!
 
 At your second meeting, the child will interact with the prototype, and together you will further iterate the design before building the final toy. 
 
