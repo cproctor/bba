@@ -13,6 +13,7 @@ You will draw on your readings and discussions from class to frame the learning 
 - ** Prototyping: ** Creating low-resolution models to test and develop ideas
 - ** Integrating theory into design for learning: ** Designing for learning requires a step beyond traditional 
      product design, in that the desired outcomes are grounded in pedagogical theory. 
+- ** 3d Fabrication **: Your group must use a 3d fabrication technique (casting, CNC, or 3d printing) in your dream toy. If it just doesn't fit, you may instead do a small side project with one of these technologies.
 
 ---
 # Part 1: Co-design
@@ -24,7 +25,8 @@ Conduct an initial interview with the child (20-60 minutes), in which you develo
 Compile your notes to write a report on the interview. This report is max 1000 words and should include: 
     
 - Your interview protocol or any other planning you did for the interview
-- A summary of your notes (possibly including photos, video clips, etc.). Please highlight nuggets that led to 
+- A summary of your notes (possibly including photos, video clips, etc.). 
+- Whatever process documents you generate as you make sense of your observations. What nuggets (important insights) emerged?
   particularly valuable insights.
 - A description of your initial idea(s) for the dream toy. 
     - What toy/toolkit did you and the kid converge on?
@@ -43,7 +45,7 @@ Compile your notes to write a report on the interview. This report is max 1000 w
 
 ## Steps
 
-- Coordinate with your group members and then contact the child's parent to set up a time for the first interview. Tell the parent what you plan to do, ask about the child, and invite the parent to be present if desired. 
+- Group assignments are posted on Canvas. Coordinate with your group members, find a child, and then contact the child's parent to set up a time for the first interview. Tell the parent what you plan to do, ask about the child, and invite the parent to be present if desired. 
 - Plan for the interview.
     - Review the resources on Lab 3 slides.
     - Develop the interview protocol (what possible tasks, what questions, how to organize the group)
