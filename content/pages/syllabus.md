@@ -76,6 +76,9 @@ Date: 2017-12-15
         <td>
             <h4>Topics</h4>
             Piagetian Constructivism, Vygotskyan Constructivism, Papert's synthesis of Piaget and Vygotsky
+            <ul>
+                <li><a class="module" href="https://docs.google.com/document/d/1LtjIk-rm-WCpx1766zWq2I5jZ2l5extPzzZyYkna3vI/edit?usp=sharing">Critique Activity</a></li>
+            </ul>
             <h4>Readings Due</h4>
             <ul>
                 <li><a href="https://canvas.stanford.edu/files/2528294/download?download_frd=1">Constructivism: A Psychological Theory of Learning</a> (<a href="{filename}/resources/biblatex/Constructivism A Psychological Theory of Learning BibLaTeX.bib">.bib</a>)
