@@ -115,10 +115,10 @@ Date: 2017-12-15
             Critical Pedaogogy
             <h4>Readings Due</h4>
             <ul>
-                <li>Pedagogy of the Oppressed, Preface
-                <li>Pedagogy of the Oppressed, Ch. 2
-                <li>Travels in Troy with Freire
-                <li>(Optional) Critical Pedagogy and Social Theory
+                <li><a href="https://canvas.stanford.edu/files/2559849/download?download_frd=1">Pedagogy of the Oppressed, Preface</a> (<a href="{filename}/resources/biblatex/Pedagogy of the Oppressed.bib">.bib</a>)
+                <li><a href="https://canvas.stanford.edu/files/2559848/download?download_frd=1">Pedagogy of the Oppressed, Ch. 2</a> (<a href="{filename}/resources/biblatex/Pedagogy of the Oppressed.bib">.bib</a>)
+                <li><a href="https://canvas.stanford.edu/files/2559846/download?download_frd=1">Travels in Troy with Freire</a> (<a href="{filename}/resources/biblatex/Travels in Troy.bib">.bib</a>)
+                <li>(Optional) <a href="https://canvas.stanford.edu/files/2559892/download?download_frd=1">Critical Pedagogy and Social Theory</a> (<a href="{filename}/resources/biblatex/Critical Pedagogy and Sociocultural Theory.bib">.bib</a>)
             </ul>
             <h4>Assignments</h4>
             <a class="assignment-due" href="{filename}/assignments/3c.md">Due: 3C's (On Feb 04 at 11:59 PM)</a>
