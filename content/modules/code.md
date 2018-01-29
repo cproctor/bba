@@ -1,12 +1,20 @@
 Title: Code
 Date: 2017-02-01
 
----
-### Dev Notes
+## Goals
 
-In this station, we will introduce core computational concepts that will be useful to anyone 
-using code in a serious way. Should address events and I/O; Model-View architecture; State and variables; 
-Functions and modularization.
+This station is a top-down introduction to some important programming concepts. Rather than learning the
+nitty-gritty of a language, you will start with a working game, read the source code, and discuss design
+considerations for your own programming. Key concepts include:
 
-Proposed format of this station is give groups of students a game implemented on TUIO tables, have them
-play it, and then study the code. Then discuss the ideas and how they are implemented. 
+- **Model/view architecture**: Models should manage a program's state; views should manage rendering and
+  user interacation. 
+- **Modularity**: Small, resuable components with clear interfaces.
+- **State**: A complete representation of what's happening in the app at any given time. 
+
+## Preparation
+
+- Download and install [Processing](https://processing.org/)
+- Download the [Hospitals game](https://github.com/cproctor/hospitals/releases/tag/v1)
+- Open the [annotated source code](https://cproctor.github.io/hospitals/hospitals.html)
+
