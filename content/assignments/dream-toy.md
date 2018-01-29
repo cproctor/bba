@@ -13,7 +13,7 @@ You will draw on your readings and discussions from class to frame the learning 
 - ** Prototyping: ** Creating low-resolution models to test and develop ideas
 - ** Integrating theory into design for learning: ** Designing for learning requires a step beyond traditional 
      product design, in that the desired outcomes are grounded in pedagogical theory. 
-- ** 3D Fabrication ** Practice using CNC, 3D printing or silicon casting to create some aspect of your dream toy. If 3D fabrication is not relevant to your toy, alternatively build an "accessory" for your Omni Animal
+- ** 3D Fabrication ** Practice using CNC, 3D printing or silicon casting to create some aspect of your dream toy. If 3D fabrication is not relevant to your toy, alternatively build an "accessory" for your Omni Animal (or some other small foray into one of the 3d techniques) with your group.
 
 ---
 # Part 1: Co-design
@@ -79,22 +79,14 @@ Additionally, extend the Google Doc you submitted for Part 1 with the following:
 
 - 2-3 paragraphs (max 200 words) about the take away messages from the user testing. Specifically, talk about how the child interacted with and perceived the prototype, whether it was as expected or not, and if not why; explain whether you have to make changes to your design and/or learning outcomes and if so, why. Put in words what the final dream toy design will be, along with the learning goals you are designing for.
 - Continue documenting your product development. Add new pictures, and try to go beyond captions like "this is an image of prototype II" and shortly comment on why you took that specific picture (in terms of whether it forms a milestone in the development and why, failure and success alike).
-- The final product will be presented to the kid! You will likely not see the product again, so make sure you have it documented well, i.e. photos AND videos!
+- The final product will be presented to the kid! You will likely not see the product again, so make sure you have it documented well, i.e. photos AND videos! 
+- Either: Use one of our 3d fabrication technologies (casting, CNC, 3d printing) in your dream toy, or do a small separate project with your group exploring one of these technologies. 
 
 ## Assessment
 
 We will assess how your product is aligned with your decisions and observations along the way, i.e. how you justify changes (due to theoretical, material or practical restrictions, etc.), how you implement the ideas (not in terms of "genuity" of idea or quality of product, but in terms of alignment with ideas).
 
 - ** &#10003; + ** Meets all requirements described above and develops a substantially new technique. Provide a write-up for the website explaining the technique and how to use it. 
-- ** &#10003; ** Meets all requirements described above.
-- ** &#10003; - ** Does not meet the requirements described above.
-
-
-## Assessment
-
-We will assess how your product is aligned with your decisions and observations along the way, i.e. how you justify changes (due to theoretical, material or practical restrictions, etc.), how you implement the ideas (not in terms of "genuity" of idea or quality of product, but in terms of alignment with ideas).
-
-- ** &#10003; + ** Meets all requirements described above...
 - ** &#10003; ** Meets all requirements described above.
 - ** &#10003; - ** Does not meet the requirements described above.
 
