@@ -224,7 +224,7 @@ Date: 2017-12-15
         </td>
         <td>
             <h4>Crits</h4>
-            <a class="module" href="{filename}/pages/crits.md">Agenda</a>
+            <a class="module" href="{filename}/logistics/crits.md">Agenda</a>
             Class meets 6-8pm. Students give 10-minute presentations on projects with prototypes; outside critics (teachers, designers, academics, business-people) provide feedback and discuss ideas.
             <h4>Assignments</h4>
             <a class="assignment-due" href="{filename}/assignments/final.md#prototype">Due: Project prototype</a>
