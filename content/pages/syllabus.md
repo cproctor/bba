@@ -160,7 +160,7 @@ Date: 2017-12-15
                 <a class="module" href="{filename}/modules/arduino.md">Arduino</a>
             <h4>Assignments</h4>
             <a class="assignment-due" href="{filename}/assignments/dream-toy.md">Due: Dream Toy (Part 2)</a>
-            <a class="assignment-out" href="{filename}/assignments/final.md#user-research">Out: User research</a>
+            <a class="assignment-out" href="{filename}/assignments/interface_design.md">Out: Interface design</a>
         </td>
     </tr>
     <tr>
@@ -182,7 +182,7 @@ Date: 2017-12-15
                 Share final project user reserarch; iterate design ideas. Discuss crits next week and functional prototypes.
                 <a class="module" href="{filename}/modules/tangible-tables.md">Tangible interface tables</a>
             <h4>Assignments</h4>
-            <a class="assignment-due" href="{filename}/assignments/final.md#user-research">Due: User research</a>
+            <a class="assignment-due" href="{filename}/assignments/interface_design.md">Due: Interface design</a>
             <a class="assignment-out" href="{filename}/assignments/final.md#prototype">Out: Project prototype</a>
         </td>
     </tr>
