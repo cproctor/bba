@@ -78,6 +78,7 @@ Date: 2017-12-15
             Piagetian Constructivism, Vygotskyan Constructivism, Papert's synthesis of Piaget and Vygotsky
             <ul>
                 <li><a class="module" href="https://docs.google.com/document/d/1LtjIk-rm-WCpx1766zWq2I5jZ2l5extPzzZyYkna3vI/edit?usp=sharing">Critique Activity</a></li>
+                 <li><a href="https://docs.google.com/document/d/1Enr6NIOpVQBthb2yTLcYG0QrMZgRkMyqjQo9b9ZRUdc/edit?usp=sharing">Theories of Learning Handout</a>
                 <li><a href="https://drive.google.com/open?id=1zGtnQS14GLTFAhh2b-pVDbiweFxBE92PhctS7JZPUCA">Lecture 3 Slides</a>
             </ul>
             <h4>Readings Due</h4>
