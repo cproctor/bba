@@ -113,6 +113,9 @@ Date: 2017-12-15
         <td>
             <h4>Topics</h4>
             Critical Pedaogogy
+            <ul>
+            <li><a href="https://docs.google.com/document/d/1ePKqZg5MDx1prjEkMpAsFrtqI1cEwL5CpNsgbWJnZ4s/edit?usp=sharing">Activity Handout</a>
+            </ul>
             <h4>Readings Due</h4>
             <ul>
                 <li><a href="https://canvas.stanford.edu/files/2559849/download?download_frd=1">Pedagogy of the Oppressed, Preface</a> (<a href="{filename}/resources/biblatex/Pedagogy of the Oppressed.bib">.bib</a>)
