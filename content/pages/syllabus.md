@@ -86,7 +86,7 @@ Date: 2017-12-15
                 <li><a href="https://canvas.stanford.edu/files/2528236/download?download_frd=1">Beyond the individual-social antinomy in discussions of Piaget and Vygotsky</a> (<a href="{filename}/resources/biblatex/Beyond the Individual-Social BibLaTeX.bib">.bib</a>)
                 <li><a href="https://canvas.stanford.edu/files/2528241/download?download_frd=1">Piaget’s constructivism, Papert’s constructionism: What’s the difference?</a> (<a href="{filename}/resources/biblatex/Piaget's Constructivism Papert's Constructionism BibLaTeX.bib">.bib</a>)
             </ul>
-            <h4>Optional</h4>
+            <h5>Optional</h5>
             <ul>
                 <li>Optional: <a href="https://canvas.stanford.edu/files/2528274/download?download_frd=1">Problems of Equilibration</a> (<a href="{filename}/resources/biblatex/Problems of Equilibration BibLaTeX.bib">.bib</a>)
             </ul>
@@ -121,7 +121,10 @@ Date: 2017-12-15
                 <li><a href="https://canvas.stanford.edu/files/2559849/download?download_frd=1">Pedagogy of the Oppressed, Preface</a> (<a href="{filename}/resources/biblatex/Pedagogy of the Oppressed.bib">.bib</a>)
                 <li><a href="https://canvas.stanford.edu/files/2559848/download?download_frd=1">Pedagogy of the Oppressed, Ch. 2</a> (<a href="{filename}/resources/biblatex/Pedagogy of the Oppressed.bib">.bib</a>)
                 <li><a href="https://canvas.stanford.edu/files/2559846/download?download_frd=1">Travels in Troy with Freire</a> (<a href="{filename}/resources/biblatex/Travels in Troy.bib">.bib</a>)
-                <li>(Optional) <a href="https://canvas.stanford.edu/files/2559892/download?download_frd=1">Critical Pedagogy and Social Theory</a> (<a href="{filename}/resources/biblatex/Critical Pedagogy and Sociocultural Theory.bib">.bib</a>)
+            </ul>
+            <h5>Optional</h5>
+            <ul>
+            <li><a href="https://canvas.stanford.edu/files/2559892/download?download_frd=1">Critical Pedagogy and Social Theory</a> (<a href="{filename}/resources/biblatex/Critical Pedagogy and Sociocultural Theory.bib">.bib</a>)
             </ul>
             <h4>Assignments</h4>
             <a class="assignment-due" href="{filename}/assignments/3c.md">Due: 3C's (On Feb 04 at 11:59 PM)</a>
@@ -150,10 +153,13 @@ Date: 2017-12-15
             Overview of Design Methodologies for Learning, Human-Centered Design and Design Thinking
             <h4>Readings Due</h4>
             <ul>
-                <li>The foundations and assumptions of technology-enhanced student-centered learning environments
-                <li>Some reflections on designing construction kits for kids
-                <li>TBD (User-Centered Design and Design Thinking)
-                <li>Human-Centered Design Considered Harmful
+                <li><a href="https://canvas.stanford.edu/files/2594822/download?download_frd=1">Some reflections on designing construction kits for kids</a>
+                <li><a href="http://web.stanford.edu/~rldavis/educ236/readings/doet/text/ch06_excerpt.html">The Design of Everyday Things, Ch. 6 excerpt</a>
+                <li><a href="https://canvas.stanford.edu/files/2594823/download?download_frd=1">Human-Centered Design Considered Harmful</a>
+            </ul>
+            <h5>Optional</h5>
+            <ul>
+            <li><a href="https://canvas.stanford.edu/files/2594818/download?download_frd=1">The foundations and assumptions of technology-enhanced student-centered learning environments</a>
             </ul>
         </td>
         <td>
