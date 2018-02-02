@@ -154,13 +154,13 @@ Date: 2017-12-15
             Overview of Design Methodologies for Learning, Human-Centered Design and Design Thinking
             <h4>Readings Due</h4>
             <ul>
-                <li><a href="https://canvas.stanford.edu/files/2594822/download?download_frd=1">Some reflections on designing construction kits for kids</a>
-                <li><a href="http://web.stanford.edu/~rldavis/educ236/readings/doet/text/ch06_excerpt.html">The Design of Everyday Things, Ch. 6 excerpt</a>
-                <li><a href="https://canvas.stanford.edu/files/2594823/download?download_frd=1">Human-Centered Design Considered Harmful</a>
+                <li><a href="https://canvas.stanford.edu/files/2594822/download?download_frd=1">Some reflections on designing construction kits for kids</a> (<a href="{filename}/resources/biblatex/Some Reflections on Designing Construction Kits.bib">.bib</a>)
+                <li><a href="http://web.stanford.edu/~rldavis/educ236/readings/doet/text/ch06_excerpt.html">The Design of Everyday Things, Ch. 6 excerpt</a> (<a href="{filename}/resources/biblatex/DOET.bib">.bib</a>)
+                <li><a href="https://canvas.stanford.edu/files/2594823/download?download_frd=1">Human-Centered Design Considered Harmful</a> (<a href="{filename}/resources/biblatex/HCD Considered Harmful.bib">.bib</a>)
             </ul>
             <h5>Optional</h5>
             <ul>
-            <li><a href="https://canvas.stanford.edu/files/2594818/download?download_frd=1">The foundations and assumptions of technology-enhanced student-centered learning environments</a>
+            <li><a href="https://canvas.stanford.edu/files/2594818/download?download_frd=1">The foundations and assumptions of technology-enhanced student-centered learning environments</a> (<a href="{filename}/resources/biblatex/Foundations and Assumptions.bib">.bib</a>)
             </ul>
         </td>
         <td>
