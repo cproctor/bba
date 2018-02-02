@@ -184,7 +184,7 @@ Date: 2017-12-15
                 <li>The role of cultural forms in tangible interaction design
             </ul>
             <h4>Assignments</h4>
-            <a class="assignment-due" href="https://docs.google.com/document/d/1ZH5icFg9WNnMOCjpMGxCV3cMVfquNp2WOApEq5hi7fI/edit?usp=sharing">Due: Tech in the Wild</a>
+            <a class="assignment-due" href="https://docs.google.com/document/d/1ZH5icFg9WNnMOCjpMGxCV3cMVfquNp2WOApEq5hi7fI/edit?usp=sharing">Due: Tech in the Wild (On Feb 13 at 11:59 PM)</a>
             <a class="assignment-out" href="{filename}/assignments/tech-critique.md">Out: Tech critique</a>
         </td>
         <td>
