@@ -129,7 +129,7 @@ Date: 2017-12-15
             </ul>
             <h4>Assignments</h4>
             <a class="assignment-due" href="{filename}/assignments/3c.md">Due: 3C's (On Feb 04 at 11:59 PM)</a>
-            <a class="assignment-out" href="{filename}/assignments/tech-in-wild.md">Out: Tech in the Wild</a>
+            <a class="assignment-out" href="https://docs.google.com/document/d/1ZH5icFg9WNnMOCjpMGxCV3cMVfquNp2WOApEq5hi7fI/edit?usp=sharing">Out: Tech in the Wild</a>
             <a class="assignment-out" href="{filename}/assignments/final.md">Out: Final</a>
         </td>
         <td>
