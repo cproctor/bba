@@ -116,6 +116,7 @@ Date: 2017-12-15
             Critical Pedaogogy
             <ul>
             <li><a href="https://docs.google.com/document/d/1ePKqZg5MDx1prjEkMpAsFrtqI1cEwL5CpNsgbWJnZ4s/edit?usp=sharing">Activity Handout</a>
+            <li><a href="https://drive.google.com/open?id=1wEB6EikUdiNZEtxHQ5GYknp9FYz9040OMNYo-jaXY1s">Lecture 4 Slides</a>
             </ul>
             <h4>Readings Due</h4>
             <ul>
