@@ -192,9 +192,6 @@ Date: 2017-12-15
             <h4>Topics</h4>
                 Share final project user reserarch; iterate design ideas. Discuss crits next week and functional prototypes.
                 <a class="module" href="{filename}/modules/tangible-tables.md">Tangible interface tables</a>
-            <h4>Assignments</h4>
-            <a class="assignment-due" href="{filename}/assignments/interface_design.md">Due: Interface design</a>
-            <a class="assignment-out" href="{filename}/assignments/final.md#prototype">Out: Project prototype</a>
         </td>
     </tr>
     <tr>
@@ -217,6 +214,9 @@ Date: 2017-12-15
         <td>
             <h4>Topics</h4>
             Workshop final projects.
+            <h4>Assignments</h4>
+            <a class="assignment-due" href="{filename}/assignments/interface_design.md">Due: Interface design</a>
+            <a class="assignment-out" href="{filename}/assignments/final.md#prototype">Out: Project prototype</a>
         </td>
     </tr>
     <tr>
