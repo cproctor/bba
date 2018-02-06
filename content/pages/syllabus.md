@@ -137,7 +137,8 @@ Date: 2017-12-15
             <h4>Topics</h4>
             Share Dream Toy user research. Introduce final project.
                 <a class="module" href="{filename}/modules/processing.md">Processing</a>,
-                <a class="module" href="{filename}/modules/code.md">Code</a>
+                <a class="module" href="{filename}/modules/code.md">Code</a> 
+                (<a class="module" href="https://docs.google.com/presentation/d/1xse1Jrjt8P6yDPxXK6FxXIFUOvAj9t_eSKvMEez-6q0/edit?usp=sharing">Lab 4 slides</a>)
             <h4>Assignments</h4>
             <a class="assignment-due" href="{filename}/assignments/dream-toy.md">Due: Dream Toy (Part 1)</a>
             <a class="assignment-out" href="{filename}/assignments/final.md">Out: Final</a>
@@ -169,9 +170,9 @@ Date: 2017-12-15
             Present Dream Toys and give them to children.
                 <a class="module" href="{filename}/modules/e-textiles.md">E-Textiles</a>,
                 <a class="module" href="{filename}/modules/arduino.md">Arduino</a>
+                (<a class="module" href="https://docs.google.com/presentation/d/1da4FH_SFHhXzXSZ1R2z_H0NRskTfmxTFSKNHX6BWUcY/edit?usp=sharing">Lab 5 slides</a>)
             <h4>Assignments</h4>
             <a class="assignment-due" href="{filename}/assignments/dream-toy.md">Due: Dream Toy (Part 2)</a>
-            <a class="assignment-out" href="{filename}/assignments/interface_design.md">Out: Interface design</a>
         </td>
     </tr>
     <tr>
@@ -192,6 +193,8 @@ Date: 2017-12-15
             <h4>Topics</h4>
                 Share final project user reserarch; iterate design ideas. Discuss crits next week and functional prototypes.
                 <a class="module" href="{filename}/modules/tangible-tables.md">Tangible interface tables</a>
+            <h4>Assignments</h4>
+                <a class="assignment-out" href="{filename}/assignments/interface_design.md">Out: Interface design</a>
         </td>
     </tr>
     <tr>

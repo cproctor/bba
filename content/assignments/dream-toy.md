@@ -92,7 +92,7 @@ We will assess how your product is aligned with your decisions and observations 
 
 ## Steps
 
-- If you have not yet scheduled your second interview, do so right away. Also make sure the parent knows that we will be giving children the Dream Toys the last hour of class on Week 5 (2/8, 5-5:50pm). 
+- If you have not yet scheduled your second interview, do so right away. Also make sure the parent knows that we will be giving children the Dream Toys the last half-hour of class on Week 5 (2/8, 5:20-5:50pm). 
 - Build a prototype to use in the second interview. 
 - After the second interview, make a plan for finishing your dream toy!
 
