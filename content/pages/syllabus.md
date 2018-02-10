@@ -154,6 +154,9 @@ Date: 2017-12-15
         <td>
             <h4>Topics</h4>
             Overview of Design Methodologies for Learning, Human-Centered Design and Design Thinking
+            <ul>
+            <li><a href="https://docs.google.com/presentation/d/1djeImdOc2sX7Fbll-jNbKD5-AYG14NZ-9-m_0LAg_pg/edit?usp=sharing">Lecture 5 Slides</a>
+            </ul>
             <h4>Readings Due</h4>
             <ul>
                 <li><a href="https://canvas.stanford.edu/files/2594822/download?download_frd=1">Some reflections on designing construction kits for kids</a> (<a href="{filename}/resources/biblatex/Some Reflections on Designing Construction Kits.bib">.bib</a>)
@@ -182,8 +185,12 @@ Date: 2017-12-15
             Affordances, Cultural Forms
             <h4>Readings Due</h4>
             <ul>
-                <li>Affordance, conventions, and design
-                <li>The role of cultural forms in tangible interaction design
+                <li><a href="https://canvas.stanford.edu/files/2633938/download?download_frd=1">Affordance, conventions, and design </a>
+                <li><a href="https://canvas.stanford.edu/files/2633937/download?download_frd=1">The role of cultural forms in tangible interaction design </a>
+            </ul>
+            <h5>Optional</h5>
+            <ul>
+            <li><a href="http://web.stanford.edu/~rldavis/educ236/readings/doet/text/ch01.html">The Design of Everyday Things, Ch. 1 excerpt</a> 
             </ul>
             <h4>Assignments</h4>
             <a class="assignment-due" href="https://docs.google.com/document/d/1ZH5icFg9WNnMOCjpMGxCV3cMVfquNp2WOApEq5hi7fI/edit?usp=sharing">Due: Tech in the Wild (On Feb 13 at 11:59 PM)</a>
