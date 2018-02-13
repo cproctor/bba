@@ -21,7 +21,7 @@ how it works:
 
 - Create a new user by going to [treasure.chrisproctor.net/players/new/USERNAME](treasure.chrisproctor.net/players/new/USERNAME), replacing `USERNAME` with the username you want. You will get a 
   secret `pid`. Don't lose this!
-- Now you can see your profile at [http://treasure.chrisproctor.net/players/43431](http://treasure.chrisproctor.net/players/43431), again replacing `PID` with your PID.
+- Now you can see your profile at [http://treasure.chrisproctor.net/players/43431](http://treasure.chrisproctor.net/players/PID), again replacing `PID` with your PID.
 - Create a new game with `/players/PID/games/new`, join an existing game with `/players/PID/games/join`, or resume a game you're already playing with `/players/PID/games/resume`. 
 - Now you will see information about this game. You can play your next card with `/players/PID/games/GID/play/CARD`, where CARD is a number between 1 and 13. 
 
@@ -46,7 +46,7 @@ Develop and iterate some ideas for the user interface. You will need to articula
 ### Implementing the interface
 You may use any technology you want, but code is provided for Python and for Scratch. 
 
-- If you want to use Scratch (recommended), there is a [ScratchX extension](http://scratchx.org/?url=http://treasure.chrisproctor.net/extension.js#scratch) with all the blocks you need to connect to the Treasure server. Try it out! There is also a [demo project](http://chrisproctor.net/demos/treasure.sbx)--download it to your computer, upload it to [Scratch X](https://scratchx.org), and then load the Treasure extension using this URL: [http://treasure.chrisproctor.net/extension.js](http://treasure.chrisproctor.net/extension.js). 
+- If you want to use Scratch (recommended), there is a [ScratchX extension](http://scratchx.org/?url=http://treasure.chrisproctor.net/extension.js#scratch) with all the blocks you need to connect to the Treasure server. Try it out! There is also a [demo project](http://chrisproctor.net/demos/treasure.sbx)--download it to your computer, upload it to [Scratch X](http://scratchx.org), and then load the Treasure extension using this URL: [http://treasure.chrisproctor.net/extension.js](http://treasure.chrisproctor.net/extension.js). 
 - If you want to use Python, there is a [client API](https://github.com/cproctor/treasure/blob/master/treasure/api.py) and [demo command-line program](https://github.com/cproctor/treasure/blob/master/treasure/client.py) in the [Treasure repo](https://github.com/cproctor/treasure). If Python/Git/django/APIs/aahhh!!!! feels unfamiliar, but it's a learning opportunity you want to pursue, Chris will be happy to provide extensive support. Get in touch!
 
 ### Deliverables
