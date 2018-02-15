@@ -19,7 +19,7 @@ Each round, a random treasure is displayed and then you and the opponent each ch
 Chris has built a treasure server at [http://treasure.chrisproctor.net](http://treasure.chrisproctor.net), which you can play by typing in URLs in your browser. Play with it so you understand
 how it works:
 
-- Create a new user by going to [treasure.chrisproctor.net/players/new/USERNAME](treasure.chrisproctor.net/players/new/USERNAME), replacing `USERNAME` with the username you want. You will get a 
+- Create a new user by going to [treasure.chrisproctor.net/players/new/USERNAME](http://treasure.chrisproctor.net/players/new/USERNAME), replacing `USERNAME` with the username you want. You will get a 
   secret `pid`. Don't lose this!
 - Now you can see your profile at [http://treasure.chrisproctor.net/players/PID](http://treasure.chrisproctor.net/players/PID), again replacing `PID` with your PID.
 - Create a new game with `/players/PID/games/new`, join an existing game with `/players/PID/games/join`, or resume a game you're already playing with `/players/PID/games/resume`. 
