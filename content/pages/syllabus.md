@@ -199,7 +199,9 @@ Date: 2017-12-15
         <td>
             <h4>Topics</h4>
                 Share final project user reserarch; iterate design ideas. Discuss crits next week and functional prototypes.
+                (<a href="https://docs.google.com/presentation/d/1HzsftF9WCP2WxIKH5vpfvvzCc9dU5Ku7EFpNoSBCwFM/edit?usp=sharing">Slides</a>)
                 <a class="module" href="{filename}/modules/tangible-tables.md">Tangible interface tables</a>
+                <a class="module" href="{filename}/modules/interface.md">Interface design case studies</a>
             <h4>Assignments</h4>
                 <a class="assignment-out" href="{filename}/assignments/interface_design.md">Out: Interface design</a>
         </td>
