@@ -137,7 +137,7 @@ Date: 2017-12-15
             <h4>Topics</h4>
             Share Dream Toy user research. Introduce final project.
                 <a class="module" href="{filename}/modules/processing.md">Processing</a>,
-                <a class="module" href="{filename}/modules/code.md">Code</a> 
+                <a class="module" href="{filename}/modules/code.md">Code</a>
                 (<a class="module" href="https://docs.google.com/presentation/d/1xse1Jrjt8P6yDPxXK6FxXIFUOvAj9t_eSKvMEez-6q0/edit?usp=sharing">Lab 4 slides</a>)
             <h4>Assignments</h4>
             <a class="assignment-due" href="{filename}/assignments/dream-toy.md">Due: Dream Toy (Part 1)</a>
@@ -190,11 +190,11 @@ Date: 2017-12-15
             </ul>
             <h5>Optional</h5>
             <ul>
-            <li><a href="http://web.stanford.edu/~rldavis/educ236/readings/doet/text/ch01.html">The Design of Everyday Things, Ch. 1 excerpt</a> 
+            <li><a href="http://web.stanford.edu/~rldavis/educ236/readings/doet/text/ch01.html">The Design of Everyday Things, Ch. 1 excerpt</a>
             </ul>
             <h4>Assignments</h4>
             <a class="assignment-due" href="https://docs.google.com/document/d/1ZH5icFg9WNnMOCjpMGxCV3cMVfquNp2WOApEq5hi7fI/edit?usp=sharing">Due: Tech in the Wild (On Feb 13 at 11:59 PM)</a>
-            <a class="assignment-out" href="{filename}/assignments/tech-critique.md">Out: Tech critique</a>
+            <a class="assignment-out" href="https://docs.google.com/document/d/1QQm9jTKPCm69osBNN7jhaQWzweMLmTlzfznp2ExFWds/edit?usp=sharing">Out: Tech critique</a>
         </td>
         <td>
             <h4>Topics</h4>
@@ -240,7 +240,7 @@ Date: 2017-12-15
                 <li>Computationally enhanced toolkits for children: historical review and a framework for future design
             </ul>
             <h4>Assignments</h4>
-            <a class="assignment-due" href="{filename}/assignments/tech-critique.md">Due: Tech critique</a>
+            <a class="assignment-due" href="https://docs.google.com/document/d/1QQm9jTKPCm69osBNN7jhaQWzweMLmTlzfznp2ExFWds/edit?usp=sharing">Due: Tech critique</a>
             <a class="assignment-out" href="{filename}/assignments/final.md#lit-review">Out: Theory & Lit review</a>
         </td>
         <td>
