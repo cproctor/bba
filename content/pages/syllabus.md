@@ -183,6 +183,9 @@ Date: 2017-12-15
         <td>
             <h4>Topics</h4>
             Affordances, Cultural Forms
+            <ul>
+            <li><a href="https://drive.google.com/open?id=1tMTSQzbd4IqM9lAgsyHLBJ2Fbr3_6ObT6QoM0WDprFY">Lecture 6 Slides</a>
+            </ul>
             <h4>Readings Due</h4>
             <ul>
                 <li><a href="https://canvas.stanford.edu/files/2633938/download?download_frd=1">Affordance, conventions, and design </a>
@@ -194,7 +197,7 @@ Date: 2017-12-15
             </ul>
             <h4>Assignments</h4>
             <a class="assignment-due" href="https://docs.google.com/document/d/1ZH5icFg9WNnMOCjpMGxCV3cMVfquNp2WOApEq5hi7fI/edit?usp=sharing">Due: Tech in the Wild (On Feb 13 at 11:59 PM)</a>
-            <a class="assignment-out" href="https://docs.google.com/document/d/1QQm9jTKPCm69osBNN7jhaQWzweMLmTlzfznp2ExFWds/edit?usp=sharing">Out: Tech critique</a>
+            <a class="assignment-out" href="https://docs.google.com/document/d/1QQm9jTKPCm69osBNN7jhaQWzweMLmTlzfznp2ExFWds/edit?usp=sharing">Out: Tech critique (Due March 02 at 11:59 PM)</a>
         </td>
         <td>
             <h4>Topics</h4>
@@ -216,9 +219,13 @@ Date: 2017-12-15
             Restructurations, Epistemic Forms and Games
             <h4>Readings Due</h4>
             <ul>
-                <li>Restructurations
-                <li>Changing Minds, Ch. 1
-                <li>Epistemic Forms and Games
+                <li><a href="https://canvas.stanford.edu/files/2664466/download?download_frd=1">Restructurations</a>
+                <li><a href="https://canvas.stanford.edu/files/2664464/download?download_frd=1">Changing Minds, Ch. 1</a>
+            </ul>
+            <h5>Optional</h5>
+            <ul>
+                <li><a href="https://canvas.stanford.edu/files/2664465/download?download_frd=1">Epistemic Forms and Games</a>
+            </ul>
             </ul>
         </td>
         <td>
@@ -240,7 +247,7 @@ Date: 2017-12-15
                 <li>Computationally enhanced toolkits for children: historical review and a framework for future design
             </ul>
             <h4>Assignments</h4>
-            <a class="assignment-due" href="https://docs.google.com/document/d/1QQm9jTKPCm69osBNN7jhaQWzweMLmTlzfznp2ExFWds/edit?usp=sharing">Due: Tech critique</a>
+            <a class="assignment-due" href="https://docs.google.com/document/d/1QQm9jTKPCm69osBNN7jhaQWzweMLmTlzfznp2ExFWds/edit?usp=sharing">Due: Tech critique (Due March 02 at 11:59 PM)</a>
             <a class="assignment-out" href="{filename}/assignments/final.md#lit-review">Out: Theory & Lit review</a>
         </td>
         <td>
