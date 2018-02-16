@@ -1,6 +1,8 @@
 Title: Tangible interface tables
 Date: 2018-02-08
 
+[Slides](https://docs.google.com/presentation/d/1LrSjeT7zTV3mismZ41-fcisdNBFVRaTPRy6lJ0BwU-4/edit?usp=sharing)
+
 TLTL is the proud home of four home-made tangible user interface tables. These are interesting
 interfaces because they support physical interaction with programmed environments in a 
 context well-suited to social play. They are also an excellent example of how our digital fabrication technologies
