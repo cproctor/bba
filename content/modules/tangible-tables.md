@@ -37,7 +37,7 @@ illuminate the underside of the table with infrared light.
 
   <img src="{filename}/images/chris_react.png" style="width:40%;">
 
-- Print out the fiducial patterns ([PDF](http://reactivision.sourceforge.net/data/fiducials.pdf)) and hold them in view of your 
+- Print out the fiducial patterns ([PDF]({filename}/resources/fiducials.pdf)) and hold them in view of your 
   webcam. You should see them identified in the reacTIVision window. 
 - Install the [TUIO Processing](https://www.tuio.org/?software) library. Download and unzip the folder, and then put it in the `libraries` folder
   inside your processing home directory. 
