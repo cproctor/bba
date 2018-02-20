@@ -131,7 +131,8 @@ Date: 2017-12-15
             <h4>Assignments</h4>
             <a class="assignment-due" href="{filename}/assignments/3c.md">Due: 3C's (On Feb 04 at 11:59 PM)</a>
             <a class="assignment-out" href="https://docs.google.com/document/d/1ZH5icFg9WNnMOCjpMGxCV3cMVfquNp2WOApEq5hi7fI/edit?usp=sharing">Out: Tech in the Wild</a>
-            <a class="assignment-out" href="{filename}/assignments/final.md">Out: Final</a>
+            <!-- <a class="assignment-out" href="{filename}/assignments/final.md">Out: Final</a> -->
+            <a class="assignment-out" href="https://docs.google.com/document/d/1gD8BvY2rTvPhSuoLWm5E1Zu1mh1MbcpL8ChgiGAoFgQ/edit?usp=sharing">Out: Final</a>
         </td>
         <td>
             <h4>Topics</h4>
@@ -141,7 +142,8 @@ Date: 2017-12-15
                 (<a class="module" href="https://docs.google.com/presentation/d/1xse1Jrjt8P6yDPxXK6FxXIFUOvAj9t_eSKvMEez-6q0/edit?usp=sharing">Lab 4 slides</a>)
             <h4>Assignments</h4>
             <a class="assignment-due" href="{filename}/assignments/dream-toy.md">Due: Dream Toy (Part 1)</a>
-            <a class="assignment-out" href="{filename}/assignments/final.md">Out: Final</a>
+            <a class="assignment-out" href="https://docs.google.com/document/d/1gD8BvY2rTvPhSuoLWm5E1Zu1mh1MbcpL8ChgiGAoFgQ/edit?usp=sharing">Out: Final</a>
+            <!-- <a class="assignment-out" href="{filename}/assignments/final.md">Out: Final</a> -->
         </td>
     </tr>
     <tr>
@@ -250,7 +252,7 @@ Date: 2017-12-15
             </ul>
             <h4>Assignments</h4>
             <a class="assignment-due" href="https://docs.google.com/document/d/1QQm9jTKPCm69osBNN7jhaQWzweMLmTlzfznp2ExFWds/edit?usp=sharing">Due: Tech critique (Due March 02 at 11:59 PM)</a>
-            <a class="assignment-out" href="{filename}/assignments/final.md#lit-review">Out: Theory & Lit review</a>
+            <a class="assignment-out" href="https://docs.google.com/document/d/1BIaDpd13_Psp23842leFEVfEM5j98J_h_pJ6n7NDTAw/edit?usp=sharing">Out: Theory & Lit review (Due March 09 at 11:59 PM)</a>
         </td>
         <td>
             <h4>Crits</h4>
@@ -272,8 +274,8 @@ Date: 2017-12-15
                 <li>TBD (Computational Thinking)
             </ul>
             <h4>Assignments</h4>
-            <a class="assignment-due" href="{filename}/assignments/final.md#lit-review">Due: Theory & Lit Review</a>
-            <a class="assignment-out" href="{filename}/assignments/final.md">Out: Data & Methods</a>
+            <a class="assignment-due" href="https://docs.google.com/document/d/1BIaDpd13_Psp23842leFEVfEM5j98J_h_pJ6n7NDTAw/edit?usp=sharing">Due: Theory & Lit Review (On March 09 at 11:59 PM)</a>
+            <a class="assignment-out" href="https://docs.google.com/document/d/1jer_UUCzNc1UzwJRe_M3v8Q717ASQ0H8r9JpCX-9sR0/edit?usp=sharing">Out: Final Project Presentations (Due March 15 at 9:00 AM)</a>
         </td>
         <td>
             <h4>Topics</h4>
@@ -288,9 +290,12 @@ Date: 2017-12-15
         <td>Week 10<br /><span class="date">Mar 15</span></td>
         <td colspan="2">
             In class, students present final projects.
-            <a href="{filename}/logistics/expo.md">Beyond Bits & Atoms Expo</a>, CERAS lobby. 4:30-6:00pm.
+            <a href="{filename}/logistics/expo.md">Beyond Bits & Atoms Expo</a>, CERAS lobby. 4:00-6:00pm (tentative).
             <h4>Assignments</h4>
-            <a class="assignment-due" href="{filename}/assignments/final.md">Due: Final</a>
+            <a class="assignment-due" href="https://docs.google.com/document/d/1jer_UUCzNc1UzwJRe_M3v8Q717ASQ0H8r9JpCX-9sR0/edit?usp=sharing">Due: Final Project Presentations (In Class at 9:00 AM)</a>
+            <a class="assignment-due" href="https://docs.google.com/document/d/1gD8BvY2rTvPhSuoLWm5E1Zu1mh1MbcpL8ChgiGAoFgQ/edit?usp=sharing">Due: Final Project (In Expo at 4:00 PM)</a>
+            <a class="assignment-due" href="https://docs.google.com/document/d/1gD8BvY2rTvPhSuoLWm5E1Zu1mh1MbcpL8ChgiGAoFgQ/edit?usp=sharing">Due: Final Project Demo Paper (Due Mar 21 at 11:59 PM)</a>
+            <!-- <a class="assignment-due" href="{filename}/assignments/final.md">Due: Final</a> -->
         </td>
     </tr>
 </table>
