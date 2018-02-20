@@ -54,8 +54,8 @@ You may use any technology you want, but code is provided for Python and for Scr
 - Your interface, in some playable format.
 - Your code. (If you use Scratch, this should be your SBX file.)
 - A brief writeup explaining your design choices in terms of learning. Explain how you want your user to think or interact with your interface, and connect this to specific design choices in the interface. Aim for ~300 words. Possible formats:
-    - Annotated screenshots, wireframes, or sketches (See Teacher Portal or Student Journalism in [Interface design case studies]({filename}/modules/interfaces.md))
-    - A list of user stories with interface features supporting them (See Interactive Storytelling in [Interface design case studies]({filename}/modules/interfaces.md))
+    - Annotated screenshots, wireframes, or sketches (See Teacher Portal or Student Journalism in [Interface design case studies]({filename}/modules/interface.md))
+    - A list of user stories with interface features supporting them (See Interactive Storytelling in [Interface design case studies]({filename}/modules/interface.md))
     - Several paragraphs summarizing your design process, explaining what you were trying to achieve and options you considered for achieving it. 
 
 ---
@@ -74,8 +74,8 @@ share your plans for the complete interface, along with a working implementation
 - Your interface, in some playable format.
 - Your code. (If you use Scratch, this should be your SBX file.)
 - A brief writeup explaining your design choices in terms of learning. Explain how you want your user to think or interact with your interface, and connect this to specific design choices in the interface. Aim for ~300 words. Possible formats:
-    - Annotated screenshots, wireframes, or sketches (See Teacher Portal or Student Journalism in [Interface design case studies]({filename}/modules/interfaces.md))
-    - A list of user stories with interface features supporting them (See Interactive Storytelling in [Interface design case studies]({filename}/modules/interfaces.md))
+    - Annotated screenshots, wireframes, or sketches (See Teacher Portal or Student Journalism in [Interface design case studies]({filename}/modules/interface.md))
+    - A list of user stories with interface features supporting them (See Interactive Storytelling in [Interface design case studies]({filename}/modules/interface.md))
     - Several paragraphs summarizing your design process, explaining what you were trying to achieve and options you considered for achieving it. 
 - Sketches or design documents showing how the interface components you are turning in fit into your larger project. (This might already be achieved in your writeup explaining design choices.)
 
