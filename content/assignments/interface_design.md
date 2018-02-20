@@ -53,7 +53,10 @@ You may use any technology you want, but code is provided for Python and for Scr
 
 - Your interface, in some playable format.
 - Your code. (If you use Scratch, this should be your SBX file.)
-- A writeup explaining your design choices in terms of learning (details coming)
+- A brief writeup explaining your design choices in terms of learning. Explain how you want your user to think or interact with your interface, and connect this to specific design choices in the interface. Aim for ~300 words. Possible formats:
+    - Annotated screenshots, wireframes, or sketches (See Teacher Portal or Student Journalism in [Interface design case studies]({filename}/modules/interfaces.md))
+    - A list of user stories with interface features supporting them (See Interactive Storytelling in [Interface design case studies]({filename}/modules/interfaces.md))
+    - Several paragraphs summarizing your design process, explaining what you were trying to achieve and options you considered for achieving it. 
 
 ---
 # Option 2: User interface for your final project
@@ -62,5 +65,21 @@ If you are planning to have a computational aspect to your final project, you ma
 final project group will submit one interface. Your interface should work, even if the back end is stubbed (Often, one part of a software system can't function without other parts. In such cases,
 it is helpful to create a *stub* or a *mock*, which pretends to be a fully-functioning component. For example, as you design your interface, you could have it consume a static JSON file instead of implementing
 whatever kind of dynamic back end you ultimately plan to have.) 
+
+Note: If you choose Option 2, this assignment will be an ambitious milestone in your final project. We recognize that your interface will not be a complete implementation of your final project, and encourage you to 
+share your plans for the complete interface, along with a working implementation of part of it. This will not look like an unfinished assignment; it will look like you've completed part of a larger, intentional whole. 
+
+### Deliverables
+
+- Your interface, in some playable format.
+- Your code. (If you use Scratch, this should be your SBX file.)
+- A brief writeup explaining your design choices in terms of learning. Explain how you want your user to think or interact with your interface, and connect this to specific design choices in the interface. Aim for ~300 words. Possible formats:
+    - Annotated screenshots, wireframes, or sketches (See Teacher Portal or Student Journalism in [Interface design case studies]({filename}/modules/interfaces.md))
+    - A list of user stories with interface features supporting them (See Interactive Storytelling in [Interface design case studies]({filename}/modules/interfaces.md))
+    - Several paragraphs summarizing your design process, explaining what you were trying to achieve and options you considered for achieving it. 
+- Sketches or design documents showing how the interface components you are turning in fit into your larger project. (This might already be achieved in your writeup explaining design choices.)
+
+
+
 
 
