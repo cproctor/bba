@@ -234,7 +234,7 @@ Date: 2017-12-15
         </td>
         <td>
             <h4>Topics</h4>
-            Workshop final projects.
+            Preparing for crits. (<a href="https://docs.google.com/presentation/d/10ShCfYLHnsssPY5NCNGLYxbiAmmA_O9c1ghj1y_Hj2c/edit?usp=sharing">Slides</a>)
             <h4>Assignments</h4>
             <a class="assignment-due" href="{filename}/assignments/interface_design.md">Due: Interface design</a>
             <a class="assignment-out" href="{filename}/assignments/final.md#prototype">Out: Project prototype</a>
@@ -257,7 +257,7 @@ Date: 2017-12-15
         <td>
             <h4>Crits</h4>
             <a class="module" href="{filename}/logistics/crits.md">Agenda</a>
-            Class meets 6-8pm. Students give 10-minute presentations on projects with prototypes; outside critics (teachers, designers, academics, business-people) provide feedback and discuss ideas.
+            Class meets 6-8pm. Students give 5-minute presentations on projects with prototypes; outside critics (teachers, designers, academics, business-people) provide feedback and discuss ideas.
             <h4>Assignments</h4>
             <a class="assignment-due" href="{filename}/assignments/final.md#prototype">Due: Project prototype</a>
         </td>
