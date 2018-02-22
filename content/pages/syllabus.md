@@ -221,6 +221,9 @@ Date: 2017-12-15
         <td>
             <h4>Topics</h4>
             Restructurations, Epistemic Forms and Games
+            <ul>
+            <li><a href="https://docs.google.com/presentation/d/1B06MePPjMjQmIAFmRmzAm3YviwI3ca8Hl_hnWMDXC8c/edit?usp=sharing">Week 7 Slides</a>
+            </ul>
             <h4>Readings Due</h4>
             <ul>
                 <li><a href="https://canvas.stanford.edu/files/2664466/download?download_frd=1">Restructurations</a>
