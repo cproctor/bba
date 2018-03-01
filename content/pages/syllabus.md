@@ -248,6 +248,9 @@ Date: 2017-12-15
         <td>
             <h4>Topics</h4>
             Glassboxing and Blackboxing
+            <ul>
+            <li><a href="https://docs.google.com/presentation/d/1lZrEl-HosAX9JFTRXqXw5H0i4UPAXHSpDUBYTZIpiAQ/edit?usp=sharing">Week 8 Slides</a>
+            </ul>
             <h4>Readings Due</h4>
             <ul>
                 <li><a href="https://canvas.stanford.edu/files/2692955/download?download_frd=1">Of Black and Glass Boxes: Scaffolding for Doing and Learning</a>
