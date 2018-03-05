@@ -274,10 +274,11 @@ Date: 2017-12-15
             <h4>Topics</h4>
             Current trends in educational technology: games for learning, computational thinking
             <h4>Readings Due</h4>
+            <h5>Optional</h5>
             <ul>
-                <li>What Video Games Have to Teach Us About Learning and Literacy
-                <li>Playing and Making Games for Learning: Instructionist and Constructionist Perspectives for Game Studies
-                <li>TBD (Computational Thinking)
+                <li><a href="https://canvas.stanford.edu/files/2736601/download?download_frd=1">What Video Games Have to Teach Us About Learning and Literacy</a>
+                <li><a href="https://canvas.stanford.edu/files/2736602/download?download_frd=1">Playing and Making Games for Learning: Instructionist and Constructionist Perspectives for Game Studies</a>
+                <li>TBD (Computational thinking)
             </ul>
             <h4>Assignments</h4>
             <a class="assignment-due" href="https://docs.google.com/document/d/1BIaDpd13_Psp23842leFEVfEM5j98J_h_pJ6n7NDTAw/edit?usp=sharing">Due: Theory & Lit Review (On March 09 at 11:59 PM)</a>
