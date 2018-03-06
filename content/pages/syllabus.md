@@ -221,6 +221,9 @@ Date: 2017-12-15
         <td>
             <h4>Topics</h4>
             Restructurations, Epistemic Forms and Games
+            <ul>
+            <li><a href="https://docs.google.com/presentation/d/1B06MePPjMjQmIAFmRmzAm3YviwI3ca8Hl_hnWMDXC8c/edit?usp=sharing">Week 7 Slides</a>
+            </ul>
             <h4>Readings Due</h4>
             <ul>
                 <li><a href="https://canvas.stanford.edu/files/2664466/download?download_frd=1">Restructurations</a>
@@ -245,10 +248,13 @@ Date: 2017-12-15
         <td>
             <h4>Topics</h4>
             Glassboxing and Blackboxing
+            <ul>
+            <li><a href="https://docs.google.com/presentation/d/1lZrEl-HosAX9JFTRXqXw5H0i4UPAXHSpDUBYTZIpiAQ/edit?usp=sharing">Week 8 Slides</a>
+            </ul>
             <h4>Readings Due</h4>
             <ul>
-                <li>Of Black and Glass Boxes: Scaffolding for Doing and Learning
-                <li>Computationally enhanced toolkits for children: historical review and a framework for future design
+                <li><a href="https://canvas.stanford.edu/files/2692955/download?download_frd=1">Of Black and Glass Boxes: Scaffolding for Doing and Learning</a>
+                <li><a href="https://canvas.stanford.edu/files/2692947/download?download_frd=1">Computationally enhanced toolkits for children: historical review and a framework for future design</a>
             </ul>
             <h4>Assignments</h4>
             <a class="assignment-due" href="https://docs.google.com/document/d/1QQm9jTKPCm69osBNN7jhaQWzweMLmTlzfznp2ExFWds/edit?usp=sharing">Due: Tech critique (Due March 02 at 11:59 PM)</a>
@@ -268,10 +274,11 @@ Date: 2017-12-15
             <h4>Topics</h4>
             Current trends in educational technology: games for learning, computational thinking
             <h4>Readings Due</h4>
+            <h5>Optional</h5>
             <ul>
-                <li>What Video Games Have to Teach Us About Learning and Literacy
-                <li>Playing and Making Games for Learning: Instructionist and Constructionist Perspectives for Game Studies
-                <li>TBD (Computational Thinking)
+                <li><a href="https://canvas.stanford.edu/files/2736601/download?download_frd=1">What Video Games Have to Teach Us About Learning and Literacy</a>
+                <li><a href="https://canvas.stanford.edu/files/2736602/download?download_frd=1">Playing and Making Games for Learning: Instructionist and Constructionist Perspectives for Game Studies</a>
+                <li><a href="https://services.google.com/fh/files/misc/pre-college-computer-science-education-report.pdf">Pre-College Computer Science Education: A Survey of the Field</a>
             </ul>
             <h4>Assignments</h4>
             <a class="assignment-due" href="https://docs.google.com/document/d/1BIaDpd13_Psp23842leFEVfEM5j98J_h_pJ6n7NDTAw/edit?usp=sharing">Due: Theory & Lit Review (On March 09 at 11:59 PM)</a>
