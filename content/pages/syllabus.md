@@ -289,7 +289,9 @@ Date: 2017-12-15
         </td>
         <td>
             <h4>Topics</h4>
+            Lean Buechley talk
             Workshop final projects. Individual project meetings with teaching team.
+            (<a href="https://docs.google.com/presentation/d/1SEXQtJ3JtJmaCEBPEJXKw7LF3UeTunIZgQEg1OelmDc/edit?usp=sharing">Slides</a>)
         </td>
     </tr>
     <tr>
