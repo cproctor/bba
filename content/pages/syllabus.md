@@ -273,6 +273,9 @@ Date: 2017-12-15
         <td>
             <h4>Topics</h4>
             Current trends in educational technology: games for learning, computational thinking
+            <ul>
+            <li><a href="https://docs.google.com/presentation/d/1MQeU_TZi9MUv8IU_Y9Lf3nB-ladG5BEpyg9YZI2Iccc/edit?usp=sharing">Week 9 Slides</a>
+            </ul>
             <h4>Readings Due</h4>
             <h5>Optional</h5>
             <ul>
