@@ -12,7 +12,8 @@ Here are the [slides](https://docs.google.com/presentation/d/1_kqbVa_1KauSrjTB4q
 - Be sure you are using materials allowed in the laser. Some materials catch on fire or release poisonous gas when used with a laser cutter. PVC and vinyl are particularly toxic. Do not cut unknown materials--it is your responsibility to make sure materials are OK to cut. 
 - Make sure you know how to pause and stop the machine. 
 - Double-check the power and speed settings for your material. 
-- The laser beam could do a lot of harm if it escaped from the chamber. Always make sure the glass is closed. Don't put mirrors in the chamber. Make sure the crumb tray is installed. 
+- The laser beam could do a lot of harm if it escaped from the chamber. Always make sure the glass is closed. Don't put mirrors in the chamber. Make sure the crumb tray (hexagonal lattice) is installed. 
+- The ventilation system connects to several laser cutters. Close the gates to laser cutters not in use, to get maximum suction to the ones that are in use. Make sure the gate is open to the laser cutter you're using!
 - If anything seems funny, pause and let a TA know. 
 - If a fire starts inside the chamber, do not open it. Immediately cut power to the machine (stop button or pull the plug), turn off the compressed air and exhaust, and get the fire extinguisher. In most cases, the fire will go right out. 
 - Clean up after yourself. Dust and scraps left in the laser cutter can ignite. 
@@ -42,7 +43,13 @@ The FS laser has a driver and design software called [RetinaEngrave](https://fsl
 
 ---
 ## Epilog Usage
-The Epilog is currently out of service until we replace the burned-out laser. Check for updates here. 
+The Epilog is faster and more powerful than GlowForge (more of an industrial machine than hobbyist). There is a laptop connected to the Epilog (to the left), which serves as the print station for this machine. Move your work onto this laptop. Then follow the instructions posted on the cabinet at eye level above the laser cutters. 
+
+### Setup
+- Turn on the Epilog. 
+- Turn on the ventilation system. 
+- Turn on the compressed air (a valve to the right of the ventilation system switch. This makes a hissing sound when it's on.)
+- If you have trouble getting the print station to recognize the Epilog, try some combination of power cycling, plugging and unplugging the USB cable. It can be a bit fussy. 
 
 ---
 # Cleanup
