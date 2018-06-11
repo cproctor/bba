@@ -1,5 +1,6 @@
 Title: Syllabus
 Date: 2017-12-15
+Status: hidden
 
 <table class="syllabus">
     <tr>

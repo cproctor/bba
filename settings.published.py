@@ -17,7 +17,7 @@ DEFAULT_LANG = 'en'
 THEME = 'themes/notmyidea'
 
 DISPLAY_CATEGORIES_ON_MENU = False
-DISPLAY_PAGES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = False
 
 STATIC_PATHS = ['images', 'resources']
 
@@ -31,7 +31,7 @@ AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = False
 
 MENUITEMS = [
-    ('Piazza', 'https://piazza.com/stanford/winter2018/educ211cs402l/home')
+    #('Piazza', 'https://piazza.com/stanford/winter2018/educ211cs402l/home')
 
 ]
 
