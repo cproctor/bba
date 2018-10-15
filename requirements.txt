@@ -2,7 +2,7 @@ asn1crypto==0.24.0
 bcrypt==3.1.4
 blinker==1.4
 cffi==1.11.2
-cryptography==2.1.4
+cryptography==2.3.1
 docutils==0.14
 Fabric==1.14.0
 feedgenerator==1.9
@@ -10,7 +10,7 @@ idna==2.6
 Jinja2==2.10
 Markdown==2.6.10
 MarkupSafe==1.0
-paramiko==2.4.0
+paramiko==2.4.2
 pelican==3.7.1
 pyasn1==0.4.2
 pycparser==2.18
