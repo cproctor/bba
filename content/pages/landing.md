@@ -3,7 +3,7 @@ URL:
 save_as: index.html
 
 Beyond Bits & Atoms 2018 wrapped up with a very exciting expo on March 15. After the course ended, 
-many groups submitted their projects to the [Interaction Design & Children](http://idc-2018.org/). 
+many groups submitted their projects to the [Interaction Design & Children](http://idc-2018.org/) (IDC 2018) conference. 
 We are thrilled that 8 groups were accepted! They will present their work at the conference, 
 June 19-22 in Trondheim, Norway. 
 
