@@ -12,7 +12,7 @@ permission to access the repo.
     cd bba
     python3 -m venv env
     source env/bin/activate
-    pip install pelican markdown
+    pip install -r requirements.txt
     pelican -s settings.local.py
     cd output_local
     python -m pelican.server

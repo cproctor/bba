@@ -1,5 +1,9 @@
 Title: Syllabus
-Date: 2017-12-15
+Date: 2018-12-01
+
+Note: This is the syllabus from BBA 2018, when it was taught at Stanford on the quarter system. 
+We are very excited to see what we can accomplish on the longer semester schedule. 
+The new, updated syllabus will be posted here soon.
 
 <table class="syllabus">
     <tr>

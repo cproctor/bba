@@ -4,13 +4,13 @@ from __future__ import unicode_literals
 
 AUTHOR = 'BB&A Teaching Team'
 SITENAME = 'Beyond Bits & Atoms'
-SITEURL = 'https://web.stanford.edu/class/educ211'
-SITESUBTITLE = "Stanford EDUC 211 & 236 / CS 402 & 402L" 
+SITEURL = 'http://chrisproctor.net/bba'
+SITESUBTITLE = "Teachers College MSTU 5199 001 & 002" 
 OUTPUT_PATH = "output_published"
 
 PATH = 'content'
 
-TIMEZONE = 'America/Los_Angeles'
+TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
 
@@ -31,8 +31,6 @@ AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = False
 
 MENUITEMS = [
-    ('Piazza', 'https://piazza.com/stanford/winter2018/educ211cs402l/home')
-
 ]
 
 MARKDOWN = {

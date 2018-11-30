@@ -1,7 +1,7 @@
 Title: Course info
 Date: 2017-12-15
 
-Beyond Bits & Atoms teaches students to design, build, and critique constructionist educational technologies. BB&A consists of a theory-oriented class (Educ 236 / CS 402) and a practice-focused lab (Educ 211 / CS 402L); students are required to enroll in both. The theory class is focused on answering three questions:
+Beyond Bits & Atoms teaches students to design, build, and critique constructionist educational technologies. BB&A consists of a theory-oriented class (MSTU 5199 001) and a practice-focused lab (MSTU 5199 002); students are required to enroll in both. The theory class is focused on answering three questions:
 
 - How does learning work?
 - How does schooling work?
@@ -11,12 +11,11 @@ Students explore constructivism, constructionism, and critical pedagogy, as well
 
 In the lab, students are immersed in a constructionist learning environment where they reflect on their own learning processes as they learn to use technologies for prototyping and digital fabrication. Students use these tools to design nand build a constructionist educational technology.
 
-
 ## Final project
 The joint project for the two courses is a working prototype of a constructionist educational technology, to be displayed at the [BB&A Expo]({filename}/logistics/expo.md), and an accompanying paper suitable for submission to [IDC](http://idc-2018.org/) as a [Demo Paper](http://idc-2018.org/demos-art-installations/). In 2017, 6 papers from BB&A students and instructors were accepted to IDC. Final projects have also gone on to become commercial products. [More about the final project]({filename}/assignments/final.md).
 
+<!--
 ## Teaching team
-
 ### Theory
 
 - Paulo Blikstein
@@ -31,6 +30,7 @@ The joint project for the two courses is a working prototype of a constructionis
 - Katerina Gregoriou 
 - Sydney Hutton 
 - Ali Azhar 
+-->
 
 ## Grading
 You will find that motivation in this class comes from your own curiosity and playfulness, augmented by tools, media, and a supportive community of learners. This is a unique opportunity at Stanford to experience constructionist learning, and motivating students with punitive grades would interfere with the dynamics which are the focus of the class. We have high expectations for students in BB&A, and the class requires a lot of work, but if you show up, work hard, and open yourself to new experiences you will end up with a good grade in the class. If you are not meeting our expectations, we will let you know early and often, so that nobody is surprised at the end of the class. Students in prior cohorts have gone on to start companies, pursue new research trajectories, or reshape their own career goals through the class. Make these your goals, rather than an A.
@@ -44,10 +44,12 @@ You can expect regular personalized feedback on your work, in person and in writ
 
 If you are regularly getting evaluations of &#10003; or above, you are on track for an A.
 
+<!--
 ## Lab fee
 The $75 lab fee supports the TLTL facilities and covers basic supplies such as cardboard, plywood, and other materials
 stocked by the lab. Excellent final projects can be created using materials stocked by the lab, but students wishing
 to use materials or technologies not stocked by the lab may spend up to an additional $100.
+-->
 
 ## Readings
 We have done our best to assign a reasonable amount of reading for each week. Each week we will engage in activities and discussions that assume you have done the readings and have questions or thoughts to share.
@@ -57,8 +59,10 @@ For the  lecture, students will turn in each assignments on Canvas as links to G
 
 We will use selections from your assignments in whole-class discussions each week. For each assignment, we have an initial round of in-class feedback on the first class after submission, and a second, more in-depth round of feedback after grading the assignments on the following Thursday.
 
+<!--
 ## Workload
 Although it is possible to take it for fewer credits, BBA is a seven-credit course. On average, you should expect to spend two hours working outside of class for every one hour in class, for a total of 21 hours per week. (See [Stanford's page](https://undergrad.stanford.edu/advising/student-guides/what-unit) on the amount of work per credit.)
+-->
 
 ## Respect
 Our goal is to create an environment where students can grapple with deep, complex ideas about learning, technology, and education. An important part of creating that environment is fostering respect for the readings and for each other. We have found that following the following points taken from "[Fostering Moral Conversations in the College Classroom](http://socialwork.uw.edu/sites/default/files/sswfiles/Nash_fostering_moral_conversations.pdf)" by Robert J. Nash help create that atmosphere (p. 89-90).
