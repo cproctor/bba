@@ -1,15 +1,11 @@
-Title: Laser cutter & 2D design
-Date: 2017-01-02
+Title: Laser cutter
+Date: 2019-01-23
 
-Here are the [slides](https://docs.google.com/presentation/d/1_kqbVa_1KauSrjTB4qGkZBMW_SczZ-KInAlRmsmrNTA/edit?usp=sharing) from the laser cutter and 2D design station. Chris's introduction to InkScape is below.
-<video controls width="100%">
-    <source src="https://stanford.edu/~cproctor/omni_animal_demo.m4v">
-</video>
+Here are the TODO [slides](https://docs.google.com/presentation/d/1_kqbVa_1KauSrjTB4qGkZBMW_SczZ-KInAlRmsmrNTA/edit?usp=sharing) from the laser cutter module.
 
----
 # Safety
 - Be sure that all the support systems (cooling, air, exhaust) are on before using a laser. 
-- Be sure you are using materials allowed in the laser. Some materials catch on fire or release poisonous gas when used with a laser cutter. PVC and vinyl are particularly toxic. Do not cut unknown materials--it is your responsibility to make sure materials are OK to cut. 
+- Be sure you are using materials allowed in the laser. Some materials catch on fire or release poisonous gas when used with a laser cutter. PVC and vinyl are particularly toxic. Do not cut unknown materials--it is your responsibility to make sure materials are OK to cut. (Online forums can be helpful in avoiding other peoples' mistakes!)
 - Make sure you know how to pause and stop the machine. 
 - Double-check the power and speed settings for your material. 
 - The laser beam could do a lot of harm if it escaped from the chamber. Always make sure the glass is closed. Don't put mirrors in the chamber. Make sure the crumb tray (hexagonal lattice) is installed. 

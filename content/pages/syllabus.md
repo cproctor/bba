@@ -1,10 +1,378 @@
 Title: Syllabus
-Date: 2018-12-01
+Date: 2019-01-23
 
-Note: This is the syllabus from BBA 2018, when it was taught at Stanford on the quarter system. 
-We are very excited to see what we can accomplish on the longer semester schedule. 
-The new, updated syllabus will be posted here soon.
+The syllabus is still being actively revised. Please don't make any firm plans around it yet.
 
+<table class="syllabus">
+    <tr>
+        <th>Week</th>
+        <th>Lecture</th>
+        <th>Lab</th>
+    </tr>
+
+    <tr>
+        <td>Week 1 <br /><span class="date">Jan 23</span></td>
+        <td>
+            <h4>Topics</h4>
+            Introduction and overview. Setting our intentions for the class. What is constructionism?
+            <h4>Readings Due</h4>
+            <ul>
+            <li><a href="http://www.papert.org/articles/GearsOfMyChildhood.html">Mindstorms Preface</a> (<a href="{filename}/resources/biblatex/Mindstorms BibLaTeX.bib">.bib</a>)</li>
+            <li><a href="{filename}/resources/readings/mindstorms-intro.pdf">Mindstorms intro</a> (<a href="{filename}/resources/biblatex/Mindstorms BibLaTeX.bib">.bib</a>)</li>
+            </ul>
+            <h4>Assignments</h4>
+            <a class="assignment-out" href="{filename}/assignments/gears.md">Out: Your Personal "Gears" Essay</a>
+        </td>
+        <td>
+            <h4>Topics</h4>
+                 Introductions, lab journals,
+                 <a href="{filename}/modules/safety.md">lab norms and safety</a>,
+                    <a class="module" href="{filename}/modules/lasercutter.md">Laser cutter</a>,
+                    <a class="module" href="{filename}/modules/2d_design.md">2D Design</a>
+                (<a class="module" href="https://docs.google.com/presentation/d/1zK7O8ZpsNxL7t92wjXTSvj1MfMH-W-hcOojj1xWWgbM/edit?usp=sharing">Lab 1 slides</a>)
+            <h4>Assignments</h4>
+                <a class="assignment-out" href="{filename}/assignments/omni-animal.md">Out: Omni Animal</a>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Week 2 <br /><span class="date">Jan 30</span></td>
+        <td>
+            <h4>Topics</h4>
+            Constructionism
+            <h4>Readings Due</h4>
+            <ul>
+                <li><a href="https://canvas.stanford.edu/files/2496065/download?download_frd=1">Mindstorms Ch.1</a> (<a href="{filename}/resources/biblatex/Mindstorms BibLaTeX.bib">.bib</a>)
+                <li><a href="https://canvas.stanford.edu/files/2496065/download?download_frd=1">Mindstorms Ch. 5</a> (<a href="{filename}/resources/biblatex/Mindstorms BibLaTeX.bib">.bib</a>)
+                <li><a href="https://www.dropbox.com/s/i0rfyzhm0r9q33y/Evocative%20Objects.pdf?dl=0">Evocative objects Introduction, 1-2 chapters of your choosing</a> (<a class="module" href="{filename}/resources/biblatex/Evocative Objects BibLaTeX.bib">.bib</a>)
+                <li><a href="https://canvas.stanford.edu/files/2496056/download?download_frd=1">Papert on Piaget</a> (<a href="{filename}/resources/biblatex/Papert on Piaget BibLaTeX.bib">.bib</a>)
+            </ul>
+            <h4>Assignments</h4>
+            <a class="assignment-due" href="{filename}/assignments/gears.md">Due: Your Personal "Gears" Essay</a>
+        </td>
+        <td>
+            <h4>Topics</h4>
+                Our relationship with materials. 
+                <a class="module" href="{filename}/modules/vinyl_cutter.md">Vinyl Cutter</a>
+                <a class="module" href="{filename}/modules/scratch.md">Scratch</a>.
+            <h4>Assignments</h4>
+                <a class="assignment-due" href="{filename}/assignments/omni-animal.md">Due: Omni Animal</a>
+                <a class="assignment-out" href="{filename}/assignments/upcycling.md">Out: Upcycling</a>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Week 3 <br /><span class="date">Feb 6</span></td>
+       <td>
+            <h4>Topics</h4>
+            Piagetian Constructivism, Vygotskyan Constructivism, Papert's synthesis of Piaget and Vygotsky
+            <ul>
+                <li><a class="module" href="https://docs.google.com/document/d/1LtjIk-rm-WCpx1766zWq2I5jZ2l5extPzzZyYkna3vI/edit?usp=sharing">Critique Activity</a></li>
+                 <li><a href="https://docs.google.com/document/d/1Enr6NIOpVQBthb2yTLcYG0QrMZgRkMyqjQo9b9ZRUdc/edit?usp=sharing">Theories of Learning Handout</a>
+                <li><a href="https://drive.google.com/open?id=1zGtnQS14GLTFAhh2b-pVDbiweFxBE92PhctS7JZPUCA">Lecture 3 Slides</a>
+            </ul>
+            <h4>Readings Due</h4>
+            <ul>
+                <li><a href="https://canvas.stanford.edu/files/2528294/download?download_frd=1">Constructivism: A Psychological Theory of Learning</a> (<a href="{filename}/resources/biblatex/Constructivism A Psychological Theory of Learning BibLaTeX.bib">.bib</a>)
+                <li><a href="https://canvas.stanford.edu/files/2528236/download?download_frd=1">Beyond the individual-social antinomy in discussions of Piaget and Vygotsky</a> (<a href="{filename}/resources/biblatex/Beyond the Individual-Social BibLaTeX.bib">.bib</a>)
+                <li><a href="https://canvas.stanford.edu/files/2528241/download?download_frd=1">Piaget’s constructivism, Papert’s constructionism: What’s the difference?</a> (<a href="{filename}/resources/biblatex/Piaget's Constructivism Papert's Constructionism BibLaTeX.bib">.bib</a>)
+            </ul>
+            <h5>Optional</h5>
+            <ul>
+                <li>Optional: <a href="https://canvas.stanford.edu/files/2528274/download?download_frd=1">Problems of Equilibration</a> (<a href="{filename}/resources/biblatex/Problems of Equilibration BibLaTeX.bib">.bib</a>)
+            </ul>
+        </td> 
+        <td>
+            <h4>Topics</h4>
+                Computation and fabrication. 
+                <a class="module" href="{filename}/modules/gogo-board.md">GoGo Board</a>,
+                <a class="module" href="{filename}/modules/woodshop.md">Woodshop</a>, 
+            <h4>Assignments</h4>
+                <a class="assignment-due" href="{filename}/assignments/upcycling.md">Due: Upcycling</a>
+                <a class="assignment-out" href="{filename}/assignments/rube-goldberg.md">Out: Rube Goldberg</a>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Week 4 <br /><span class="date">Feb 13</span></td>
+       <td>
+            <h4>Topics</h4>
+            Critical Pedaogogy
+            <ul>
+            <li><a href="https://docs.google.com/document/d/1ePKqZg5MDx1prjEkMpAsFrtqI1cEwL5CpNsgbWJnZ4s/edit?usp=sharing">Activity Handout</a>
+            <li><a href="https://drive.google.com/open?id=1wEB6EikUdiNZEtxHQ5GYknp9FYz9040OMNYo-jaXY1s">Lecture 4 Slides</a>
+            </ul>
+            <h4>Readings Due</h4>
+            <ul>
+                <li><a href="https://canvas.stanford.edu/files/2559849/download?download_frd=1">Pedagogy of the Oppressed, Preface</a> (<a href="{filename}/resources/biblatex/Pedagogy of the Oppressed.bib">.bib</a>)
+                <li><a href="https://canvas.stanford.edu/files/2559848/download?download_frd=1">Pedagogy of the Oppressed, Ch. 2</a> (<a href="{filename}/resources/biblatex/Pedagogy of the Oppressed.bib">.bib</a>)
+                <li>Proposed: Something newer</li>
+            </ul>
+            <h5>Optional</h5>
+            <ul>
+            <li><a href="https://canvas.stanford.edu/files/2559892/download?download_frd=1">Critical Pedagogy and Social Theory</a> (<a href="{filename}/resources/biblatex/Critical Pedagogy and Sociocultural Theory.bib">.bib</a>)
+            </ul>
+            <h4>Assignments</h4>
+            <a class="assignment-out" href="{filename}/assignments/3c.md">Out: 3C's</a>
+        </td> 
+        <td>
+            <h4>Topics</h4>
+                Rube Goldberg trial. 
+                <a class="module" href="{filename}/modules/digital_3d_design.md">Digital 3d design</a>, 
+                <a class="module" href="{filename}/modules/analog_3d_design.md">Analog 3d design</a>,
+                <a class="module" href="{filename}/modules/cnc.md">CNC mill</a>,
+                <a class="module" href="{filename}/modules/silicone_casting.md">Silicone casting</a>,
+                <a class="module" href="{filename}/modules/vacuum_forming.md">Vacuum forming</a>,
+            <h4>Assignments</h4>
+                <a class="assignment-due" href="{filename}/assignments/rube-goldberg.md">Due: Rube Goldberg</a>
+                <a class="assignment-out" href="{filename}/assignments/dream-toy.md">Out: Dream Toy (Part 1)</a>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Week 5 <br /><span class="date">Feb 20</span></td>
+        <td>
+            <h4>Topics</h4>
+            Critical pedagogy, constructivism, and constructionism
+            <h4>Readings Due</h4>
+            <ul>
+                <li><a href="https://canvas.stanford.edu/files/2559846/download?download_frd=1">Travels in Troy with Freire</a> (<a href="{filename}/resources/biblatex/Travels in Troy.bib">.bib</a>)
+            <li>Proposed: Something on Vygotsky <-> critical theory. Maybe Holland, et al. </li>
+            <li>Proposed: Activity centered design: towards a theoretical framework for CSCL (Wertsch)</li>
+            </ul>
+            <h4>Assignments</h4>
+            <ul>
+                <li>Proposed: Journal entry integrating constructionism, constructivism, and critical pedagogy, to work with in class. Essentially a draft of 3C's essay to workshop in class.</li>
+            </ul>
+        </td>
+        <td>
+            <h4>Topics</h4>
+                User research, prototyping
+            <h4>Assignments</h4>
+                <a class="assignment-due" href="{filename}/assignments/dream-toy.md">Due: Dream Toy (Part 1)</a>
+                <a class="assignment-out" href="{filename}/assignments/dream-toy.md">Out: Dream Toy (Part 2)</a>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Week 6 <br /><span class="date">Feb 27</span></td>
+        <td>
+            <h4>Topics</h4>
+            Overview of Design Methodologies for Learning, Human-Centered Design and Design Thinking
+            <ul>
+            <li><a href="https://docs.google.com/presentation/d/1djeImdOc2sX7Fbll-jNbKD5-AYG14NZ-9-m_0LAg_pg/edit?usp=sharing">Lecture 5 Slides</a>
+            </ul>
+            <h4>Readings Due</h4>
+            <ul>
+                <li><a href="https://canvas.stanford.edu/files/2594822/download?download_frd=1">Some reflections on designing construction kits for kids</a> (<a href="{filename}/resources/biblatex/Some Reflections on Designing Construction Kits.bib">.bib</a>)
+                <li><a href="http://web.stanford.edu/~rldavis/educ236/readings/doet/text/ch06_excerpt.html">The Design of Everyday Things, Ch. 6 excerpt</a> (<a href="{filename}/resources/biblatex/DOET.bib">.bib</a>)
+                <li><a href="https://canvas.stanford.edu/files/2594823/download?download_frd=1">Human-Centered Design Considered Harmful</a> (<a href="{filename}/resources/biblatex/HCD Considered Harmful.bib">.bib</a>)
+            </ul>
+            <h5>Optional</h5>
+            <ul>
+            <li><a href="https://canvas.stanford.edu/files/2594818/download?download_frd=1">The foundations and assumptions of technology-enhanced student-centered learning environments</a> (<a href="{filename}/resources/biblatex/Foundations and Assumptions.bib">.bib</a>)
+            </ul>
+            <h4>Assignments</h4>
+            <a class="assignment-due" href="{filename}/assignments/3c.md">Due: 3C's</a>
+            <a class="assignment-out" href="https://docs.google.com/document/d/1QQm9jTKPCm69osBNN7jhaQWzweMLmTlzfznp2ExFWds/edit?usp=sharing">Out: Tech critique</a>
+        </td>
+        <td>
+            <h4>Topics</h4>
+                Interfaces, computation, digital media
+                <a class="module" href="{filename}/modules/interface.md">Interface design case studies</a>,
+                <a class="module" href="{filename}/modules/processing.md">Processing</a>,
+                <a class="module" href="{filename}/modules/code.md">Code</a>
+            <h4>Assignments</h4>
+                <a class="assignment-out" href="{filename}/assignments/interface_design.md">Out: Interface design</a>
+        </td>
+    </tr>
+    <tr>
+        <td>Week 7 <br /><span class="date">Mar 6</span></td>
+        <td>
+            <h4>Topics</h4>
+            Affordances, Cultural Forms.
+            <ul>
+            <li><a href="https://drive.google.com/open?id=1tMTSQzbd4IqM9lAgsyHLBJ2Fbr3_6ObT6QoM0WDprFY">Lecture 6 Slides</a>
+            </ul>
+            <h4>Readings Due</h4>
+            <ul>
+                <li><a href="https://canvas.stanford.edu/files/2633938/download?download_frd=1">Affordance, conventions, and design </a>
+                <li><a href="https://canvas.stanford.edu/files/2633937/download?download_frd=1">The role of cultural forms in tangible interaction design </a>
+                <li>Proposed: reading on digital media and interfaes</li>
+            </ul>
+            <h5>Optional</h5>
+            <ul>
+            <li><a href="http://web.stanford.edu/~rldavis/educ236/readings/doet/text/ch01.html">The Design of Everyday Things, Ch. 1 excerpt</a>
+            </ul>
+            <h4>Assignments</h4>
+            <a class="assignment-due" href="https://docs.google.com/document/d/1QQm9jTKPCm69osBNN7jhaQWzweMLmTlzfznp2ExFWds/edit?usp=sharing">Due: Tech critique</a>
+        </td>
+        <td>
+            <h4>Topics</h4>
+            TODO Evening class meeting? Present dream toys. Introduce final projects.
+            <h4>Assignments</h4>
+            <a class="assignment-due" href="{filename}/assignments/dream-toy.md">Due: Dream Toy (Part 2)</a>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Week 8 <br /><span class="date">Mar 13</span></td>
+        <td>
+            <h4>Topics</h4>
+            <ul>
+                <li>Coming...</li>
+            </ul>
+            <h4>Readings Due</h4>
+            <ul>
+            <li>Coming...</li>
+            </ul>
+            <h4>Assignments</h4>
+        </td>
+        <td>
+            <h4>Topics</h4>
+                TODO Electronics, textiles, e-textiles
+            <h4>Assignments</h4>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Week 9 <br /><span class="date">Mar 27</span></td>
+        <td>
+            <h4>Topics</h4>
+            <ul>
+                <li>Coming...</li>
+            </ul>
+            <h4>Readings Due</h4>
+            <ul>
+            <li>Coming...</li>
+            </ul>
+            <h4>Assignments</h4>
+        </td>
+        <td>
+            <h4>Topics</h4>
+                TODO CRITS? Evening class meeting?
+            <h4>Assignments</h4>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Week 10 <br /><span class="date">Apr 3</span></td>
+        <td>
+            <h4>Topics</h4>
+            <ul>
+                <li>Coming...</li>
+            </ul>
+            <h4>Readings Due</h4>
+            <ul>
+            <li>Coming...</li>
+            </ul>
+            <h4>Assignments</h4>
+        </td>
+        <td>
+            <h4>Topics</h4>
+                Coming...
+            <h4>Assignments</h4>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Week 11 <br /><span class="date">Apr 10</span></td>
+        <td>
+            <h4>Topics</h4>
+            <ul>
+                <li>Coming...</li>
+            </ul>
+            <h4>Readings Due</h4>
+            <ul>
+            <li>Coming...</li>
+            </ul>
+            <h4>Assignments</h4>
+        </td>
+        <td>
+            <h4>Topics</h4>
+                Coming...
+            <h4>Assignments</h4>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Week 12 <br /><span class="date">Apr 17</span></td>
+        <td>
+            <h4>Topics</h4>
+            <ul>
+                <li>Coming...</li>
+            </ul>
+            <h4>Readings Due</h4>
+            <ul>
+            <li>Coming...</li>
+            </ul>
+            <h4>Assignments</h4>
+        </td>
+        <td>
+            <h4>Topics</h4>
+                Coming...
+            <h4>Assignments</h4>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Week 13<br /><span class="date">Apr 24</span></td>
+        <td>
+            <h4>Topics</h4>
+            <ul>
+                <li>Coming...</li>
+            </ul>
+            <h4>Readings Due</h4>
+            <ul>
+            <li>Coming...</li>
+            </ul>
+            <h4>Assignments</h4>
+        </td>
+        <td>
+            <h4>Topics</h4>
+                Coming...
+            <h4>Assignments</h4>
+        </td>
+    </tr>
+
+    <tr>
+        <td>Week 14<br /><span class="date">May 1</span></td>
+        <td>
+            <h4>Topics</h4>
+            <ul>
+                <li>Coming...</li>
+            </ul>
+            <h4>Readings Due</h4>
+            <ul>
+            <li>Coming...</li>
+            </ul>
+            <h4>Assignments</h4>
+        </td>
+        <td>
+            <h4>Topics</h4>
+                Coming...
+            <h4>Assignments</h4>
+        </td>
+    </tr>
+    <tr>
+        <td>Week 15 <br /><span class="date">May 8</span></td>
+        <td>
+            <h4>Topics</h4>
+            Final presentations
+            <h4>Assignments</h4>
+            <a class="assignment-due" href="https://docs.google.com/document/d/1gD8BvY2rTvPhSuoLWm5E1Zu1mh1MbcpL8ChgiGAoFgQ/edit?usp=sharing">Due: Final (Presentation)</a>
+        </td>
+        <td>
+            BBA Expo 
+            <h4>Assignments</h4>
+            <a class="assignment-due" href="https://docs.google.com/document/d/1gD8BvY2rTvPhSuoLWm5E1Zu1mh1MbcpL8ChgiGAoFgQ/edit?usp=sharing">Due: Final (Project)</a>
+        </td>
+    </tr>
+</table>
+<h1> BBA 2018</h1>
+<p>
+Here's the prior version of the class; keeping it here to mine from as we restructure this year's class.
+</p>
 <table class="syllabus">
     <tr>
         <th>Week</th>
@@ -16,6 +384,7 @@ The new, updated syllabus will be posted here soon.
         <td class="theme">Theory</td>
         <td class="theme">Digital Fabrication</td>
     </tr>
+
     <tr>
         <td>Week 1 <br /><span class="date">Jan 11</span></td>
         <td>
@@ -26,7 +395,7 @@ The new, updated syllabus will be posted here soon.
             </ul>
             <h4>Readings Due</h4>
             <ul>
-            <li><a href="http://www.papert.org/articles/GearsOfMyChildhood.html">Mindstorms Preface</a> (<a href="{filename}/resources/biblatex/Mindstorms BibLaTeX.bib">.bib</a>)
+            <li><a href="http://www.papert.org/articles/GearsOfMyChildhood.html">Mindstorms Preface</a> 
             <li><a href="http://stanford.edu/class/educ236x/Archives/handouts/Week1/Readings/mindstorms-intro.pdf">Mindstorms Introduction</a> (<a href="{filename}/resources/biblatex/Mindstorms BibLaTeX.bib">.bib</a>)
             </ul>
             <h4>Assignments</h4>

@@ -1,5 +1,6 @@
 Title: Prospective Student Survey
 Date: 2018-12-01
+Status: hidden
 
 Admission to Beyond Bits & Atoms is by instructor permission. 
 Students interested in taking the course should complete this survey by December 14, 2018. 
