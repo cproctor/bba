@@ -26,8 +26,7 @@ files you can edit with any text editor. They are in a simple langauge called
 [Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf); 
 you can basically just write text. Before you start editing, run `git pull` to make sure you 
 have the most recent version of the site.
-
-While editing, it is useful to use the `-r` flag to tell Pelican to rebuilt the site whenever there's a 
+While editing, it is helpful to use the `-r` flag to tell Pelican to rebuilt the site whenever there's a 
 change:
 
     pelican -r -s settings.local.py
