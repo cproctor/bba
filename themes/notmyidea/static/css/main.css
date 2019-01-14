@@ -470,6 +470,9 @@ table.syllabus td:nth-child(3) {
 table.syllabus th {
     border-bottom: 2px solid black;
 }
+table.syllabus tr {
+    border-bottom: 2px solid #eee;
+}
 .assignment-out, .assignment-out:link, .assignment-out:visited {
     color: #27ae60;
     border: 2px solid #27ae60;
@@ -495,6 +498,15 @@ table.syllabus th {
     color: white;
     background-color: #f39c12;
     display: inline-block;
+}
+
+.todo {
+    color: #C74451;
+    font-weight: bold;
+    border: 2px solid #C74451;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 0 2px;
 }
 
 img {
