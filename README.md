@@ -14,10 +14,9 @@ permission to access the repo.
     source env/bin/activate
     pip install -r requirements.txt
     pelican -s settings.local.py
-    cd output_local
-    python -m pelican.server
+    open output_local/index.html
 
-Now you can open the site locally at [http://localhost:8000](http://localhost:8000).
+The last command should have opened your local build of the current website in a browser.
 
 ## Editing
 
@@ -27,11 +26,12 @@ files you can edit with any text editor. They are in a simple langauge called
 you can basically just write text. Before you start editing, run `git pull` to make sure you 
 have the most recent version of the site.
 
-When you save a file, you need to rebuild the site to see it. Use:
+While editing, it is useful to use the `-r` flag to tell Pelican to rebuilt the site whenever there's a 
+change:
 
-    pelican -s settings.local.py
+    pelican -r -s settings.local.py
 
-If you still have the server running, you'll see the new site when you reload it in your browser.
+Now you can reload the page in your browser to see your changes after every save.
 
 ## Publishing changes
 
@@ -44,7 +44,8 @@ with your own SUNetID. (You will only be able to do this if you have access to t
     git commit -m "A message explaining what I changed"
     git push
     pelican -s settings.published.py
-    rsync -r output_published/* cproctor@rice.stanford.edu:/afs/.ir.stanford.edu/class/educ211/WWW
+
+Now you can push the built site to the BBA server. If you don't have access to the BBA server, ask for instructions.
 
 ## More details
 
