@@ -121,7 +121,7 @@ The syllabus is still being actively revised. Please don't make any firm plans a
                 <a class="module" href="{filename}/modules/digital_3d_design.md">Digital 3d design</a>, 
                 <a class="module" href="{filename}/modules/analog_3d_design.md">Analog 3d design</a>,
                 <a class="module" href="{filename}/modules/cnc.md">CNC mill</a>,
-                <a class="module" href="{filename}/modules/silicone_casting.md">Silicone casting</a>,
+                <a class="module" href="{filename}/modules/silicone.md">Silicone casting</a>,
                 <a class="module" href="{filename}/modules/vacuum_forming.md">Vacuum forming</a>,
             <h4>Assignments</h4>
                 <a class="assignment-due" href="{filename}/assignments/rube-goldberg.md">Due: Rube Goldberg</a>
