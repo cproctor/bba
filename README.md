@@ -5,8 +5,8 @@ This repository holds the BB&A course website.
 ## Setup
 
 To make changes to the course website, use the Terminal to get to where you want the repository and 
-run the following commands on linux or mac. Make sure you already have a GitHub account that has
-permission to access the repo.
+run the following commands on Linux, Mac, or Windows Subsystem for Linux. Make sure you already have 
+a GitHub account that has permission to access the repo.
 
     git clone https://github.com/cproctor/bba
     cd bba
