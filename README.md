@@ -9,6 +9,7 @@ run the following commands on Linux, Mac, or Windows Subsystem for Linux. Make s
 a GitHub account that has permission to access the repo.
 
     git clone https://github.com/cproctor/bba
+    git checkout tc # If at TC, you'll want to work on the TC branch
     cd bba
     python3 -m venv env
     source env/bin/activate
