@@ -4,4 +4,5 @@ output_published/*
 *.pyc
 *.swp
 *.swo
-
+upload.sh
+upload.template.sh
