@@ -45,7 +45,7 @@ with your own SUNetID. (You will only be able to do this if you have access to t
     git push
     pelican -s settings.published.py
 
-Now you can push the built site to the BBA server. If you don't have access to the BBA server, ask for instructions.
+Now you can push the built site to the BBA server, using `upload.sh`. See that script for instructions.
 
 ## More details
 
