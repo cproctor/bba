@@ -1,6 +1,8 @@
 Title: Lab safety and norms
 Date: 2017-01-11
 
+TODO These need to be updated for the new lab. 
+
 These safety norms apply at all times in the lab. There are <a href="{category}modules">additional safety precautions for each tool</a>; make sure you read these before using a tool.
 
 - Never work alone in the woodshop.
