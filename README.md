@@ -36,16 +36,16 @@ Now you can reload the page in your browser to see your changes after every save
 ## Publishing changes
 
 Once you are happy with your changes, you need to commit your work back to the repository, 
-build the site for publication, and push it to Stanford's servers. Make sure you replace `cproctor`
-with your own SUNetID. (You will only be able to do this if you have access to the course directory.)
+build the site for publication, and push it to the production server. Before you can do this, 
+you'll need to add the server credentials to `upload.sh`; they are not included in this repository
+because they are not public. Read `upload.sh` for setup instructions.
 
     git status
     git add [whichever files you changed]
     git commit -m "A message explaining what I changed"
     git push
     pelican -s settings.published.py
-
-Now you can push the built site to the BBA server, using `upload.sh`. See that script for instructions.
+    ./upload.sh
 
 ## More details
 
