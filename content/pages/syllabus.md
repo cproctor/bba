@@ -179,7 +179,7 @@ The syllabus is still being actively revised. Please don't make any firm plans a
         <td>
             <h4>Topics</h4>
                 Interfaces, computation, digital media
-                <a class="module" href="{filename}/modules/interface.md">Interface design case studies</a>,
+                <a class="module" href="{filename}/curriculum/interface.md">Interface design case studies</a>,
                 <a class="module" href="{filename}/modules/processing.md">Processing</a>,
                 <a class="module" href="{filename}/modules/code.md">Code</a>
             <h4>Assignments</h4>
@@ -419,7 +419,6 @@ Here's the prior version of the class; keeping it here to mine from as we restru
             Constructionism
             <ul>
                 <li><a class="module" href="https://docs.google.com/presentation/d/1wAgOYPecrE-wNMnzDbXWI0e3SYgd9qwpvtg8K8vAvyA/edit?usp=sharing">Lecture 2 slides</a></li>
-                <li><a href="{filename}/modules/week2-photos.md">Lecture 2 Photos</a></li>
                 <li><a href="https://drive.google.com/open?id=1ZpqkcFBBTyXe9EfFdkS6qIstJlCMVLavy6tLjxSduSM">Collaborative Microworlds Definition</a>
             </ul>
             <h4>Readings Due</h4>
@@ -579,7 +578,7 @@ Here's the prior version of the class; keeping it here to mine from as we restru
                 Share final project user reserarch; iterate design ideas. Discuss crits next week and functional prototypes.
                 (<a href="https://docs.google.com/presentation/d/1HzsftF9WCP2WxIKH5vpfvvzCc9dU5Ku7EFpNoSBCwFM/edit?usp=sharing">Slides</a>)
                 <a class="module" href="{filename}/modules/tangible-tables.md">Tangible interface tables</a>
-                <a class="module" href="{filename}/modules/interface.md">Interface design case studies</a>
+                <a class="module" href="{filename}/curriculum/interface.md">Interface design case studies</a>
             <h4>Assignments</h4>
                 <a class="assignment-out" href="{filename}/assignments/interface_design.md">Out: Interface design</a>
         </td>
