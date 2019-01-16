@@ -1,5 +1,6 @@
 Title: Coffee
 Date: 2018-01-11
+Status: hidden
 
 You are welcome to use the espresso maker as long as you clean up after yourself. Frequent users are encouraged to bring a mug. 
 
