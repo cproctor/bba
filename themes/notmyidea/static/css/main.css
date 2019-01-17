@@ -531,3 +531,27 @@ ul {
 video {
     width: 100%;
 }
+
+.banner {
+    width: 800px;
+    margin: -2em auto 0.5em auto;
+    display: block;
+    border-radius: 5px;
+}
+
+.profile {
+    display: flex;
+    margin-bottom: 0.5em;
+}
+.profile-picture {
+    width: 220px;
+    height: 220px;
+    border-radius: 5px;
+}
+.profile-text {
+    width: 600px;
+    padding: 0 10px;
+}
+.profile-text p {
+    font-size: 0.9em;
+}
