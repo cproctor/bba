@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'BB&A Teaching Team'
+#AUTHOR = 'BB&A Teaching Team'
 SITENAME = 'Beyond Bits & Atoms'
 SITEURL = 'http://beyondbitsandatoms.org'
 SITESUBTITLE = "Teachers College MSTU 5199 001 & 002" 

@@ -3,7 +3,6 @@
 from __future__ import unicode_literals
 from pathlib import Path
 
-AUTHOR = 'BB&A Teaching Team'
 SITENAME = 'Beyond Bits & Atoms'
 SITEURL = str(Path(__file__).resolve().parent / "output_local")
 SITESUBTITLE = "Teachers College MSTU 5199 001 & 002" 
@@ -12,6 +11,7 @@ OUTPUT_PATH = "output_local"
 PATH = 'content'
 
 TIMEZONE = 'America/New_York'
+DEFAULT_DATE_FORMAT = '%a, %b %d'
 
 DEFAULT_LANG = 'en'
 

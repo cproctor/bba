@@ -554,4 +554,5 @@ video {
 }
 .profile-text p {
     font-size: 0.9em;
+    text-align: justify;
 }
