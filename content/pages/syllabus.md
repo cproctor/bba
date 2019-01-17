@@ -66,11 +66,6 @@ The syllabus is still being actively revised. Please don't make any firm plans a
        <td>
             <h4>Topics</h4>
             Piagetian Constructivism, Vygotskyan Constructivism, Papert's synthesis of Piaget and Vygotsky
-            <ul>
-                <li><a class="module" href="https://docs.google.com/document/d/1LtjIk-rm-WCpx1766zWq2I5jZ2l5extPzzZyYkna3vI/edit?usp=sharing">Critique Activity</a></li>
-                 <li><a href="https://docs.google.com/document/d/1Enr6NIOpVQBthb2yTLcYG0QrMZgRkMyqjQo9b9ZRUdc/edit?usp=sharing">Theories of Learning Handout</a>
-                <li><a href="https://drive.google.com/open?id=1zGtnQS14GLTFAhh2b-pVDbiweFxBE92PhctS7JZPUCA">Lecture 3 Slides</a>
-            </ul>
             <h4>Readings Due</h4>
             <ul>
                 <li><a href="https://canvas.stanford.edu/files/2528294/download?download_frd=1">Constructivism: A Psychological Theory of Learning</a> (<a href="{filename}/resources/biblatex/Constructivism A Psychological Theory of Learning BibLaTeX.bib">.bib</a>)
@@ -100,10 +95,6 @@ The syllabus is still being actively revised. Please don't make any firm plans a
        <td>
             <h4>Topics</h4>
             Critical Pedaogogy
-            <ul>
-            <li><a href="https://docs.google.com/document/d/1ePKqZg5MDx1prjEkMpAsFrtqI1cEwL5CpNsgbWJnZ4s/edit?usp=sharing">Activity Handout</a>
-            <li><a href="https://drive.google.com/open?id=1wEB6EikUdiNZEtxHQ5GYknp9FYz9040OMNYo-jaXY1s">Lecture 4 Slides</a>
-            </ul>
             <h4>Readings Due</h4>
             <ul>
                 <li><a href="https://canvas.stanford.edu/files/2559849/download?download_frd=1">Pedagogy of the Oppressed, Preface</a> (<a href="{filename}/resources/biblatex/Pedagogy of the Oppressed.bib">.bib</a>)
@@ -162,9 +153,6 @@ The syllabus is still being actively revised. Please don't make any firm plans a
         <td>
             <h4>Topics</h4>
             Overview of Design Methodologies for Learning, Human-Centered Design and Design Thinking
-            <ul>
-            <li><a href="https://docs.google.com/presentation/d/1djeImdOc2sX7Fbll-jNbKD5-AYG14NZ-9-m_0LAg_pg/edit?usp=sharing">Lecture 5 Slides</a>
-            </ul>
             <h4>Readings Due</h4>
             <ul>
                 <li><a href="https://canvas.stanford.edu/files/2594822/download?download_frd=1">Some reflections on designing construction kits for kids</a> (<a href="{filename}/resources/biblatex/Some Reflections on Designing Construction Kits.bib">.bib</a>)
@@ -191,9 +179,6 @@ The syllabus is still being actively revised. Please don't make any firm plans a
         <td>
             <h4>Topics</h4>
             Discuss final project. Affordances, mediation, cultural forms. Case study: block-based programming.
-            <ul>
-            <li><a href="https://drive.google.com/open?id=1tMTSQzbd4IqM9lAgsyHLBJ2Fbr3_6ObT6QoM0WDprFY">Lecture 6 Slides</a>
-            </ul>
             <h4>Readings Due</h4>
             <ul>
                 <li><a href="https://canvas.stanford.edu/files/2633938/download?download_frd=1">Affordance, conventions, and design </a>
@@ -223,9 +208,6 @@ The syllabus is still being actively revised. Please don't make any firm plans a
         <td>
             <h4>Topics</h4>
             Restructurations, Epistemic Forms and Games. Final project brainstorming.
-            <ul>
-            <li><a href="https://docs.google.com/presentation/d/1B06MePPjMjQmIAFmRmzAm3YviwI3ca8Hl_hnWMDXC8c/edit?usp=sharing">Week 7 Slides</a>
-            </ul>
             <h4>Readings Due</h4>
             <ul>
                 <li><a href="https://canvas.stanford.edu/files/2664466/download?download_frd=1">Restructurations</a>
@@ -252,9 +234,6 @@ The syllabus is still being actively revised. Please don't make any firm plans a
         <td>
             <h4>Topics</h4>
             Glassboxing and Blackboxing
-            <ul>
-            <li><a href="https://docs.google.com/presentation/d/1lZrEl-HosAX9JFTRXqXw5H0i4UPAXHSpDUBYTZIpiAQ/edit?usp=sharing">Week 8 Slides</a>
-            </ul>
             <h4>Readings Due</h4>
             <ul>
                 <li><a href="https://canvas.stanford.edu/files/2692955/download?download_frd=1">Of Black and Glass Boxes: Scaffolding for Doing and Learning</a>
@@ -277,23 +256,18 @@ The syllabus is still being actively revised. Please don't make any firm plans a
         <td>
             <h4>Topics</h4>
             Games for learning, computational thinking
-            <ul>
-            <li><a href="https://docs.google.com/presentation/d/1MQeU_TZi9MUv8IU_Y9Lf3nB-ladG5BEpyg9YZI2Iccc/edit?usp=sharing">Week 9 Slides</a>
-            </ul>
             <h4>Readings Due</h4>
             <ul>
                 <li><a href="https://canvas.stanford.edu/files/2736601/download?download_frd=1">What Video Games Have to Teach Us About Learning and Literacy</a>
                 <li><a href="https://canvas.stanford.edu/files/2736602/download?download_frd=1">Playing and Making Games for Learning: Instructionist and Constructionist Perspectives for Game Studies</a>
             </ul>
             <h4>Assignments</h4>
-            <a class="assignment-due" href="https://docs.google.com/document/d/1BIaDpd13_Psp23842leFEVfEM5j98J_h_pJ6n7NDTAw/edit?usp=sharing">Due: Theory & Lit Review (On March 09 at 11:59 PM)</a>
-            <a class="assignment-out" href="https://docs.google.com/document/d/1jer_UUCzNc1UzwJRe_M3v8Q717ASQ0H8r9JpCX-9sR0/edit?usp=sharing">Out: Final Project Presentations (Due March 15 at 9:00 AM)</a>
+            <a class="assignment-due" href="https://docs.google.com/document/d/1BIaDpd13_Psp23842leFEVfEM5j98J_h_pJ6n7NDTAw/edit?usp=sharing">Due: Final (Theory & lit review for paper)</a>
         </td>
         <td>
             <h4>Critiques</h4>
                 Present project prototypes to invited panels of outside experts. (<a href="{filename}/logistics/crits.md">Details</a>). Note: the lab will probably meet in the evening today.
             <h4>Assignments</h4>
-            <a class="assignment-due" href="https://docs.google.com/document/d/1BIaDpd13_Psp23842leFEVfEM5j98J_h_pJ6n7NDTAw/edit?usp=sharing">Due: Final (Theory & lit review for paper)</a>
         </td>
     </tr>
 
