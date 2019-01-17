@@ -82,7 +82,7 @@ Yipu Zheng is a master student in Learning Analytics at Teachers College, Columb
 
 ---
 # Final project
-The joint project for the two courses is a working prototype of a constructionist educational technology, to be displayed at the [BB&A Expo]({filename}/logistics/expo.md), and an accompanying paper suitable for submission to [IDC](http://idc-2018.org/) as a [Demo Paper](http://idc-2018.org/demos-art-installations/). In 2017, 6 papers from BB&A students and instructors were accepted to IDC. Final projects have also gone on to become commercial products. [More about the final project]({filename}/assignments/final.md).
+The joint project for the two courses is a working prototype of a constructionist educational technology, to be displayed at the [BB&A Expo]({filename}/logistics/expo.md), and an accompanying paper suitable for submission to [IDC](http://idc-2018.org/) as a [Demo Paper](http://idc-2018.org/demos-art-installations/). Projects may be undertaken alone or in groups. In 2017, 6 papers from BB&A students and instructors were accepted to IDC. Final projects have also gone on to become commercial products. [More about the final project]({filename}/assignments/final.md).
 
 ---
 # Assignment Feedback
@@ -102,3 +102,18 @@ You can expect regular personalized feedback on your work, in person and in writ
 - Incomplete: Requires additional support.
 
 If you are regularly getting evaluations of &#10003; or above, you are on track for an A.
+
+---
+# Other policies
+
+## Lab fee
+Charging a lab fee is the typical policy in lab and studio courses. The lab fee ($100) will be used to buy shared materials for use during lab sessions, including basic maintenance. We will have a limited supply of acrylic, wood, 3D printer materials, sensors, motors, and robotics stuff. These materials will be stored in a special area of the lab—the lab fee does not give students the right to use all the materials in the lab. Also, the lab fee is not meant to support final projects, though student are welcome to use leftover materials from the appropriate bins. If students want to use materials that go above and beyond what the lab fee covers, they should be ordered directly, or reimbursed/replaced to the lab.
+
+## Accessibility
+The College will make reasonable accommodations for persons with documented disabilities: Students are encouraged to contact the Office of Access and Services for Individuals with Disabilities (OASID) for information about registration. You can reach OASID by email at oasid@tc.columbia.edu, stop by 163 Thorndike Hall or call 212-678-3689. Services are available only to students who have registered and submit appropriate documentation. The instructors are happy to discuss specific needs with you as well. Please report any access-related concerns about instructional material to OASID and to your instructor.
+
+## Sexual harassment and violence reporting
+Teachers College is committed to maintaining a safe environment for students. Because of this commitment and because of federal and state regulations, we must advise you that if you tell any of your instructors about sexual harassment or gender-based misconduct involving a member of the campus community, your instructor is required to report this information to the Title IX Coordinator, Janice Robinson. She will treat this information as private but will need to follow up with you and possibly look into the matter. The Ombuds officer for Gender-Based Misconduct is a confidential resource available for students, staff and faculty. [Gender-based misconduct](http://sexualrespect.columbia.edu/gender-based-misconduct-policy-students) includes sexual assault, stalking, sexual harassment, dating violence, domestic violence, sexual exploitation, and gender-based harassment.
+
+## TC Policies
+This course follows TC policies on [incomplete grades](https://www.tc.columbia.edu/policylibrary/associate-provost-enrollment-services/incomplete-grades/), [responsibility for monitoring email](http://www.tc.columbia.edu/policylibrary/Student Responsibility for Monitoring TC Email Account), [religious observance](http://www.tc.columbia.edu/policylibrary/provost/religious-observance/), and academic integrity.

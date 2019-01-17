@@ -1,6 +1,8 @@
 Title: Critiques
 Date: 2018-03-01
 
+TODO Update with the latest
+
 The [course project]({filename}/assignments/final.md) for Beyond Bits &amp; Atoms is a working prototype of an educational technology, accompanied by a paper suitable for submission to the [Interaction Design and Children](http://idc-2018.org/) conference. In prior years, course projects have gone on to become academic research projects and commercial products. 
 
 On Thursday, March 1, from 6-8pm, students will present initial prototypes to panels of outside educators, academics, designers, technologists, and businesspeople for feedback, critique, and discussion.  
