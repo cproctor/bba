@@ -31,7 +31,12 @@ change:
 
     pelican -r -s settings.local.py
 
-Now you can reload the page in your browser to see your changes after every save.
+Here's a quick tour of the site's content:
+
+- `pages` appear on the main navigation menu.
+- `announcements` are automatically displayed on the homepage, in date order.
+- `assignments`, `curriculum`, `logistics`, and `modules` are normal content you can link to or view by category.
+- `images` and `resources` are for static assets like images, readings, design files, bibtex refs, etc.
 
 ## Publishing changes
 
