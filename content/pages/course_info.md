@@ -60,24 +60,24 @@ Kelly is a graduate student in the Technology Specialist program at TC. She prev
     </div>
 </div>
 <div class="profile">
+    <img class="profile-picture" src="{filename}/images/profiles/mikhail.jpg">
+    <div class="profile-text">
+        <h3>Mikhail Sigalov</h3>
+        <p>
+Hi all, my name is Mikhail (pronounced Me - ha - eel), and I'm excited to be part of your TA team this semester! I'm a sophomore mechanical engineering student in SEAS, where I spend most of my time on Formula SAE, which is a student team, open to the entire Columbia community, that designs and builds a small single-seater racecar every year. I focus on mechanical design and manufacturing, and this year I'm in charge of the chassis (frame). My interest in mechanical engineering stemmed from my involvement in FIRST robotics, and in high school I was on a FRC team, where I learned a lot about mechanical design and simple manufacturing techniques. Now, I'm experienced in all stages of small scale manufacture, from 3D models through 3D printing and to CNC mills and lathes, and I look forward to sharing my expertise with you.
+        </p>
+    </div>
+</div>
+<div class="profile">
     <img class="profile-picture" src="{filename}/images/profiles/yipu.jpg">
     <div class="profile-text">
         <h3>Yipu Zheng</h3>
         <p>
-Yipu Zheng is a master student in Learning Analytics at Teachers College, Columbia University. Her research interest focuses on capturing, assessing and facilitating learners’ attempts in problem-finding and creative problem-solving processes utilizing multi-modal data analytics methods. Before joining Teachers College, she earned her B.S. degree in Mechanical Engineering from the University of California, Berkeley. Hoping to empower young learners to raise and address novel and personally-meaningful problems, she co-founded a makerspace, which has collaborated with more than 15 schools and local communities to develop creative problem-solving after-school programs, hands-on workshops, and making kits for K-8 students in Shenzhen, China. 
+Yipu Zheng is a master's student in Learning Analytics at Teachers College, Columbia University. Her research interest focuses on capturing, assessing and facilitating learners’ attempts in problem-finding and creative problem-solving processes utilizing multi-modal data analytics methods. Before joining Teachers College, she earned her B.S. degree in Mechanical Engineering from the University of California, Berkeley. Hoping to empower young learners to raise and address novel and personally-meaningful problems, she co-founded a makerspace, which has collaborated with more than 15 schools and local communities to develop creative problem-solving after-school programs, hands-on workshops, and making kits for K-8 students in Shenzhen, China. 
         </p>
     </div>
 </div>
 <!--
-<div class="profile">
-    <img class="profile-picture" src="{filename}/images/profiles/chris.png">
-    <div class="profile-text">
-        <h3>Chris Proctor</h3>
-        <p>
-            Blah blah blah
-        </p>
-    </div>
-</div>
 -->
 
 ---
