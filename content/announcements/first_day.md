@@ -1,5 +1,5 @@
 Title: Preparing for Week 1
-Index: 3
+Index: -3
 
 Welcome to Beyond Bits & Atoms! Lecture will meet in GDH 369, from 10-11:40am. There are two short assigned readings for today (see the [syllabus]({filename}/pages/syllabus.html)); please make sure you have read them before class. The lab meets from 12:40-2:40 in the TLTL, on the second floor of Thompson Hall. Please fill out the [lab info sheet]({filename}/logistics/lab_info_sheet.md) when you have a chance. 
 
