@@ -27,7 +27,9 @@ PLUGINS = ['filetime_from_git', 'replacer']
 
 REPLACES = (
     ("TODO", '<span class="todo">TODO</span>'),
-    ("READINGS_URL", "http://beyondbitsandatoms.org/readings")
+    ("READINGS_URL", "http://beyondbitsandatoms.org/readings"),
+    ("CANVAS_LECTURE_URL", "https://tc.instructure.com/courses/8886"),
+    ("CANVAS_LAB_URL", "https://tc.instructure.com/courses/8887")
 )
 
 # Feed generation is usually not desired when developing
@@ -38,8 +40,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 DEFAULT_PAGINATION = False
+ARTICLE_ORDER_BY = lambda article: float(article.metadata.get('index', 1000))
 
 MENUITEMS = [
+    ('Piazza', 'https://piazza.com/class/jr73emlmjcftj')
 ]
 
 MARKDOWN = {

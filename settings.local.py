@@ -8,14 +8,6 @@ SITEURL = str(Path(__file__).resolve().parent / "output_local")
 SITESUBTITLE = "LOCAL" 
 OUTPUT_PATH = "output_local"
 
-# These settings tell Pelican to speed up build by only re-processing content which has changed. 
-# See details in the Pelican documentation
-LOAD_CONTENT_CACHE = True           # Use caching
-CHECK_MODIFIED_METHOD = 'mtime'     # Use modified time to check whether content has changed
-CACHE_CONTENT = True                # Save changes to the cache
-CONTENT_CACHING_LAYER = 'generator' # Cache at the layer of generators (alt: 'reader')
-WITH_FUTURE_DATES = False           # Incompatible with caching
-
 # Base path of content
 PATH = 'content'
 
@@ -37,7 +29,9 @@ PLUGINS = ['filetime_from_git', 'replacer']
 
 REPLACES = (
     ("TODO", '<span class="todo">TODO</span>'),
-    ("READINGS_URL", "http://beyondbitsandatoms.org/readings")
+    ("READINGS_URL", "http://beyondbitsandatoms.org/readings"),
+    ("CANVAS_LECTURE_URL", "https://tc.instructure.com/courses/8886"),
+    ("CANVAS_LAB_URL", "https://tc.instructure.com/courses/8887")
 )
 
 # Feed generation is usually not desired when developing
@@ -48,8 +42,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 DEFAULT_PAGINATION = False
+ARTICLE_ORDER_BY = lambda article: float(article.metadata.get('index', 1000))
 
 MENUITEMS = [
+    ('Piazza', 'https://piazza.com/class/jr73emlmjcftj')
 ]
 
 MARKDOWN = {
