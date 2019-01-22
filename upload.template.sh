@@ -21,6 +21,6 @@ set ssl:verify-certificate false
 open $HOST
 user $USER $PASS
 lcd $SOURCEFOLDER
-mirror --reverse --delete --verbose $SOURCEFOLDER $TARGETFOLDER
+mirror --reverse --verbose $SOURCEFOLDER $TARGETFOLDER
 bye
 "

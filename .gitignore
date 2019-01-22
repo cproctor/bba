@@ -2,6 +2,7 @@ __pycache__/*
 output_local/*
 output_published/*
 output_dev/*
+cache/*
 *.pyc
 *.swp
 *.swo

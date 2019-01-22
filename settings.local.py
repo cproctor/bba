@@ -5,9 +5,18 @@ from pathlib import Path
 
 SITENAME = 'Beyond Bits & Atoms'
 SITEURL = str(Path(__file__).resolve().parent / "output_local")
-SITESUBTITLE = "Teachers College MSTU 5199 001 & 002" 
+SITESUBTITLE = "LOCAL" 
 OUTPUT_PATH = "output_local"
 
+# These settings tell Pelican to speed up build by only re-processing content which has changed. 
+# See details in the Pelican documentation
+LOAD_CONTENT_CACHE = True           # Use caching
+CHECK_MODIFIED_METHOD = 'mtime'     # Use modified time to check whether content has changed
+CACHE_CONTENT = True                # Save changes to the cache
+CONTENT_CACHING_LAYER = 'generator' # Cache at the layer of generators (alt: 'reader')
+WITH_FUTURE_DATES = False           # Incompatible with caching
+
+# Base path of content
 PATH = 'content'
 
 TIMEZONE = 'America/New_York'
@@ -28,6 +37,7 @@ PLUGINS = ['filetime_from_git', 'replacer']
 
 REPLACES = (
     ("TODO", '<span class="todo">TODO</span>'),
+    ("READINGS_URL", "http://beyondbitsandatoms.org/readings")
 )
 
 # Feed generation is usually not desired when developing
@@ -49,4 +59,4 @@ MARKDOWN = {
 }
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True

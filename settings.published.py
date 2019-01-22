@@ -27,6 +27,7 @@ PLUGINS = ['filetime_from_git', 'replacer']
 
 REPLACES = (
     ("TODO", '<span class="todo">TODO</span>'),
+    ("READINGS_URL", "http://beyondbitsandatoms.org/readings")
 )
 
 # Feed generation is usually not desired when developing
