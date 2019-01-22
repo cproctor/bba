@@ -15,7 +15,7 @@ Submit a link to your Google Doc (to Canvas) with the following:
 - 4 - 6 pictures of the actual working process (brainstorming, designs, prototyping, etc.) and the final prototype. Include a caption or description of each picture along with supporting text to help us understand your design process and final prototype.
 - 1 video of your station at work.
 
-Don't forget to update your <a href="{filename}/assignments/lab_journal.md">lab journal</a> this week. 
+Don't forget to update your <a href="{filename}/assignments/lab_journals.md">lab journal</a> this week. 
 
 ## Assessment
 
