@@ -3,7 +3,7 @@ Date: 2018-02-15
 
 # Designing a teacher portal for a school information system
 
-<img src="{filename}/resources/teacher_portal_cutout.jpg" style="width:300px;">
+<img src="{static}/resources/teacher_portal_cutout.jpg" style="width:300px;">
 
 Chris's school purchased a mediocre information system to 
 manage all the school's information about students, parents, teachers, schedules, attendance, etc. 
@@ -38,13 +38,13 @@ The design of the teacher portal fell within a larger design goal of organizing 
 there was one system for each kind of information. In particular, email was for ephemeral and time-sensitive
 information and the teacher portal was for static information and information that needed to be kept up-to-date.
 
-The [Teacher Portal Wireframe]({filename}/resources/teacher_portal.pdf) is the final proposed interface. The document is annotated
+The [Teacher Portal Wireframe]({static}/resources/teacher_portal.pdf) is the final proposed interface. The document is annotated
 with specific design goals. Chris used a web app called [Balsamiq](https://balsamiq.com/) to create these.
 
 ---
 # Student Journalism 
 
-<img src="{filename}/resources/student_journalism.png" style="width:100%">
+<img src="{static}/resources/student_journalism.png" style="width:100%">
 
 Chris is working with a local high school journalism program to develop a mobile application to distribute their content. 
 They have had a thriving journalism program for several decades, but in the last eight years, the amount of user engagement
@@ -70,20 +70,20 @@ learning-related, framed in terms of participation in a literacy community and i
 - Feel membership in the student body
 - Help the student body talk about stuff that’s hard to talk about
 
-The [App Wireframe]({filename}/resources/student_journalism.png) is the final interface design, annotated with specific user experience
+The [App Wireframe]({static}/resources/student_journalism.png) is the final interface design, annotated with specific user experience
 goals. It was created using [Sketch](https://www.sketchapp.com/).
 
 --- 
 # Interactive storytelling
 
-<img src="{filename}/resources/unfold.png" style="width:500px;">
+<img src="{static}/resources/unfold.png" style="width:500px;">
 
 How might computational literacy interact with textual literacy? Using a programming language called Ink, Chris developed a web app 
 for reading and writing interactive fiction.
 
 ## Design process
 
-Three iterations of design-based research are documented in this [IDC Work-in-progress paper]({filename}/resources/interactive_fiction.pdf). 
+Three iterations of design-based research are documented in this [IDC Work-in-progress paper]({static}/resources/interactive_fiction.pdf). 
 
 ## Goals
 For the third iteration of the webapp, Chris adopted a method of user stories to describe how people might interact with the app. 

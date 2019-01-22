@@ -1,5 +1,5 @@
 Title: Interface design
-Date: 2018-02-15
+Index: 6.2
 
 Design and implement a user experience for the game "Treasure" or for your final project. For the purposes of this assignment, 
 the nature of the application is not important. Rather, your focus will be on designing user interfaces and 

@@ -16,7 +16,7 @@ In the lab, students are immersed in a constructionist learning environment wher
 # Teaching team
 
 <div class="profile">
-    <img class="profile-picture" src="{filename}/images/profiles/paulo.jpg">
+    <img class="profile-picture" src="{static}/images/profiles/paulo.jpg">
     <div class="profile-text">
         <h3>Paulo Blikstein</h3>
         <p>
@@ -24,12 +24,12 @@ In the lab, students are immersed in a constructionist learning environment wher
             educational makerspaces. He is the director of 
             <a href="http://fablearn.org">FabLearn</a>, which supports a network of educational makerspaces, 
             sponsors research and conferences on maker education, and organizes trainings around the world.
-            Paulo also built a <a href="{filename}/images/watercomputer.png">water computer</a>.
+            Paulo also built a <a href="{static}/images/watercomputer.png">water computer</a>.
         </p>
     </div>
 </div>
 <div class="profile">
-    <img class="profile-picture" src="{filename}/images/profiles/chris.png">
+    <img class="profile-picture" src="{static}/images/profiles/chris.png">
     <div class="profile-text">
         <h3>Chris Proctor</h3>
         <p>
@@ -42,7 +42,7 @@ In the lab, students are immersed in a constructionist learning environment wher
     </div>
 </div>
 <div class="profile">
-    <img class="profile-picture" src="{filename}/images/profiles/monica.jpg">
+    <img class="profile-picture" src="{static}/images/profiles/monica.jpg">
     <div class="profile-text">
         <h3>Monica Chan</h3>
         <p>
@@ -51,7 +51,7 @@ Monica is a doctoral student in the Instructional Technology & Media program at 
     </div>
 </div>
 <div class="profile">
-    <img class="profile-picture" src="{filename}/images/profiles/kelly.jpg">
+    <img class="profile-picture" src="{static}/images/profiles/kelly.jpg">
     <div class="profile-text">
         <h3>Kelly Grey</h3>
         <p>
@@ -60,7 +60,7 @@ Kelly is a graduate student in the Technology Specialist program at TC. She prev
     </div>
 </div>
 <div class="profile">
-    <img class="profile-picture" src="{filename}/images/profiles/mikhail.jpg">
+    <img class="profile-picture" src="{static}/images/profiles/mikhail.jpg">
     <div class="profile-text">
         <h3>Mikhail Sigalov</h3>
         <p>
@@ -69,7 +69,7 @@ Hi all, my name is Mikhail (pronounced Me - ha - eel), and I'm excited to be par
     </div>
 </div>
 <div class="profile">
-    <img class="profile-picture" src="{filename}/images/profiles/yipu.jpg">
+    <img class="profile-picture" src="{static}/images/profiles/yipu.jpg">
     <div class="profile-text">
         <h3>Yipu Zheng</h3>
         <p>
@@ -117,3 +117,18 @@ Teachers College is committed to maintaining a safe environment for students. Be
 
 ## TC Policies
 This course follows TC policies on [incomplete grades](https://www.tc.columbia.edu/policylibrary/associate-provost-enrollment-services/incomplete-grades/), [responsibility for monitoring email](http://www.tc.columbia.edu/policylibrary/Student Responsibility for Monitoring TC Email Account), [religious observance](http://www.tc.columbia.edu/policylibrary/provost/religious-observance/), and academic integrity.
+
+--- 
+# Acknowledgements
+
+This course is an accretion of many years of work from past and present members of the Transformative Learning Technologies Lab, including:
+
+- Paulo Blikstein
+- Marcelo Worsley
+- Bertrand Schneider
+- Engin Bumbacher
+- Claire Rosenbaum
+- Richard Davis
+- Chris Proctor
+- Veronica Lin
+- And many others

@@ -1,5 +1,5 @@
 Title: Upcycling
-Date: 2019-01-30
+Index: 2
 
 Modify something you own using some digital fabrication technology in the TLTL. This is a low-stress assignment, designed to explore how digital fabrication might allow us to approach the materiality of the world around us differently, to discover affordances in what we thought was immutable. 
 

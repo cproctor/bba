@@ -1,4 +1,4 @@
 Title: Tech critique
-Date: 2018-02-15
+Index: 5.1
 
-Coming.
+TODO 

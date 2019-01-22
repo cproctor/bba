@@ -1,5 +1,5 @@
 Title: Dream Toy
-Date: 2018-01-25
+Index: 4.2
 
 Co-design a tangible learning artifact with a child, develop it through iterative prototypes, and then build a final version you will give to the child as a gift. (It could also be a gift for another child.) The artifact might be:
 

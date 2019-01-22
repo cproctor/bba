@@ -17,7 +17,7 @@ connected to your computer (probably running a Processing program) displays an i
 surface from below. At the same time, a program called [ReacTIVision](http://reactivision.sourceforge.net/) uses a camera (also connected to your computer) to 
 watch for interactions with physical objects on the tabletop.
 
-<img src="{filename}/images/fiducials.png" style="width:50%;">
+<img src="{static}/images/fiducials.png" style="width:50%;">
 
 [ReacTIVision](http://reactivision.sourceforge.net/) watches for specific patterns, called fiducials,
 and broadcasts a stream 
@@ -35,9 +35,9 @@ illuminate the underside of the table with infrared light.
 - Install [ReacTIVision](http://reactivision.sourceforge.net/). While it is running, you should see a window like the one below. 
   Press `h` to see the configuration options.
 
-  <img src="{filename}/images/chris_react.png" style="width:40%;">
+  <img src="{static}/images/chris_react.png" style="width:40%;">
 
-- Print out the fiducial patterns ([PDF]({filename}/resources/fiducials.pdf)) and hold them in view of your 
+- Print out the fiducial patterns ([PDF]({static}/resources/fiducials.pdf)) and hold them in view of your 
   webcam. You should see them identified in the reacTIVision window. 
 - Install the [TUIO Processing](https://www.tuio.org/?software) library. Download and unzip the folder, and then put it in the `libraries` folder
   inside your processing home directory. 

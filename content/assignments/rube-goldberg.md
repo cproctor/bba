@@ -1,5 +1,5 @@
 Title: Rube Goldberg
-Date: 2018-01-18
+Index: 3.2
 
 As a class, you will build a single [Rube Goldberg Machine](https://www.youtube.com/watch?v=GOMIBdM6N7Q), using the GoGo boards with various sensors and actuators, the laser cutter, and the lab's woodshop tools. The Rube Goldberg Machine you build will consist of 7 stations, each of which takes a particular sensor input and has to activate the following sensor in a wonderfully complicated way. The class will be split into 7 groups ([group assignments](https://docs.google.com/spreadsheets/d/1JrBcSRAND8GXJ1RaeP9_92pb1GrnbPVVDM7NGh01044/edit?usp=sharing)), each group responsible for one station.
 
@@ -15,7 +15,7 @@ Submit a link to your Google Doc (to Canvas) with the following:
 - 4 - 6 pictures of the actual working process (brainstorming, designs, prototyping, etc.) and the final prototype. Include a caption or description of each picture along with supporting text to help us understand your design process and final prototype.
 - 1 video of your station at work.
 
-Don't forget to update your <a href="{filename}/assignments/journal.md">lab journal</a> this week. 
+Don't forget to update your <a href="{filename}/assignments/lab_journal.md">lab journal</a> this week. 
 
 ## Assessment
 
