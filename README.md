@@ -33,9 +33,12 @@ change:
 Here's a quick tour of the site's content:
 
 - `pages` appear on the main navigation menu.
-- `announcements` are automatically displayed on the homepage, in date order.
+- `announcements` are automatically displayed on the homepage, in date order. Use the `index` metadata property to control the order.
 - `assignments`, `curriculum`, `logistics`, and `modules` are normal content you can link to or view by category.
 - `images` and `resources` are for static assets like images, readings, design files, bibtex refs, etc.
+
+Assigned readings are not stored as part of this repository, because they are large files and due to copyright restrictions. 
+They are maintained separately; you can link to readings using the `READINGS_URL` defined in settings. 
 
 ## Publishing changes
 
