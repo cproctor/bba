@@ -22,8 +22,8 @@ DISPLAY_PAGES_ON_MENU = True
 STATIC_PATHS = ['images', 'resources']
 
 # Plugins
-PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['filetime_from_git', 'replacer']
+PLUGIN_PATHS = ['plugins', 'pelican-plugins']
+PLUGINS = ['filetime_from_git', 'replacer', 'markdown_raw_reader']
 
 REPLACES = (
     ("TODO", '<span class="todo">TODO</span>'),
@@ -50,6 +50,10 @@ MARKDOWN = {
     'extension_configs': {
         'markdown.extensions.tables': {}
     }
+}
+
+READERS = {
+    "md": "markdown_raw_reader.MarkdownRawReader"
 }
 
 # Uncomment following line if you want document-relative URLs when developing

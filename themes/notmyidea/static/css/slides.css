@@ -1,0 +1,130 @@
+
+@import url(fonts/YanoneKaffeesatz);
+@import url(fonts/DroidSerif);
+@import url(fonts/UbuntuMono);
+
+body { font-family: 'Droid Serif'; }
+
+h1, h2, h3 {
+  font-family: 'Yanone Kaffeesatz';
+  font-weight: normal;
+}
+
+.remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+
+.cite {
+    vertical-align: super;
+    font-size: .83em;
+    color: var(--color7);
+}
+
+.refs {
+    position: absolute; 
+    bottom: 0;
+    left: 4em;
+    right: 4em;
+    font-size: 0.83em;
+}
+
+.refs .anchor {
+    background-color: var(--color7);
+    color: white;
+    padding: 1px 3px;
+    font-size: 0.83em;
+}
+
+.brands img {
+    vertical-align: middle;
+    margin: 0 40px;
+}
+
+.full-bleed-left {
+    position: absolute; 
+    left:0;
+    height: 100%;
+    width: 50%;
+    overflow: hidden;
+    margin: -1em 0;
+}
+
+.full-bleed-right {
+    position: absolute; 
+    right:0;
+    height: 100%;
+    width: 50%;
+    overflow: hidden;
+    margin: -1em 0;
+}
+
+.full-bleed-left img, .full-bleed-right img {
+    height: 100%;
+}
+
+.full-bleed-left p, .full-bleed-right p {
+    margin: 0;
+}
+
+.half-frame-left {
+    position: absolute; 
+    left:0;
+    height: 100%;
+    width: 50%;
+    overflow: hidden;
+    margin: -1em 0;
+    padding: 1em 2em;
+}
+
+.half-frame-right {
+    position: absolute; 
+    right:0;
+    height: 100%;
+    width: 50%;
+    overflow: hidden;
+    margin: -1em 0;
+    padding: 1em 2em;
+}
+
+.full-bleed {
+    margin: -1em -4em;
+    height: 100%;
+}
+.full-bleed>p {
+    margin: 0;
+}
+.half-left {
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    position:absolute;
+    left:0;
+}
+.half-right {
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    position:absolute;
+    right:0;
+}
+.half-frame {
+    margin: 1em 2em;
+}
+
+.new {
+    color: red;
+}
+
+
+/* TABLE */
+table {
+    font-size: 1em;
+}
+.overbar td {
+    border-top: 1px solid black;
+}
+.underbar td {
+    border-bottom: 1px solid black;
+}
+
+table.regression td:not(:first-child) {
+    width: 5em;
+}

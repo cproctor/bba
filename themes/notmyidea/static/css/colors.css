@@ -1,0 +1,17 @@
+:root {
+    --color0: #F4AE79; /* medium orange */
+    --color1: #5C584B; /* greenish brown */
+    --color2: #B7ABB5; /* desaturated purple */
+    --color3: #FEF3CD; /* pale yellow */
+    --color4: #715884; /* strong purple */
+    --color5: #FBE1A9; /* pale orange */
+    --color6: #C4DDC2; /* pale green */
+    --color7: #E18D5D; /* strong orange */
+    --color8: #833457; /* magenta */
+    --color9: #6F4651; /* rust */
+    --color10: #A8C8CA; /* desaturated teal */
+
+    --text-color: var(--color1);
+
+    --travel-color: var(--color2);
+}
