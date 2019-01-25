@@ -17,3 +17,8 @@ In addition, we’d like for you to use this space to reflect on how you draw on
 # Assessment
 
 The teaching team will periodically respond to your lab journal as colleagues and co-designers. The content of your journal won’t be assessed. It is mandatory to maintain it though.
+
+# Accessing your lab journal
+
+Please fill out this form so we know how to access your lab journal.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdM_YEBNIH36GWfKmITJQxhy87jCFCwg3yXq3JbbUbEYbkvVw/viewform?embedded=true" width="100%" height="732" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
