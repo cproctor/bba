@@ -1,5 +1,6 @@
 Title: Omni Animal
 Index: 1.3
+Banner: images/omni_fish.png
 
 Design and build an Omni-Animal. In this assignment, you will get comfortable with working in the TLTL, and with using the laser cutter to prototype two- and three-dimensional objects. Alternative: Propose creating another object, 
 useful or beautiful, of similar complexity as an Omni-Animal. Your project should still meet the same technical requirements. 
