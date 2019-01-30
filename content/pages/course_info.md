@@ -51,15 +51,6 @@ Monica is a doctoral student in the Instructional Technology & Media program at 
     </div>
 </div>
 <div class="profile">
-    <img class="profile-picture" src="{static}/images/profiles/kelly.jpg">
-    <div class="profile-text">
-        <h3>Kelly Grey</h3>
-        <p>
-Kelly is a graduate student in the Technology Specialist program at TC. She previously worked as a high school graphic design & computer programming teacher, specializing in creative coding and game design. Prior to starting her career as an educator, she worked for 8 years in fashion design for companies such as Diane von Furstenberg, The Children's Place, and The Fashion Institute of Technology. Currently she works part-time at the Design Center at Barnard, as a graduate student advisor for the makerspace. Her personal interests are in developing highly customizable garments & textiles using 3D scanning and printing. She also is very interested in how to digital fabrication can be used to develop accessible and customizable technologies for those in need. 
-        </p>
-    </div>
-</div>
-<div class="profile">
     <img class="profile-picture" src="{static}/images/profiles/mikhail.jpg">
     <div class="profile-text">
         <h3>Mikhail Sigalov</h3>
