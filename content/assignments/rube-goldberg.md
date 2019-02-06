@@ -1,21 +1,22 @@
 Title: Rube Goldberg
 Index: 3.2
 
-As a class, you will build a single [Rube Goldberg Machine](https://www.youtube.com/watch?v=GOMIBdM6N7Q), using the GoGo boards with various sensors and actuators, the laser cutter, and the lab's woodshop tools. The Rube Goldberg Machine you build will consist of 7 stations, each of which takes a particular sensor input and has to activate the following sensor in a wonderfully complicated way. The class will be split into 7 groups ([group assignments](https://docs.google.com/spreadsheets/d/1JrBcSRAND8GXJ1RaeP9_92pb1GrnbPVVDM7NGh01044/edit?usp=sharing)), each group responsible for one station.
+As a class, you will build a single [Rube Goldberg Machine](https://www.youtube.com/watch?v=GOMIBdM6N7Q), using the GoGo boards with various sensors and actuators, the laser cutter, and the lab's woodshop tools. The Rube Goldberg Machine you build will consist of 7 stations, each of which takes a particular sensor input and has to activate the following sensor in a wonderfully complicated way. The class will be split into 7 groups ([group assignments](https://docs.google.com/spreadsheets/d/1TsuUf0sztm5bKS-qyqnSu2RjaRzQFBIw30hK9v3s2A4/edit?usp=sharing)), each group responsible for one station.
 
-- ** I/O ** You must have at least one step between the input sensor and the following sensor. A step consists of a sensor detecting some change and then engaging an actuator (which then somehow triggers the next sensor...) Each step must involve moving parts--movement can be with linkages, gears, ropes being pulled, wheel systems, chain of marbles or balls rolling triggered by the actuator, etc.; there is no limit to what that entails.
-- ** Physical mechanisms ** You must use a laser cutter and at least one woodshop tool somewhere in your steps. The sensor-actuator system has to be all implemented using the GoGo board and the corresponding pieces.
+- ** I/O ** You must have at least one step between the input sensor and the following sensor. A step consists of a GoGo board sensor detecting some change and then engaging an actuator (which then somehow triggers the next sensor...) Each step must involve moving parts--movement can be with linkages, gears, ropes being pulled, wheel systems, chain of marbles or balls rolling triggered by the actuator, etc.; there is no limit to what that entails.
+- ** Physical mechanisms ** You must use a laser cutter and at least one woodshop tool somewhere in your steps. Your physical mechanism must include at least one [simple machine](https://www.vexrobotics.com/vexiq/education/iq-curriculum/simple-machines-and-motion/six-types-of-simple-machines) (other than an inclined plane).
 - ** Collaboration ** This is the first of at least two group projects in BB&amp;A. You will need to work with your team-mates and coordinate with the teams before and after you in sequence. 
+- ** Testing and iteration ** You are required to test your mechanism and go through at least one cycle of iterative development. 
 
 ## Deliverables
 
 The Rube Goldberg machine should be set up and ready to go at the start of class. You will have 10 minutes to make any final adjustments. It's OK if your project doesn't quite work when we run the machine, but it should be well-designed and work consistently during testing.
 
-Submit a link to your Google Doc (to Canvas) with the following:
+Submit a document or link (ex: Google Doc) to Canvas with the following:
 - 4 - 6 pictures of the actual working process (brainstorming, designs, prototyping, etc.) and the final prototype. Include a caption or description of each picture along with supporting text to help us understand your design process and final prototype.
+- A brief (1-2 paragraphs) narrative describing your testing and iteration. How did you test your mechanism? What was your goal in iteration? (Reliability? Elegance?) How did you decide what to change?
 - 1 video of your station at work.
-
-Don't forget to update your <a href="{filename}/assignments/lab_journals.md">lab journal</a> this week. 
+- If you submit a Google Doc or the like, be sure that permissions are set so that anyone with the link can view the document. 
 
 ## Assessment
 
@@ -25,7 +26,7 @@ Don't forget to update your <a href="{filename}/assignments/lab_journals.md">lab
 
 ## Steps
 
-- You have been [assigned to a group](https://docs.google.com/spreadsheets/d/1JrBcSRAND8GXJ1RaeP9_92pb1GrnbPVVDM7NGh01044/edit?usp=sharing) for this project. Check in with your group-mates right away and plan how you want to work. It's a good idea to talk about communication styles, when you want to be in the lab together, and maybe put some milestones on the calendar. Also make contact with the groups before and after you; you will need to agree on how your components come together. A few thoughts on groupwork:
+- You have been [assigned to a group](https://docs.google.com/spreadsheets/d/1TsuUf0sztm5bKS-qyqnSu2RjaRzQFBIw30hK9v3s2A4/edit?usp=sharing) for this project. Check in with your group-mates right away and plan how you want to work. It's a good idea to talk about communication styles, when you want to be in the lab together, and maybe put some milestones on the calendar. Also make contact with the groups before and after you; you will need to agree on how your components come together. A few thoughts on groupwork:
     - Be careful with ideas--we all get possessive of our own. Practice letting go. 
     - When somebody stops contributing in meetings, or checks out of a group, there is always a reason. Probably they are not feeling safe, respected and heard. You can avoid more serious problems by proactively checking in with your groupmate. 
     - If you experience tension or conflict in your group and feel you need the support of a member of the teaching team, please reach out. We are happy to talk through your situation confidentially. Please keep in mind, however, that any intervention (such as a group meeting mediated by a member of the teaching team) is going to require you to tell your teammate why you are frustrated. 
