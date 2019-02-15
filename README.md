@@ -14,7 +14,9 @@ a GitHub account that has permission to access the repo.
     source env/bin/activate
     pip install -r requirements.txt
     pelican -s settings.local.py
-    open output_local/index.html
+    cd output_local
+    python -m http.server
+    open http://localhost:8000
 
 The last command should have opened your local build of the current website in a browser.
 

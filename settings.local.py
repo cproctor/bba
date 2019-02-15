@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 from pathlib import Path
 
 SITENAME = 'Beyond Bits & Atoms'
-SITEURL = str(Path(__file__).resolve().parent / "output_local")
+SITEURL = "http://localhost:8000"
 SITESUBTITLE = "LOCAL" 
 OUTPUT_PATH = "output_local"
 
