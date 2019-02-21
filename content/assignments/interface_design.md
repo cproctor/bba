@@ -22,12 +22,13 @@ how it works:
 - Create a new user by going to [treasure.chrisproctor.net/players/new/USERNAME](http://treasure.chrisproctor.net/players/new/USERNAME), replacing `USERNAME` with the username you want. You will get a 
   secret `pid`. Don't lose this!
 - Now you can see your profile at [http://treasure.chrisproctor.net/players/PID](http://treasure.chrisproctor.net/players/PID), again replacing `PID` with your PID.
-- Create a new game with `/players/PID/games/new`, join an existing game with `/players/PID/games/join`, or resume a game you're already playing with `/players/PID/games/resume`. 
-- Now you will see information about this game. You can play your next card with `/players/PID/games/GID/play/CARD`, where CARD is a number between 1 and 13. 
+- Now create a new game with `/players/PID/games/new`. You'll be redirected to `/players/PID/games/GID` (where `GID` is the ID of the new game). You don't want to wait around for another player to join,
+  so set this game to autoplay by navigating to `/players/PID/games/GID/autoplay`. 
+- Now you can play your next card with `/players/PID/games/GID/play/CARD`, where CARD is a number between 1 and 13. You'll see that the bot player automatically played as well.
+- Later, you can join a game against another live player with `/players/PID/games/join`, join a specific game with `/players/PID/games/GID/join`, or resume a game you're already playing with `/players/PID/games/resume`.
 
-With a bit of fussing, you should be able to play a whole game. You could create two different users and play against each other if you like. This works, but it's not a nice interface or a particularly 
+You can play a whole game, just by typing URLs. You could create two different users and play against each other if you like, each in a separate tab. This works, but it's not a nice interface or a particularly 
 nice experience. Your job is to build a better interface. 
-
 
 ### Designing the interface
 
@@ -44,42 +45,17 @@ First, think about what kind of experience you want your user to have. For examp
 Develop and iterate some ideas for the user interface. You will need to articulate a rationale for your choices connected to learning.
 
 ### Implementing the interface
-You may use any technology you want, but code is provided for Python and for Scratch. 
+You may use any technology you want, but code is provided for Python, Scratch, and Processing. 
 
-- If you want to use Scratch (recommended), there is a [ScratchX extension](http://scratchx.org/?url=https://cproctor.github.io/treasure/extension.js#scratch) with all the blocks you need to connect to the Treasure server. Try it out! There is also a [demo project](http://scratchx.org/?url=https://cproctor.github.io/treasure/extension.js&url=https://cproctor.github.io/treasure/treasure.sbx#scratch) you can play with to see how it works. Update: here's a [simpler example](http://scratchx.org/?url=https://cproctor.github.io/treasure/treasure_autoplay.sbx#scratch) using the autoplay feature. If you are just getting started, base your interface off of this second example.
+- If you want to use Scratch there is a Scratch3 extension coming... (Chris needs to update the old Scratch 2 extension).
+- If you want to use Processing, there is a client API coming as well.
 - If you want to use Python, there is a [client API](https://github.com/cproctor/treasure/blob/master/treasure/api.py) and [demo command-line program](https://github.com/cproctor/treasure/blob/master/treasure/client.py) in the [Treasure repo](https://github.com/cproctor/treasure). If Python/Git/django/APIs/aahhh!!!! feels unfamiliar, but it's a learning opportunity you want to pursue, Chris will be happy to provide extensive support. Update: here's a [simpler example](https://github.com/cproctor/treasure/blob/master/treasure/client_autoplay.py) that uses autoplay. And here's an [example of an interface that inherits from the autoplay example](https://github.com/cproctor/treasure/blob/master/treasure/example_client.py), just as yours might. 
 
 ### Deliverables
 
 - Your interface, in some playable format.
-- Your code. (If you use Scratch, this should be your SBX file.)
+- Your code. 
 - A brief writeup explaining your design choices in terms of learning. Explain how you want your user to think or interact with your interface, and connect this to specific design choices in the interface. Aim for ~300 words. Possible formats:
     - Annotated screenshots, wireframes, or sketches (See Teacher Portal or Student Journalism in [Interface design case studies]({filename}/curriculum/interface.md))
     - A list of user stories with interface features supporting them (See Interactive Storytelling in [Interface design case studies]({filename}/curriculum/interface.md))
     - Several paragraphs summarizing your design process, explaining what you were trying to achieve and options you considered for achieving it. 
-
----
-# Option 2: User interface for your final project
-
-If you are planning to have a computational aspect to your final project, you may instead use this assignment as a chance to design the interface. In this case, your 
-final project group will submit one interface. Your interface should work, even if the back end is stubbed (Often, one part of a software system can't function without other parts. In such cases,
-it is helpful to create a *stub* or a *mock*, which pretends to be a fully-functioning component. For example, as you design your interface, you could have it consume a static JSON file instead of implementing
-whatever kind of dynamic back end you ultimately plan to have.) 
-
-Note: If you choose Option 2, this assignment will be an ambitious milestone in your final project. We recognize that your interface will not be a complete implementation of your final project, and encourage you to 
-share your plans for the complete interface, along with a working implementation of part of it. This will not look like an unfinished assignment; it will look like you've completed part of a larger, intentional whole. 
-
-### Deliverables
-
-- Your interface, in some playable format.
-- Your code. (If you use Scratch, this should be your SBX file.)
-- A brief writeup explaining your design choices in terms of learning. Explain how you want your user to think or interact with your interface, and connect this to specific design choices in the interface. Aim for ~300 words. Possible formats:
-    - Annotated screenshots, wireframes, or sketches (See Teacher Portal or Student Journalism in [Interface design case studies]({filename}/curriculum/interface.md))
-    - A list of user stories with interface features supporting them (See Interactive Storytelling in [Interface design case studies]({filename}/curriculum/interface.md))
-    - Several paragraphs summarizing your design process, explaining what you were trying to achieve and options you considered for achieving it. 
-- Sketches or design documents showing how the interface components you are turning in fit into your larger project. (This might already be achieved in your writeup explaining design choices.)
-
-
-
-
-
