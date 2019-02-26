@@ -68,6 +68,15 @@ Yipu Zheng is a master's student in Learning Analytics at Teachers College, Colu
         </p>
     </div>
 </div>
+<div class="profile">
+    <img class="profile-picture" src="{static}/images/profiles/jonathan.jpg">
+    <div class="profile-text">
+        <h3>Jonathan Pang</h3>
+        <p>
+Jonathan is the acting lab manager for the Transformative Learning Technologies Lab and a program manager with FabLearn. Apart from extinguishing (and starting) laser cutter fires, he works with K-12 teachers and school administrators as they implement constructionism in their classrooms. After taking BBA his junior year, Jonathan made the Stanford TLTL his second home while pursuing his bachelor's and master's in mechanical engineering (and TA'ing BBA a couple times). He's excited to continue supporting BBA and eager to see what you all make in the lab!
+        </p>
+    </div>
+</div>
 <!--
 -->
 
