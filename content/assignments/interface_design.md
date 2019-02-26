@@ -1,20 +1,32 @@
 Title: Interface design
 Index: 6.2
 
-Design and implement a user experience for the game "Treasure" or for your final project. For the purposes of this assignment, 
-the nature of the application is not important. Rather, your focus will be on designing user interfaces and 
-user experiences for learning. You will discuss these ideas in depth in class in upcoming weeks; taking a stab at it first
+Working alone or in a group of 2, design and implement an interface to the game "Treasure." 
+You will discuss these ideas in depth in class in upcoming weeks; taking a stab at it first
 on your own will prepare you to engage more deeply with the theory later.
 
 - **Programming**: Writing a working piece of code. The technical quality or impressiveness is not important--choose the right level of challenge for yourself.
 - **Designing experiences**: Going from theory to implementation
 - **Connecting the interface to the code**: The interface might be physical buttons, an on-screen display, or some other surface where the user and the program meet.
 
-# Option 1: Treasure
+# Deliverables
 
-Working alone or in a group of 2, create an interface to the game "Treasure." In this game, you and an opponent are competing for thirteen treasures, with point values ranging 1 to 13. 
-Each round, a random treasure is displayed and then you and the opponent each choose a card from your hand, showing them at the same time. Whoever plays the higher card wins the treasure. 
-(However, a 1 beats a 13.) Whoever has the most treasure points at the end wins. 
+- Your working interface, in a format which is both playable and lets us see the code. If you're using Processing, compress your project into a zip file so that it can be downloaded, unzipped, and played.
+- A brief writeup explaining your design choices in terms of learning. Explain how you want your user to think or interact with your interface, and connect this to specific design choices in the interface. Aim for ~300 words. Possible formats:
+    - Annotated screenshots, wireframes, or sketches (See Teacher Portal or Student Journalism in [Interface design case studies]({filename}/curriculum/interface.md))
+    - A list of user stories with interface features supporting them (See Interactive Storytelling in [Interface design case studies]({filename}/curriculum/interface.md))
+    - Several paragraphs summarizing your design process, explaining what you were trying to achieve and options you considered for achieving it. 
+
+# Assessment
+
+- ** &#10003; + ** Meets all requirements described above and thoughtfully connects ideas from lecture to the design of the interface.
+- ** &#10003; ** Meets all requirements described above.
+- ** &#10003; - ** Does not meet the requirements described above.
+
+# Treasure
+
+In this game, you and an opponent are competing for thirteen treasures, with point values ranging 1 to 13. 
+Each round, a random treasure is displayed and then you and the opponent each choose a card from your hand, showing them at the same time. Whoever plays the higher card wins the treasure. If the two cards are euqal, nobody gets that treasure. There is one exception: a 1 beats a 13. Whoever has the most treasure points at the end wins. 
 
 Chris has built a treasure server at [http://treasure.chrisproctor.net](http://treasure.chrisproctor.net), which you can play by typing in URLs in your browser. Play with it so you understand
 how it works:
@@ -30,7 +42,7 @@ how it works:
 You can play a whole game, just by typing URLs. You could create two different users and play against each other if you like, each in a separate tab. This works, but it's not a nice interface or a particularly 
 nice experience. Your job is to build a better interface. 
 
-### Designing the interface
+## Designing the interface
 
 First, think about what kind of experience you want your user to have. For example, 
 
@@ -44,18 +56,17 @@ First, think about what kind of experience you want your user to have. For examp
 
 Develop and iterate some ideas for the user interface. You will need to articulate a rationale for your choices connected to learning.
 
-### Implementing the interface
-You may use any technology you want, but code is provided for Python, Scratch, and Processing. 
+## Implementing the interface
+You may use any technology you want, but code is provided for Python and Processing. 
 
-- If you want to use Scratch there is a Scratch3 extension coming... (Chris needs to update the old Scratch 2 extension).
-- If you want to use Processing, there is a client API coming as well.
-- If you want to use Python, there is a [client API](https://github.com/cproctor/treasure/blob/master/treasure/api.py) and [demo command-line program](https://github.com/cproctor/treasure/blob/master/treasure/client.py) in the [Treasure repo](https://github.com/cproctor/treasure). If Python/Git/django/APIs/aahhh!!!! feels unfamiliar, but it's a learning opportunity you want to pursue, Chris will be happy to provide extensive support. Update: here's a [simpler example](https://github.com/cproctor/treasure/blob/master/treasure/client_autoplay.py) that uses autoplay. And here's an [example of an interface that inherits from the autoplay example](https://github.com/cproctor/treasure/blob/master/treasure/example_client.py), just as yours might. 
+- If you want to use Processing, there is a [client API, along with a sample project]({static}/resources/treasure_api.zip) which we used in lab.
+- If you want to use Python, there is a [client API](https://github.com/cproctor/treasure/blob/master/treasure/api.py) and [demo command-line program](https://github.com/cproctor/treasure/blob/master/treasure/client.py) in the [Treasure repo](https://github.com/cproctor/treasure). If this is new but it's a learning opportunity you want to pursue, Chris will be happy to provide extensive support.
 
-### Deliverables
+## A note on code reuse
+Computer science classes often borrow the concept of plagiarism from writing classes. However, in the real world, programmers freely borrow code from all over. It's still important to be honest--don't claim you did what you didn't--but you should feel free to use the provided code. If you are working with Processing, you may build your project off of the example project provided. You may re-use all the code from the Models and API layers, but you should write your own View layers. You may still borrow techniques from the examples provided, but you need to design and implement your own interface, not just tweak what's provided.
 
-- Your interface, in some playable format.
-- Your code. 
-- A brief writeup explaining your design choices in terms of learning. Explain how you want your user to think or interact with your interface, and connect this to specific design choices in the interface. Aim for ~300 words. Possible formats:
-    - Annotated screenshots, wireframes, or sketches (See Teacher Portal or Student Journalism in [Interface design case studies]({filename}/curriculum/interface.md))
-    - A list of user stories with interface features supporting them (See Interactive Storytelling in [Interface design case studies]({filename}/curriculum/interface.md))
-    - Several paragraphs summarizing your design process, explaining what you were trying to achieve and options you considered for achieving it. 
+
+
+
+
+
