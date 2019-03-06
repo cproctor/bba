@@ -3,7 +3,7 @@ Index: 7.1
 
 So far in the course, we have considered theoretical approaches to the learner, learning, and knowing, and explored theories that help us understand the ways that technology can be used for learning. In this assignment, we ask you to observe a learning technology in practice, and to attend to the context in which it is used. The purpose of this observation is to ground theoretical and design approaches in real experiences. Hopefully this will also advance your thinking about your final project.
 
-Conduct an observation at a school, makerspace, or informal learning environment (library, community center, museum, etc.), and submit a written report of approximately 1500 words. This project can be done individually or in groups of maximum 3 people.
+Conduct an observation at a school, makerspace, or informal learning environment (library, community center, museum, etc.), and submit a written report of approximately 1500 words. This project can be done individually or in pairs.
 
 # Deliverables
 Your report should have the following structure: 
