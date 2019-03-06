@@ -79,11 +79,11 @@ goals. It was created using [Sketch](https://www.sketchapp.com/).
 <img src="{static}/resources/unfold.png" style="width:500px;">
 
 How might computational literacy interact with textual literacy? Using a programming language called Ink, Chris developed a web app 
-for reading and writing interactive fiction.
+for reading and writing interactive fiction called [Unfold Studio](https://unfold.studio).
 
 ## Design process
 
-Three iterations of design-based research are documented in this [IDC Work-in-progress paper]({static}/resources/interactive_fiction.pdf). 
+Three iterations of design-based research are documented in [this just-accepted article](http://chrisproctor.net/publications/proctor_2019_unfold_studio.html).
 
 ## Goals
 For the third iteration of the webapp, Chris adopted a method of user stories to describe how people might interact with the app. 
