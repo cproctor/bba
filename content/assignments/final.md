@@ -5,18 +5,18 @@ The joint project for the two courses is a working prototype of a constructionis
 
 In prior years, BBA was taught on a different schedule, and students were required to write papers suitable for submission to [IDC](http://idc-2018.org/) as a [Demo Paper](http://idc-2018.org/demos-art-installations/). In the last two years, 12 student papers were accepted and presented at IDC. Final projects have also gone on to become commercial products. The following IDC demo papers are excellent examples for your own final project:
 
-- [Domino: Mobile Phones as Accessible Microcontrollers](https://doi.org/10.1145/3202185.3213524)([bib]({static}/resources/biblatex/domino.bib))
-- [ClipWorks: a Tangible Interface for Collaborative Video Editing](https://doi.org/10.1145/3202185.3210758)([bib]({static}/resources/biblatex/clipworks.bib))
-- [Patchwork: an Expressive E-Textile Construction Kit](https://doi.org/10.1145/3202185.3210770)([bib]({static}/resources/biblatex/patchwork.bib))
-- [Tree it: a tangible user interface for constructing the sample space](https://doi.org/10.1145/3202185.3210757)([bib]({static}/resources/biblatex/treeit.bib))
-- [Inside out: teaching empathy and social-emotional skills](https://doi.org/10.1145/3202185.3213525)([bib]({static}/resources/biblatex/insideout.bib))
-- [Tingets: a system for young students to communicate and reflect](https://doi.org/10.1145/3202185.3210759)([bib]({static}/resources/biblatex/tingets.bib))
-- [Manipul8: an interactive experience to inspire pattern-based algebraic thinking and representational fluency](https://doi.org/10.1145/3202185.3210763)([bib]({static}/resources/biblatex/manipul8.bib)
-- [Testudinata: a tangible interface for exploring functional programming](https://doi.org/10.1145/3202185.3210762)([bib]({static}/resources/biblatex/testudinata.bib))
-- [DiMBI: An Interface to Connect People to Math's Big Ideas of Patterns and Relations](https://doi.org/10.1145/3078072.3091989) ([bib]({static}/resources/biblatex/dimbi.bib))
-- [Tuk Tuk: A Block-Based Programming Game](https://doi.org/10.1145/3078072.3091990) ([bib]({static}/resources/biblatex/tuktuk.bib))
-- [The Conference of the Birds: A Collaborative Storytelling Environment for Literacy Development](https://doi.org/10.1145/3078072.3091991) ([bib]({static}/resources/biblatex/conf_birds.bib))
-- [Sonification Blocks: A Block-Based Programming Environment For Embodied Data Sonification](https://doi.org/10.1145/3078072.3091992) ([bib]({static}/resources/biblatex/sonification_blocks.bib))
+- [Domino: Mobile Phones as Accessible Microcontrollers](READINGS_URL/p505-blikstein.pdf)([bib]({static}/resources/biblatex/domino.bib))
+- [ClipWorks: a Tangible Interface for Collaborative Video Editing](READINGS_URL/p497-merz.pdf)([bib]({static}/resources/biblatex/clipworks.bib))
+- [Patchwork: an Expressive E-Textile Construction Kit](READINGS_URL/p529-boone.pdf)([bib]({static}/resources/biblatex/patchwork.bib))
+- [Tree it: a tangible user interface for constructing the sample space](READINGS_URL/p475-xiao.pdf)([bib]({static}/resources/biblatex/treeit.bib))
+- [Inside out: teaching empathy and social-emotional skills](READINGS_URL/p525-kralicek.pdf)([bib]({static}/resources/biblatex/insideout.bib))
+- [Tingets: a system for young students to communicate and reflect](READINGS_URL/p480-vainer.pdf)([bib]({static}/resources/biblatex/tingets.bib))
+- [Manipul8: an interactive experience to inspire pattern-based algebraic thinking and representational fluency](READINGS_URL/p501-boles.pdf)([bib]({static}/resources/biblatex/manipul8.bib)
+- [Testudinata: a tangible interface for exploring functional programming](READINGS_URL/p493-mongkhonvanit.pdf)([bib]({static}/resources/biblatex/testudinata.bib))
+- [DiMBI: An Interface to Connect People to Math's Big Ideas of Patterns and Relations](READINGS_URL/p721-saavedra.pdf) ([bib]({static}/resources/biblatex/dimbi.bib))
+- [Tuk Tuk: A Block-Based Programming Game](READINGS_URL/p725-koracharkornradt.pdf) ([bib]({static}/resources/biblatex/tuktuk.bib))
+- [The Conference of the Birds: A Collaborative Storytelling Environment for Literacy Development](READINGS_URL/p729-campos.pdf) ([bib]({static}/resources/biblatex/conf_birds.bib))
+- [Sonification Blocks: A Block-Based Programming Environment For Embodied Data Sonification](READINGS_URL/p733-atherton.pdf) ([bib]({static}/resources/biblatex/sonification_blocks.bib))
 
 Sometimes course projects go on to become more substantial research projects. If you are interested in inviting a BB&amp;A teacher to collaborate as a co-author, we can support your revision process after the class ends to avoid any conflict of interest. 
 
