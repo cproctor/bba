@@ -38,9 +38,11 @@ Yipu Zheng is a master's student in Learning Analytics at Teachers College, Colu
     </div>
 </div>
 <div class="profile">
+    <img class="profile-picture" src="{static}/images/profiles/isa.jpg">
     <div class="profile-text">
         <h3>Isa Correa</h3>
         <p>
+<a href="https://www.mariaisabelcorrea.com/">Isa</a> is a designer and a doctoral student in Learning Media and Technology at Teachers College, Columbia University. She studies how creativity and learning unfold when people engage in projects they care about. Her creative work explores the integration of nature with technology, science, art, and design. Her current research The Human Nature Project aims to engage diverse audiences in bio-making and critical design to envision technologies that re-think humans’ relationship with nature. If she is not making something in the lab, you can probably find her at Riverside Park, exploring around with two wild creatures.
         </p>
     </div>
 </div>
