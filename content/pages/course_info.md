@@ -33,7 +33,7 @@ In the lab, students are immersed in a constructionist learning environment wher
     <div class="profile-text">
         <h3>Yipu Zheng</h3>
         <p>
-Yipu Zheng is a master's student in Learning Analytics at Teachers College, Columbia University. Her research interest focuses on capturing, assessing and facilitating learners’ attempts in problem-finding and creative problem-solving processes utilizing multi-modal data analytics methods. Before joining Teachers College, she earned her B.S. degree in Mechanical Engineering from the University of California, Berkeley. Hoping to empower young learners to raise and address novel and personally-meaningful problems, she co-founded a makerspace, which has collaborated with more than 15 schools and local communities to develop creative problem-solving after-school programs, hands-on workshops, and making kits for K-8 students in Shenzhen, China.
+Yipu Zheng is a doctoral student in the Instructional Technology & Media program at Teachers College (TC), Columbia University. Her research interest focuses on capturing, assessing and facilitating learners’ problem-finding and creative problem-solving processes using multi-modal data analytics methods. Before joining TLTL, she earned her B.S. degree in Mechanical Engineering from the University of California, Berkeley and her M.S. degree in Learning Analytics from TC. Aiming to empower young learners in local communities to raise and address novel and personally-meaningful inquiries, she has initiated an annual event, Global Create Summit, and co-founded a makerspace, which has collaborated with more than 15 schools and local groups to deliver creative problem-solving after-school programs, hands-on workshops, and making kits for K-8 students in Shenzhen, China.
         </p>
     </div>
 </div>
@@ -72,7 +72,7 @@ Yipu Zheng is a master's student in Learning Analytics at Teachers College, Colu
     <div class="profile-text">
         <h3>Jonathan Pang</h3>
         <p>
-Jonathan is the acting lab manager for the Transformative Learning Technologies Lab and a program manager with FabLearn. Apart from extinguishing (and starting) laser cutter fires, he works with K-12 teachers and school administrators as they implement constructionism in their classrooms. After taking BBA his junior year, Jonathan made the Stanford TLTL his second home while pursuing his bachelor's and master's in mechanical engineering (and TA'ing BBA a couple times). He's excited to continue supporting BBA and eager to see what you all make in the lab!
+Jonathan is the acting lab manager for the Transformative Learning Technologies Lab and a program manager with FabLearn. Apart from extinguishing (and starting) laser cutter fires, he works with K-12 teachers and school administrators as they implement constructionism in their classrooms. After taking BBA during his undergraduate studies, Jonathan made the Stanford TLTL his second home while pursuing his bachelor's and master's in mechanical engineering (and TA'ing BBA a couple times). He's excited to continue supporting BBA and eager to see what you all make in the lab!
         </p>
     </div>
 </div>
