@@ -2,7 +2,7 @@ Title: Course info
 Date: 2017-12-15
 Banner: images/rube_goldberg_2018.jpg
 
-Beyond Bits & Atoms teaches students to design, build, and critique constructionist educational technologies. BB&A consists of a theory-oriented class (MSTU 5199 001) and a practice-focused lab (MSTU 5199 002); students are required to enroll in both. The theory class is focused on answering three questions:
+Beyond Bits & Atoms teaches students to design, build, and critique constructionist educational technologies. BB&A consists of a theory-oriented class (MSTU 5199) and a practice-focused lab (MSTU 5197); students are required to enroll in both. The theory class is focused on answering three questions:
 
 - How does learning work?
 - How does schooling work?
@@ -12,6 +12,7 @@ Students explore constructivism, constructionism, and critical pedagogy, as well
 
 In the lab, students are immersed in a constructionist learning environment where they reflect on their own learning processes as they learn to use technologies for prototyping and digital fabrication. Students use these tools to design nand build a constructionist educational technology.
 
+Lecture (MSTU 5199) takes place in Grace Dodge Hall 361; lab (MSTU 5197) takes place in Thompson Hall 322I
 ---
 # Teaching team
 
