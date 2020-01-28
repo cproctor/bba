@@ -12,7 +12,8 @@ Students explore constructivism, constructionism, and critical pedagogy, as well
 
 In the lab, students are immersed in a constructionist learning environment where they reflect on their own learning processes as they learn to use technologies for prototyping and digital fabrication. Students use these tools to design nand build a constructionist educational technology.
 
-Lecture (MSTU 5199) takes place in Grace Dodge Hall 361; lab (MSTU 5197) takes place in Thompson Hall 322I
+Lecture (MSTU 5199) takes place in Grace Dodge Hall 361; lab (MSTU 5197) takes place in Thompson Hall 322I.
+
 ---
 # Teaching team
 
