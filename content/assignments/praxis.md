@@ -1,4 +1,4 @@
-Title: Praxis reflection
+Title: Praxis reflection essay
 Index: 3.1
 
 Write a close analysis of an experience you have had in the lab so far in this class, using constructivism, sociocultural learning theory, and/or constructionism as lenses for interpreting the experience. Positioning yourself as a learner, describe the context of the experience, potentially including the space, tools, people, and other resources you were working with. Also describe your first-hand experience, potentially including the memories, past experiences, skills, ideas, relationships, emotions, and identities that were involved. 
