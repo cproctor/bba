@@ -63,9 +63,11 @@ Yipu Zheng is a doctoral student in the Instructional Technology & Media program
     </div>
 </div>
 <div class="profile">
+    <img class="profile-picture" src="{static}/images/profiles/shuangting.jpg">
     <div class="profile-text">
         <h3>Shuangting Yao</h3>
         <p>
+        Shuangting recently graduated from the MA Instructional Technology & Media program at Teachers College. During her study, she designed a digital game for autistic children learning facial expression and an AR immersive environment for young children’s spatial reasoning and so forth. She received a bachelor’s degree in Communication from the University of Macau and had multiple professional experiences in public relations, journalism, and online education. Now, she is exploring cybernetics theories and making as prompts that spark students’ creativity and awareness of social activism. She loves resin art, hamsters, and succulent plants.
         </p>
     </div>
 </div>
