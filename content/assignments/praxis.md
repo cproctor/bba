@@ -9,7 +9,7 @@ We will work with these reflections in lecture during Week 4, in preparation for
 
 ## Deliverables
 
-This reflection should be posted to your lab journal by Monday, February 11. It should be approximately 500 words, thoughtful and specific but not necessarily formal. You should include quotations from this week's readings as part of your analysis. Multimedia is welcome but not required. While you are certainly welcome to post other content to your lab journal, this assignment satisfies the requirement for this week.
+This reflection should be posted to your lab journal by Monday, February 10. It should be approximately 500 words, thoughtful and specific but not necessarily formal. You should include quotations from this week's readings as part of your analysis. Multimedia is welcome but not required. While you are certainly welcome to post other content to your lab journal, this assignment satisfies the requirement for this week.
 
 ## Assessment
 
