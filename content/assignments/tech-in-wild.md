@@ -3,7 +3,11 @@ Index: 7.1
 
 So far in the course, we have considered theoretical approaches to the learner, learning, and knowing, and explored theories that help us understand the ways that technology can be used for learning. In this assignment, we ask you to observe a learning technology in practice, and to attend to the context in which it is used. The purpose of this observation is to ground theoretical and design approaches in real experiences. Hopefully this will also advance your thinking about your final project.
 
-Conduct an observation at a school, makerspace, or informal learning environment (library, community center, museum, etc.), and submit a written report of approximately 1500 words. This project can be done individually or in pairs.
+Conduct an observation at a school, makerspace, or informal learning environment (library, community center, museum, etc.). For your choice, think of an environment, space, or technology that seems appealing to you in some way, and that might be the environment of your final project. You can still change your final project topic later, but we would like your observation to be as close as possible to your interests and to your possible final project. To start thinking about final project ideas, you should consider if a given idea is a good fit to this class. There are many worthwhile ideas and projects that might simply not be a good final project idea. For that reflection, you could go back to the Problem Statement / Needfinding assignment and the discussion we had in class.
+
+Note that the "Interface Design" assignment will be connected to "Tech in the Wild" -- you will be asked to redesign one aspect of the learning space/technology/environment you picked.
+
+For this assignment, submit a written report of approximately 1500 words. This project can be done individually or in pairs.
 
 # Deliverables
 Your report should have the following structure: 
