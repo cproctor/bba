@@ -1,9 +1,12 @@
 Title: Transition plan for BBA 2020
 Index: -5
 
-Zoom link for class meetings: [https://teacherscollege.zoom.us/my/pauloblikstein](https://teacherscollege.zoom.us/my/pauloblikstein)
+**Mid-semester survey**
+[Mid-semester feedback survey - Google Form](https://docs.google.com/forms/d/e/1FAIpQLScMIgFdyMc4vl2diSdujuphDhkHVfluoc1IJEkC5FFj6gXJ5g/viewform)
 
-Online office hours: Check the [BBA calendar](http://beyondbitsandatoms.org/pages/office-hours.html) for Zoom links.
+**Zoom link for class meetings:** [https://teacherscollege.zoom.us/my/pauloblikstein](https://teacherscollege.zoom.us/my/pauloblikstein)
+
+**Online office hours:** Check the [BBA calendar](http://beyondbitsandatoms.org/pages/office-hours.html) for Zoom links.
 
 
 **Letter from Paulo**
