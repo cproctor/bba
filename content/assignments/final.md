@@ -18,17 +18,20 @@ In prior years, BBA was taught on a different schedule, and students were requir
 - [The Conference of the Birds: A Collaborative Storytelling Environment for Literacy Development](READINGS_URL/p729-campos.pdf) ([bib]({static}/resources/biblatex/conf_birds.bib))
 - [Sonification Blocks: A Block-Based Programming Environment For Embodied Data Sonification](READINGS_URL/p733-atherton.pdf) ([bib]({static}/resources/biblatex/sonification_blocks.bib))
 
-Sometimes course projects go on to become more substantial research projects. If you are interested in inviting a BB&amp;A teacher to collaborate as a co-author, we can support your revision process after the class ends to avoid any conflict of interest. 
+Sometimes course projects go on to become more substantial research projects. If you are interested in inviting a BB&amp;A teacher to collaborate as a co-author, we can support your revision process after the class ends to avoid any conflict of interest.
 
 # Timeline
 
-- ** Week 8 (March 13) ** Introduce final projects. Brainstorm ideas. 
-- ** Week 9 (March 27) ** Final project 
-- ** Week 10 (April 3) ** Critiques: Outside experts critique project prototypes
-- ** Week 11 (April 10) ** Literature review and user testing due
-- ** Week 12 (April 17) ** Final paper draft due
-- ** Week 15 (May 8) ** Final paper presentations (lecture) and [BB&A Expo]({filename}/logistics/expo.md) (lab)
+- ** Week 8 (March 11) ** Introduce final projects. Brainstorm ideas.
+- ** Week 10 (April 1) ** Final project brainstorming
+- ** Week 12 (April 15) ** Critiques: Outside experts critique project prototypes and concepts
+- ** Week 13 - 14 ** Intermediate checkpoints: literature review, user testing*, final paper draft
+- ** Week 15 (May 06) ** Final paper presentations (lecture) and [BB&A Expo]({filename}/logistics/expo.md) (lab)
 
+<!---
+- ** Week 11 (April 10) ** Literature review and user testing due
+- ** Week 14 (April 29) ** Final paper draft due
+--->
 # Support
 
 This is a lot of work, but we will support you along the way. In addition to class work time and office hours, your group will be having regular 1-on-1 meetings with members of the teaching team.
