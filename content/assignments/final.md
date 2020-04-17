@@ -22,13 +22,21 @@ Sometimes course projects go on to become more substantial research projects. If
 
 # Timeline
 
+- **Week 8 (March 11)** Introduce final projects. Brainstorm ideas.
+- **Week 10 (April 1)** Final project brainstorming
+- **Week 12 (April 15)** Critiques: Outside experts critique project prototypes and concepts
+- **Week 13 (April 22)** Initial prototype + List of 5 papers for the Literature review
+- **Week 14 (April 29)** Second prototype + Literature review
+- **Week 15 (May 06)** Final paper presentations (lecture) and BB&A Expo (lab)
+
+<!---
+old
 - ** Week 8 (March 11) ** Introduce final projects. Brainstorm ideas.
 - ** Week 10 (April 1) ** Final project brainstorming
 - ** Week 12 (April 15) ** Critiques: Outside experts critique project prototypes and concepts
 - ** Week 13 - 14 ** Intermediate checkpoints: literature review, user testing*, final paper draft
 - ** Week 15 (May 06) ** Final paper presentations (lecture) and [BB&A Expo]({filename}/logistics/expo.md) (lab)
-
-<!---
+older
 - ** Week 11 (April 10) ** Literature review and user testing due
 - ** Week 14 (April 29) ** Final paper draft due
 --->
