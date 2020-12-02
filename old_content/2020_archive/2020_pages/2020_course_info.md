@@ -1,5 +1,5 @@
 Title: Course info
-Date: 2020-12-01
+Date: 2017-12-15
 Banner: images/rube_goldberg_2018.jpg
 
 Beyond Bits & Atoms teaches students to design, build, and critique constructionist educational technologies. BB&A consists of a theory-oriented class (MSTU 5199) and a practice-focused lab (MSTU 5197); students are required to enroll in both. The theory class is focused on answering three questions:
@@ -10,7 +10,9 @@ Beyond Bits & Atoms teaches students to design, build, and critique construction
 
 Students explore constructivism, constructionism, and critical pedagogy, as well as embodied and situated cognition, the role of media and tools, representations and models in learning, and theories of technology design. These ideas are applied to case studies of schools and educational technologies, and to the design of a new educational technology.
 
-In the lab, students are immersed in a constructionist learning environment where they reflect on their own learning processes as they learn to use technologies for prototyping and digital fabrication. Students use these tools to design and build a constructionist educational technology.
+In the lab, students are immersed in a constructionist learning environment where they reflect on their own learning processes as they learn to use technologies for prototyping and digital fabrication. Students use these tools to design nand build a constructionist educational technology.
+
+Lecture (MSTU 5199) takes place in Grace Dodge Hall 361; lab (MSTU 5197) takes place in Thompson Hall 322I.
 
 ---
 # Teaching team
@@ -43,6 +45,29 @@ Yipu Zheng is a doctoral student in the Instructional Technology & Media program
         <h3>Isa Correa</h3>
         <p>
 <a href="https://www.mariaisabelcorrea.com/">Isa</a> is a designer and a doctoral student in Learning Media and Technology at Teachers College, Columbia University. She studies how creativity and learning unfold when people engage in projects they care about. Her creative work explores the integration of nature with technology, science, art, and design. Her current research The Human Nature Project aims to engage diverse audiences in bio-making and critical design to envision technologies that re-think humans’ relationship with nature. If she is not making something in the lab, you can probably find her at Riverside Park, exploring around with two wild creatures.
+        </p>
+    </div>
+</div>
+<div class="profile">
+    <div class="profile-text">
+        <h3>Paulo Ribeiro</h3>
+        <p>
+        </p>
+    </div>
+</div>
+<div class="profile">
+    <div class="profile-text">
+        <h3>Arjun Krishna</h3>
+        <p>
+        </p>
+    </div>
+</div>
+<div class="profile">
+    <img class="profile-picture" src="{static}/images/profiles/shuangting.jpg">
+    <div class="profile-text">
+        <h3>Shuangting Yao</h3>
+        <p>
+        Shuangting recently graduated from the MA Instructional Technology & Media program at Teachers College. During her study, she designed a digital game for autistic children learning facial expression and an AR immersive environment for young children’s spatial reasoning and so forth. She received a bachelor’s degree in Communication from the University of Macau and had multiple professional experiences in public relations, journalism, and online education. Now, she is exploring cybernetics theories and making as prompts that spark students’ creativity and awareness of social activism. She loves resin art, hamsters, and succulent plants.
         </p>
     </div>
 </div>
