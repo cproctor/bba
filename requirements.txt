@@ -16,7 +16,7 @@ paramiko==2.4.2
 pelican==4.0.1
 pyasn1==0.4.2
 pycparser==2.18
-Pygments==2.2.0
+Pygments==2.7.4
 PyNaCl==1.2.1
 python-dateutil==2.6.1
 pytz==2017.3
